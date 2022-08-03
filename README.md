@@ -5,6 +5,7 @@ pip install -r requirements.txt
 
 ## Model training: 
 -Relevance: Code/Relevance/Relevance_classifier.py
+
 -Multiclass: Code/Multiclass/multi-classifier.py
 
 Weights are stored in Code/saved_weights
