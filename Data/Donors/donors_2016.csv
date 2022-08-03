@@ -1,0 +1,394 @@
+DonorName,country_code,gdp,climate_class_number,climate_class,meta_category,no_projects,effective_funding,climate_funding
+Australia,AUS,1343450000000.0,0,Adaptation,Adaptation,238,175.75557294200001,175.75557294200001
+Australia,AUS,1343450000000.0,1,Solar-energy,Mitigation,9,0.09400869999999992,0.09400869999999992
+Australia,AUS,1343450000000.0,3,Other-mitigation-projects,Mitigation,25,6.45536822,6.45536822
+Australia,AUS,1343450000000.0,4,Biodiversity,Environment,2,1.39816795,0.0
+Australia,AUS,1343450000000.0,6,Nature_conservation,Environment,14,2.5347918499999995,0.0
+Australia,AUS,1343450000000.0,7,Other-environment-projects,Environment,97,48.1104022449,0.0
+Australia,AUS,1343450000000.0,8,Sustainable-land-use,Environment,29,7.2695509199999995,0.0
+Australia,AUS,1343450000000.0,10,Renewables-multiple,Mitigation,27,28.4514723437,28.4514723437
+Australia,AUS,1343450000000.0,11,Hydro-energy,Mitigation,16,14.7358516,14.7358516
+Australia,AUS,1343450000000.0,12,Energy-efficiency,Mitigation,8,4.612059899999999,4.612059899999999
+Austria,AUT,419437000000.0,0,Adaptation,Adaptation,266,56.401401053,56.401401053
+Austria,AUT,419437000000.0,1,Solar-energy,Mitigation,108,14.572032829999998,14.572032829999998
+Austria,AUT,419437000000.0,2,Bioenergy,Mitigation,26,2.31867502,2.31867502
+Austria,AUT,419437000000.0,3,Other-mitigation-projects,Mitigation,69,29.86051141,29.86051141
+Austria,AUT,419437000000.0,4,Biodiversity,Environment,16,1.31548713,0.0
+Austria,AUT,419437000000.0,5,Geothermal-energy,Mitigation,2,0.02601885,0.02601885
+Austria,AUT,419437000000.0,6,Nature_conservation,Environment,39,4.937855412999999,0.0
+Austria,AUT,419437000000.0,7,Other-environment-projects,Environment,110,14.764416894999998,0.0
+Austria,AUT,419437000000.0,8,Sustainable-land-use,Environment,311,33.70661723199999,0.0
+Austria,AUT,419437000000.0,10,Renewables-multiple,Mitigation,159,50.551957197,50.551957197
+Austria,AUT,419437000000.0,11,Hydro-energy,Mitigation,26,8.04492612,8.04492612
+Austria,AUT,419437000000.0,12,Energy-efficiency,Mitigation,28,6.67142439,6.67142439
+Austria,AUT,419437000000.0,13,Wind-energy,Mitigation,7,0.1788108799999999,0.1788108799999999
+Azerbaijan,AZE,45393607318.0,6,Nature_conservation,Environment,1,0.37824,0.0
+Belgium,BEL,502827000000.0,0,Adaptation,Adaptation,142,138.70180283,138.70180283
+Belgium,BEL,502827000000.0,1,Solar-energy,Mitigation,6,0.6667737999999999,0.6667737999999999
+Belgium,BEL,502827000000.0,2,Bioenergy,Mitigation,16,140.3903627,140.3903627
+Belgium,BEL,502827000000.0,3,Other-mitigation-projects,Mitigation,9,2.1326994,2.1326994
+Belgium,BEL,502827000000.0,4,Biodiversity,Environment,30,10.383558602999999,0.0
+Belgium,BEL,502827000000.0,5,Geothermal-energy,Mitigation,2,0.1129109999999999,0.1129109999999999
+Belgium,BEL,502827000000.0,6,Nature_conservation,Environment,44,2.83885062,0.0
+Belgium,BEL,502827000000.0,7,Other-environment-projects,Environment,93,39.90917582,0.0
+Belgium,BEL,502827000000.0,8,Sustainable-land-use,Environment,261,138.40234153,0.0
+Belgium,BEL,502827000000.0,10,Renewables-multiple,Mitigation,18,8.075623366,8.075623366
+Belgium,BEL,502827000000.0,11,Hydro-energy,Mitigation,8,5.914305000000001,5.914305000000001
+Belgium,BEL,502827000000.0,12,Energy-efficiency,Mitigation,6,3.5955988999999997,3.5955988999999997
+Belgium,BEL,502827000000.0,13,Wind-energy,Mitigation,1,0.0,0.0
+Canada,CAN,1637390000000.0,0,Adaptation,Adaptation,2204,477.9715798646996,477.9715798646996
+Canada,CAN,1637390000000.0,1,Solar-energy,Mitigation,49,7.686273389999998,7.686273389999998
+Canada,CAN,1637390000000.0,2,Bioenergy,Mitigation,3,0.054775500000000005,0.054775500000000005
+Canada,CAN,1637390000000.0,3,Other-mitigation-projects,Mitigation,109,228.71623039140002,228.71623039140002
+Canada,CAN,1637390000000.0,4,Biodiversity,Environment,97,5.673631902,0.0
+Canada,CAN,1637390000000.0,6,Nature_conservation,Environment,42,6.2689062,0.0
+Canada,CAN,1637390000000.0,7,Other-environment-projects,Environment,528,58.934306413358,0.0
+Canada,CAN,1637390000000.0,8,Sustainable-land-use,Environment,1309,89.83932548748,0.0
+Canada,CAN,1637390000000.0,10,Renewables-multiple,Mitigation,187,164.4465823419999,164.4465823419999
+Canada,CAN,1637390000000.0,11,Hydro-energy,Mitigation,11,0.20644690000000002,0.20644690000000002
+Canada,CAN,1637390000000.0,12,Energy-efficiency,Mitigation,3,0.758532,0.758532
+Croatia,HRV,55570834593.0,0,Adaptation,Adaptation,4,0.4631082999999998,0.4631082999999998
+Croatia,HRV,55570834593.0,4,Biodiversity,Environment,2,0.026647,0.0
+Croatia,HRV,55570834593.0,6,Nature_conservation,Environment,3,0.0278019999999999,0.0
+Croatia,HRV,55570834593.0,7,Other-environment-projects,Environment,5,0.154217,0.0
+Croatia,HRV,55570834593.0,8,Sustainable-land-use,Environment,1,0.00237,0.0
+Croatia,HRV,55570834593.0,12,Energy-efficiency,Mitigation,2,0.020908,0.020908
+Czech Republic,CZE,217862000000.0,0,Adaptation,Adaptation,45,2.780779989999999,2.780779989999999
+Czech Republic,CZE,217862000000.0,1,Solar-energy,Mitigation,28,1.6701431299999996,1.6701431299999996
+Czech Republic,CZE,217862000000.0,2,Bioenergy,Mitigation,24,1.4526589699999999,1.4526589699999999
+Czech Republic,CZE,217862000000.0,3,Other-mitigation-projects,Mitigation,2,0.0594329,0.0594329
+Czech Republic,CZE,217862000000.0,4,Biodiversity,Environment,11,0.3753325899999998,0.0
+Czech Republic,CZE,217862000000.0,5,Geothermal-energy,Mitigation,10,0.49398997999999994,0.49398997999999994
+Czech Republic,CZE,217862000000.0,6,Nature_conservation,Environment,26,1.2675986499999996,0.0
+Czech Republic,CZE,217862000000.0,7,Other-environment-projects,Environment,77,5.19942629,0.0
+Czech Republic,CZE,217862000000.0,8,Sustainable-land-use,Environment,82,9.864803479999999,0.0
+Czech Republic,CZE,217862000000.0,10,Renewables-multiple,Mitigation,4,0.04115436,0.04115436
+Czech Republic,CZE,217862000000.0,11,Hydro-energy,Mitigation,12,0.6654243599999996,0.6654243599999996
+Czech Republic,CZE,217862000000.0,12,Energy-efficiency,Mitigation,10,0.1690677199999998,0.1690677199999998
+Czech Republic,CZE,217862000000.0,13,Wind-energy,Mitigation,1,0.0346571999999999,0.0346571999999999
+Denmark,DNK,329792000000.0,0,Adaptation,Adaptation,136,142.1188793608,142.1188793608
+Denmark,DNK,329792000000.0,1,Solar-energy,Mitigation,6,4.22602933,4.22602933
+Denmark,DNK,329792000000.0,2,Bioenergy,Mitigation,5,0.5118186999999998,0.5118186999999998
+Denmark,DNK,329792000000.0,3,Other-mitigation-projects,Mitigation,62,28.32100665,28.32100665
+Denmark,DNK,329792000000.0,4,Biodiversity,Environment,5,2.0430515999999996,0.0
+Denmark,DNK,329792000000.0,6,Nature_conservation,Environment,24,6.962943330000001,0.0
+Denmark,DNK,329792000000.0,7,Other-environment-projects,Environment,87,32.456299209,0.0
+Denmark,DNK,329792000000.0,8,Sustainable-land-use,Environment,87,114.65635629177999,0.0
+Denmark,DNK,329792000000.0,10,Renewables-multiple,Mitigation,75,65.03183899999999,65.03183899999999
+Denmark,DNK,329792000000.0,11,Hydro-energy,Mitigation,1,0.0,0.0
+Denmark,DNK,329792000000.0,12,Energy-efficiency,Mitigation,35,18.207954330000003,18.207954330000003
+Denmark,DNK,329792000000.0,13,Wind-energy,Mitigation,37,98.23989202000001,98.23989202000001
+Estonia,EST,27207705195.0,0,Adaptation,Adaptation,7,0.3185591699999999,0.3185591699999999
+Estonia,EST,27207705195.0,3,Other-mitigation-projects,Mitigation,3,1.272999,1.272999
+Estonia,EST,27207705195.0,4,Biodiversity,Environment,5,0.1070328899999999,0.0
+Estonia,EST,27207705195.0,6,Nature_conservation,Environment,9,0.110961965,0.0
+Estonia,EST,27207705195.0,7,Other-environment-projects,Environment,27,0.5852779999999997,0.0
+Estonia,EST,27207705195.0,8,Sustainable-land-use,Environment,13,0.27124046,0.0
+Estonia,EST,27207705195.0,10,Renewables-multiple,Mitigation,4,0.0430122599999999,0.0430122599999999
+Estonia,EST,27207705195.0,12,Energy-efficiency,Mitigation,6,0.2253065999999999,0.2253065999999999
+Finland,FIN,254965000000.0,0,Adaptation,Adaptation,343,45.45331140899999,45.45331140899999
+Finland,FIN,254965000000.0,1,Solar-energy,Mitigation,59,1.5461128809999996,1.5461128809999996
+Finland,FIN,254965000000.0,2,Bioenergy,Mitigation,18,1.4799811959999998,1.4799811959999998
+Finland,FIN,254965000000.0,3,Other-mitigation-projects,Mitigation,21,133.67879402,133.67879402
+Finland,FIN,254965000000.0,4,Biodiversity,Environment,109,7.0034526847,0.0
+Finland,FIN,254965000000.0,6,Nature_conservation,Environment,112,3.031730861999999,0.0
+Finland,FIN,254965000000.0,7,Other-environment-projects,Environment,218,20.552518453099996,0.0
+Finland,FIN,254965000000.0,8,Sustainable-land-use,Environment,257,100.97115368899999,0.0
+Finland,FIN,254965000000.0,10,Renewables-multiple,Mitigation,31,24.7087927,24.7087927
+Finland,FIN,254965000000.0,11,Hydro-energy,Mitigation,26,10.1089115,10.1089115
+Finland,FIN,254965000000.0,12,Energy-efficiency,Mitigation,9,0.5533827999999998,0.5533827999999998
+Finland,FIN,254965000000.0,13,Wind-energy,Mitigation,13,10.69218677,10.69218677
+France,FRA,2601610000000.0,0,Adaptation,Adaptation,390,1065.4378633759998,1065.4378633759998
+France,FRA,2601610000000.0,1,Solar-energy,Mitigation,202,249.40089769099998,249.40089769099998
+France,FRA,2601610000000.0,2,Bioenergy,Mitigation,39,27.42907194,27.42907194
+France,FRA,2601610000000.0,3,Other-mitigation-projects,Mitigation,88,134.6252740071944,134.6252740071944
+France,FRA,2601610000000.0,4,Biodiversity,Environment,195,71.489488244,0.0
+France,FRA,2601610000000.0,5,Geothermal-energy,Mitigation,33,7.178282848,7.178282848
+France,FRA,2601610000000.0,6,Nature_conservation,Environment,311,281.774471412,0.0
+France,FRA,2601610000000.0,7,Other-environment-projects,Environment,1131,333.8090408819996,0.0
+France,FRA,2601610000000.0,8,Sustainable-land-use,Environment,634,990.0734864103998,0.0
+France,FRA,2601610000000.0,9,Marine-energy,Mitigation,2,0.0123139,0.0123139
+France,FRA,2601610000000.0,10,Renewables-multiple,Mitigation,241,1140.90596686,1140.90596686
+France,FRA,2601610000000.0,11,Hydro-energy,Mitigation,114,178.41752615000001,178.41752615000001
+France,FRA,2601610000000.0,12,Energy-efficiency,Mitigation,231,840.4751109169999,840.4751109169999
+France,FRA,2601610000000.0,13,Wind-energy,Mitigation,26,79.21589737000001,79.21589737000001
+Germany,DEU,3657660000000.0,0,Adaptation,Adaptation,3238,2630.1443839499984,2630.1443839499984
+Germany,DEU,3657660000000.0,1,Solar-energy,Mitigation,435,962.8029939700001,962.8029939700001
+Germany,DEU,3657660000000.0,2,Bioenergy,Mitigation,390,62.66918259,62.66918259
+Germany,DEU,3657660000000.0,3,Other-mitigation-projects,Mitigation,869,1308.2082562599999,1308.2082562599999
+Germany,DEU,3657660000000.0,4,Biodiversity,Environment,817,704.5021387700001,0.0
+Germany,DEU,3657660000000.0,5,Geothermal-energy,Mitigation,74,75.42635156999998,75.42635156999998
+Germany,DEU,3657660000000.0,6,Nature_conservation,Environment,623,697.83732994,0.0
+Germany,DEU,3657660000000.0,7,Other-environment-projects,Environment,1934,1735.1273728300005,0.0
+Germany,DEU,3657660000000.0,8,Sustainable-land-use,Environment,3570,1879.2072090600007,0.0
+Germany,DEU,3657660000000.0,9,Marine-energy,Mitigation,1,0.0270144,0.0270144
+Germany,DEU,3657660000000.0,10,Renewables-multiple,Mitigation,1114,3301.9448785100003,3301.9448785100003
+Germany,DEU,3657660000000.0,11,Hydro-energy,Mitigation,208,368.37379737,368.37379737
+Germany,DEU,3657660000000.0,12,Energy-efficiency,Mitigation,738,1209.4496487499996,1209.4496487499996
+Germany,DEU,3657660000000.0,13,Wind-energy,Mitigation,113,264.06803267,264.06803267
+Greece,GRC,204678000000.0,6,Nature_conservation,Environment,7,0.49201298999999993,0.0
+Greece,GRC,204678000000.0,7,Other-environment-projects,Environment,53,2.257006230999999,0.0
+Greece,GRC,204678000000.0,8,Sustainable-land-use,Environment,1,0.0676361,0.0
+Hungary,HUN,142480000000.0,0,Adaptation,Adaptation,12,0.35135060699999965,0.35135060699999965
+Hungary,HUN,142480000000.0,1,Solar-energy,Mitigation,2,0.0014711019999999,0.0014711019999999
+Hungary,HUN,142480000000.0,3,Other-mitigation-projects,Mitigation,6,1.1218471499999996,1.1218471499999996
+Hungary,HUN,142480000000.0,4,Biodiversity,Environment,2,0.0407345,0.0
+Hungary,HUN,142480000000.0,6,Nature_conservation,Environment,6,0.17068265999999999,0.0
+Hungary,HUN,142480000000.0,7,Other-environment-projects,Environment,8,0.29605895,0.0
+Hungary,HUN,142480000000.0,8,Sustainable-land-use,Environment,17,0.6403086839999997,0.0
+Hungary,HUN,142480000000.0,10,Renewables-multiple,Mitigation,2,0.5004743989999999,0.5004743989999999
+Hungary,HUN,142480000000.0,11,Hydro-energy,Mitigation,2,0.0990017,0.0990017
+Hungary,HUN,142480000000.0,12,Energy-efficiency,Mitigation,2,0.103878578,0.103878578
+Iceland,ISL,22484254300.0,0,Adaptation,Adaptation,21,2.037466069999999,2.037466069999999
+Iceland,ISL,22484254300.0,5,Geothermal-energy,Mitigation,34,17.047724999999996,17.047724999999996
+Iceland,ISL,22484254300.0,6,Nature_conservation,Environment,1,1.15369,0.0
+Iceland,ISL,22484254300.0,7,Other-environment-projects,Environment,6,3.5550921999999994,0.0
+Iceland,ISL,22484254300.0,8,Sustainable-land-use,Environment,12,3.1316163999999995,0.0
+Iceland,ISL,22484254300.0,10,Renewables-multiple,Mitigation,11,1.4909572499999997,1.4909572499999997
+Iceland,ISL,22484254300.0,12,Energy-efficiency,Mitigation,1,0.499081,0.499081
+Ireland,IRL,339812000000.0,0,Adaptation,Adaptation,181,57.710916229999995,57.710916229999995
+Ireland,IRL,339812000000.0,1,Solar-energy,Mitigation,20,5.964429374999999,5.964429374999999
+Ireland,IRL,339812000000.0,3,Other-mitigation-projects,Mitigation,7,0.76395213,0.76395213
+Ireland,IRL,339812000000.0,4,Biodiversity,Environment,2,0.1069605,0.0
+Ireland,IRL,339812000000.0,6,Nature_conservation,Environment,6,1.4352757569999999,0.0
+Ireland,IRL,339812000000.0,7,Other-environment-projects,Environment,58,5.685565802999999,0.0
+Ireland,IRL,339812000000.0,8,Sustainable-land-use,Environment,76,10.18511987,0.0
+Ireland,IRL,339812000000.0,10,Renewables-multiple,Mitigation,6,0.19186599999999998,0.19186599999999998
+Ireland,IRL,339812000000.0,11,Hydro-energy,Mitigation,1,0.0674982,0.0674982
+Ireland,IRL,339812000000.0,12,Energy-efficiency,Mitigation,3,0.0895547999999998,0.0895547999999998
+Italy,ITA,1952100000000.0,0,Adaptation,Adaptation,359,161.43335077270004,161.43335077270004
+Italy,ITA,1952100000000.0,1,Solar-energy,Mitigation,278,17.469758061999997,17.469758061999997
+Italy,ITA,1952100000000.0,2,Bioenergy,Mitigation,22,1.5498650500000002,1.5498650500000002
+Italy,ITA,1952100000000.0,3,Other-mitigation-projects,Mitigation,60,11.272364650000002,11.272364650000002
+Italy,ITA,1952100000000.0,4,Biodiversity,Environment,65,7.41758286,0.0
+Italy,ITA,1952100000000.0,5,Geothermal-energy,Mitigation,10,6.062694322400001,6.062694322400001
+Italy,ITA,1952100000000.0,6,Nature_conservation,Environment,152,27.773336002999997,0.0
+Italy,ITA,1952100000000.0,7,Other-environment-projects,Environment,423,81.77453759799998,0.0
+Italy,ITA,1952100000000.0,8,Sustainable-land-use,Environment,513,61.33320769399999,0.0
+Italy,ITA,1952100000000.0,10,Renewables-multiple,Mitigation,187,57.61940067799999,57.61940067799999
+Italy,ITA,1952100000000.0,11,Hydro-energy,Mitigation,32,0.1509934,0.1509934
+Italy,ITA,1952100000000.0,12,Energy-efficiency,Mitigation,16,3.0917776999999997,3.0917776999999997
+Italy,ITA,1952100000000.0,13,Wind-energy,Mitigation,2,0.03752187,0.03752187
+Japan,JPN,4843090000000.0,0,Adaptation,Adaptation,283,666.4104277,666.4104277
+Japan,JPN,4843090000000.0,1,Solar-energy,Mitigation,84,61.994031,61.994031
+Japan,JPN,4843090000000.0,2,Bioenergy,Mitigation,6,1.0249097999999999,1.0249097999999999
+Japan,JPN,4843090000000.0,3,Other-mitigation-projects,Mitigation,18,18.632918,18.632918
+Japan,JPN,4843090000000.0,4,Biodiversity,Environment,31,111.9452907,0.0
+Japan,JPN,4843090000000.0,5,Geothermal-energy,Mitigation,83,469.2197418,469.2197418
+Japan,JPN,4843090000000.0,6,Nature_conservation,Environment,181,107.0674796,0.0
+Japan,JPN,4843090000000.0,7,Other-environment-projects,Environment,492,1926.7552468400004,0.0
+Japan,JPN,4843090000000.0,8,Sustainable-land-use,Environment,101,173.97593410000002,0.0
+Japan,JPN,4843090000000.0,10,Renewables-multiple,Mitigation,38,229.925987,229.925987
+Japan,JPN,4843090000000.0,11,Hydro-energy,Mitigation,347,419.0579199,419.0579199
+Japan,JPN,4843090000000.0,12,Energy-efficiency,Mitigation,60,243.18921699999999,243.18921699999999
+Japan,JPN,4843090000000.0,13,Wind-energy,Mitigation,23,260.282826,260.282826
+Kazakhstan,KAZ,169595000000.0,0,Adaptation,Adaptation,2,0.534177,0.534177
+Kazakhstan,KAZ,169595000000.0,6,Nature_conservation,Environment,14,2.1037601499999994,0.0
+Korea,KOR,1590550000000.0,0,Adaptation,Adaptation,480,112.95307699999998,112.95307699999998
+Korea,KOR,1590550000000.0,1,Solar-energy,Mitigation,99,68.90336,68.90336
+Korea,KOR,1590550000000.0,2,Bioenergy,Mitigation,10,1.3853874,1.3853874
+Korea,KOR,1590550000000.0,3,Other-mitigation-projects,Mitigation,49,7.5534700000000035,7.5534700000000035
+Korea,KOR,1590550000000.0,4,Biodiversity,Environment,1,0.124524,0.0
+Korea,KOR,1590550000000.0,5,Geothermal-energy,Mitigation,4,6.45238,6.45238
+Korea,KOR,1590550000000.0,6,Nature_conservation,Environment,82,41.418611000000006,0.0
+Korea,KOR,1590550000000.0,7,Other-environment-projects,Environment,467,93.05245299999996,0.0
+Korea,KOR,1590550000000.0,8,Sustainable-land-use,Environment,351,84.50378799999999,0.0
+Korea,KOR,1590550000000.0,10,Renewables-multiple,Mitigation,107,68.22394700000001,68.22394700000001
+Korea,KOR,1590550000000.0,11,Hydro-energy,Mitigation,36,35.401136,35.401136
+Korea,KOR,1590550000000.0,12,Energy-efficiency,Mitigation,32,90.68350699999999,90.68350699999999
+Kuwait,KWT,124020000000.0,0,Adaptation,Adaptation,5,0.3022289999999999,0.3022289999999999
+Kuwait,KWT,124020000000.0,1,Solar-energy,Mitigation,2,0.0815634,0.0815634
+Kuwait,KWT,124020000000.0,2,Bioenergy,Mitigation,1,0.0700512,0.0700512
+Kuwait,KWT,124020000000.0,6,Nature_conservation,Environment,11,0.457705,0.0
+Kuwait,KWT,124020000000.0,7,Other-environment-projects,Environment,1,0.0,0.0
+Kuwait,KWT,124020000000.0,8,Sustainable-land-use,Environment,3,0.0982034,0.0
+Kuwait,KWT,124020000000.0,11,Hydro-energy,Mitigation,45,30.0872361,30.0872361
+Kuwait,KWT,124020000000.0,12,Energy-efficiency,Mitigation,1,53.506,53.506
+Latvia,LVA,30705648646.0,3,Other-mitigation-projects,Mitigation,1,0.00368297,0.00368297
+Latvia,LVA,30705648646.0,7,Other-environment-projects,Environment,6,0.09296755,0.0
+Latvia,LVA,30705648646.0,8,Sustainable-land-use,Environment,7,0.02386063,0.0
+Lithuania,LTU,47967952561.0,0,Adaptation,Adaptation,6,0.576217414,0.576217414
+Lithuania,LTU,47967952561.0,1,Solar-energy,Mitigation,8,0.74884149,0.74884149
+Lithuania,LTU,47967952561.0,4,Biodiversity,Environment,6,0.0456318,0.0
+Lithuania,LTU,47967952561.0,6,Nature_conservation,Environment,5,0.0468063769999999,0.0
+Lithuania,LTU,47967952561.0,7,Other-environment-projects,Environment,32,0.1651795873999996,0.0
+Lithuania,LTU,47967952561.0,8,Sustainable-land-use,Environment,21,0.2173052784999995,0.0
+Lithuania,LTU,47967952561.0,10,Renewables-multiple,Mitigation,8,0.4449614739999996,0.4449614739999996
+Lithuania,LTU,47967952561.0,11,Hydro-energy,Mitigation,1,0.00651222,0.00651222
+Lithuania,LTU,47967952561.0,12,Energy-efficiency,Mitigation,3,0.0674123999999999,0.0674123999999999
+Luxembourg,LUX,64928552649.0,0,Adaptation,Adaptation,46,10.4665805,10.4665805
+Luxembourg,LUX,64928552649.0,1,Solar-energy,Mitigation,4,0.1734244999999999,0.1734244999999999
+Luxembourg,LUX,64928552649.0,2,Bioenergy,Mitigation,2,0.00813999,0.00813999
+Luxembourg,LUX,64928552649.0,3,Other-mitigation-projects,Mitigation,7,0.2249907,0.2249907
+Luxembourg,LUX,64928552649.0,4,Biodiversity,Environment,2,0.0660991,0.0
+Luxembourg,LUX,64928552649.0,6,Nature_conservation,Environment,27,2.6311695299999998,0.0
+Luxembourg,LUX,64928552649.0,7,Other-environment-projects,Environment,16,0.9558136099999996,0.0
+Luxembourg,LUX,64928552649.0,8,Sustainable-land-use,Environment,168,47.58082644699999,0.0
+Luxembourg,LUX,64928552649.0,10,Renewables-multiple,Mitigation,17,5.343285400000001,5.343285400000001
+Luxembourg,LUX,64928552649.0,13,Wind-energy,Mitigation,3,0.04013878,0.04013878
+Netherlands,NLD,841168000000.0,0,Adaptation,Adaptation,98,157.95214858999998,157.95214858999998
+Netherlands,NLD,841168000000.0,1,Solar-energy,Mitigation,13,22.040200650000003,22.040200650000003
+Netherlands,NLD,841168000000.0,2,Bioenergy,Mitigation,7,20.372985,20.372985
+Netherlands,NLD,841168000000.0,3,Other-mitigation-projects,Mitigation,18,35.739101000000005,35.739101000000005
+Netherlands,NLD,841168000000.0,4,Biodiversity,Environment,2,0.517633,0.0
+Netherlands,NLD,841168000000.0,5,Geothermal-energy,Mitigation,2,2.2309710000000003,2.2309710000000003
+Netherlands,NLD,841168000000.0,6,Nature_conservation,Environment,20,17.48301755,0.0
+Netherlands,NLD,841168000000.0,7,Other-environment-projects,Environment,23,19.47412473,0.0
+Netherlands,NLD,841168000000.0,8,Sustainable-land-use,Environment,129,373.79475397000004,0.0
+Netherlands,NLD,841168000000.0,10,Renewables-multiple,Mitigation,28,79.61518551,79.61518551
+New Zealand,NZL,197192000000.0,0,Adaptation,Adaptation,111,42.27396977,42.27396977
+New Zealand,NZL,197192000000.0,1,Solar-energy,Mitigation,5,1.2396056,1.2396056
+New Zealand,NZL,197192000000.0,3,Other-mitigation-projects,Mitigation,7,1.585044,1.585044
+New Zealand,NZL,197192000000.0,4,Biodiversity,Environment,8,2.769916,0.0
+New Zealand,NZL,197192000000.0,5,Geothermal-energy,Mitigation,30,15.728799659999996,15.728799659999996
+New Zealand,NZL,197192000000.0,6,Nature_conservation,Environment,4,0.0902641,0.0
+New Zealand,NZL,197192000000.0,7,Other-environment-projects,Environment,12,3.3493574400000004,0.0
+New Zealand,NZL,197192000000.0,8,Sustainable-land-use,Environment,23,6.43075921,0.0
+New Zealand,NZL,197192000000.0,10,Renewables-multiple,Mitigation,72,34.386647260000004,34.386647260000004
+New Zealand,NZL,197192000000.0,11,Hydro-energy,Mitigation,2,4.236352,4.236352
+New Zealand,NZL,197192000000.0,12,Energy-efficiency,Mitigation,3,5.992392000000001,5.992392000000001
+New Zealand,NZL,197192000000.0,13,Wind-energy,Mitigation,1,0.25642,0.25642
+Norway,NOR,398104000000.0,0,Adaptation,Adaptation,693,439.73184572000014,439.73184572000014
+Norway,NOR,398104000000.0,1,Solar-energy,Mitigation,88,18.1554571,18.1554571
+Norway,NOR,398104000000.0,2,Bioenergy,Mitigation,35,7.3873649,7.3873649
+Norway,NOR,398104000000.0,3,Other-mitigation-projects,Mitigation,262,660.75342303983,660.75342303983
+Norway,NOR,398104000000.0,4,Biodiversity,Environment,98,39.692569899999995,0.0
+Norway,NOR,398104000000.0,5,Geothermal-energy,Mitigation,4,0.29562069999999985,0.29562069999999985
+Norway,NOR,398104000000.0,6,Nature_conservation,Environment,258,253.84025047,0.0
+Norway,NOR,398104000000.0,7,Other-environment-projects,Environment,296,115.898502672,0.0
+Norway,NOR,398104000000.0,8,Sustainable-land-use,Environment,629,579.00734511,0.0
+Norway,NOR,398104000000.0,9,Marine-energy,Mitigation,2,0.33206,0.33206
+Norway,NOR,398104000000.0,10,Renewables-multiple,Mitigation,155,109.95919045974497,109.95919045974497
+Norway,NOR,398104000000.0,11,Hydro-energy,Mitigation,92,52.61709842,52.61709842
+Norway,NOR,398104000000.0,12,Energy-efficiency,Mitigation,20,37.99130584,37.99130584
+Norway,NOR,398104000000.0,13,Wind-energy,Mitigation,7,0.39099329999999977,0.39099329999999977
+Poland,POL,531055000000.0,0,Adaptation,Adaptation,31,57.933451276,57.933451276
+Poland,POL,531055000000.0,1,Solar-energy,Mitigation,22,1.08083928,1.08083928
+Poland,POL,531055000000.0,2,Bioenergy,Mitigation,8,0.33935663999999993,0.33935663999999993
+Poland,POL,531055000000.0,4,Biodiversity,Environment,2,0.0376223,0.0
+Poland,POL,531055000000.0,6,Nature_conservation,Environment,23,0.8093685269999992,0.0
+Poland,POL,531055000000.0,7,Other-environment-projects,Environment,6,0.1058879709999998,0.0
+Poland,POL,531055000000.0,8,Sustainable-land-use,Environment,19,1.3654088699999996,0.0
+Poland,POL,531055000000.0,10,Renewables-multiple,Mitigation,5,1.7117596,1.7117596
+Poland,POL,531055000000.0,11,Hydro-energy,Mitigation,1,0.300711,0.300711
+Poland,POL,531055000000.0,12,Energy-efficiency,Mitigation,7,0.3373545999999999,0.3373545999999999
+Portugal,PRT,221184000000.0,0,Adaptation,Adaptation,53,5.455680866799999,5.455680866799999
+Portugal,PRT,221184000000.0,1,Solar-energy,Mitigation,3,0.4484561,0.4484561
+Portugal,PRT,221184000000.0,2,Bioenergy,Mitigation,5,0.43672754,0.43672754
+Portugal,PRT,221184000000.0,3,Other-mitigation-projects,Mitigation,18,2.3266422999999996,2.3266422999999996
+Portugal,PRT,221184000000.0,4,Biodiversity,Environment,20,1.0729342999999996,0.0
+Portugal,PRT,221184000000.0,6,Nature_conservation,Environment,21,2.228576188,0.0
+Portugal,PRT,221184000000.0,7,Other-environment-projects,Environment,30,3.0429723699999993,0.0
+Portugal,PRT,221184000000.0,8,Sustainable-land-use,Environment,37,3.1702765399999993,0.0
+Portugal,PRT,221184000000.0,10,Renewables-multiple,Mitigation,12,0.31793649999999984,0.31793649999999984
+Portugal,PRT,221184000000.0,12,Energy-efficiency,Mitigation,6,1.9711362000000001,1.9711362000000001
+Romania,ROU,213957000000.0,0,Adaptation,Adaptation,5,0.2269252599999998,0.2269252599999998
+Romania,ROU,213957000000.0,1,Solar-energy,Mitigation,2,0.0961659,0.0961659
+Romania,ROU,213957000000.0,3,Other-mitigation-projects,Mitigation,2,0.0334078,0.0334078
+Romania,ROU,213957000000.0,4,Biodiversity,Environment,1,0.0023972,0.0
+Romania,ROU,213957000000.0,6,Nature_conservation,Environment,5,0.08016722000000001,0.0
+Romania,ROU,213957000000.0,7,Other-environment-projects,Environment,9,0.4940191679999999,0.0
+Romania,ROU,213957000000.0,8,Sustainable-land-use,Environment,3,0.20827489999999999,0.0
+Romania,ROU,213957000000.0,10,Renewables-multiple,Mitigation,3,0.1543847,0.1543847
+Romania,ROU,213957000000.0,13,Wind-energy,Mitigation,3,0.2064207,0.2064207
+Saudi Arabia,SAU,713456000000.0,0,Adaptation,Adaptation,6,2.975,2.975
+Saudi Arabia,SAU,713456000000.0,1,Solar-energy,Mitigation,5,5.584072,5.584072
+Saudi Arabia,SAU,713456000000.0,2,Bioenergy,Mitigation,1,0.0,0.0
+Saudi Arabia,SAU,713456000000.0,6,Nature_conservation,Environment,3,5.247702,0.0
+Saudi Arabia,SAU,713456000000.0,11,Hydro-energy,Mitigation,10,37.331507,37.331507
+Slovak Republic,SVK,96964347911.0,0,Adaptation,Adaptation,17,0.2686799999999997,0.2686799999999997
+Slovak Republic,SVK,96964347911.0,1,Solar-energy,Mitigation,8,0.22458,0.22458
+Slovak Republic,SVK,96964347911.0,2,Bioenergy,Mitigation,1,0.00724,0.00724
+Slovak Republic,SVK,96964347911.0,3,Other-mitigation-projects,Mitigation,2,0.0799,0.0799
+Slovak Republic,SVK,96964347911.0,4,Biodiversity,Environment,3,0.03900000000000001,0.0
+Slovak Republic,SVK,96964347911.0,6,Nature_conservation,Environment,4,0.0851199999999998,0.0
+Slovak Republic,SVK,96964347911.0,7,Other-environment-projects,Environment,39,1.5813399999999997,0.0
+Slovak Republic,SVK,96964347911.0,8,Sustainable-land-use,Environment,13,0.1863799999999997,0.0
+Slovak Republic,SVK,96964347911.0,10,Renewables-multiple,Mitigation,8,0.24377999999999977,0.24377999999999977
+Slovak Republic,SVK,96964347911.0,12,Energy-efficiency,Mitigation,8,0.24728,0.24728
+Slovenia,SVN,48815980157.0,0,Adaptation,Adaptation,1,0.0129601,0.0129601
+Slovenia,SVN,48815980157.0,4,Biodiversity,Environment,1,0.00727639,0.0
+Slovenia,SVN,48815980157.0,6,Nature_conservation,Environment,1,0.0007740789999999,0.0
+Slovenia,SVN,48815980157.0,7,Other-environment-projects,Environment,3,0.04010402,0.0
+Slovenia,SVN,48815980157.0,8,Sustainable-land-use,Environment,4,0.0781584,0.0
+Spain,ESP,1310720000000.0,0,Adaptation,Adaptation,802,91.2865274199999,91.2865274199999
+Spain,ESP,1310720000000.0,1,Solar-energy,Mitigation,213,5.4463997597999985,5.4463997597999985
+Spain,ESP,1310720000000.0,2,Bioenergy,Mitigation,42,0.9959491616999999,0.9959491616999999
+Spain,ESP,1310720000000.0,3,Other-mitigation-projects,Mitigation,28,1.1192949953999998,1.1192949953999998
+Spain,ESP,1310720000000.0,4,Biodiversity,Environment,100,3.6275426489999996,0.0
+Spain,ESP,1310720000000.0,5,Geothermal-energy,Mitigation,2,0.2262441939999999,0.2262441939999999
+Spain,ESP,1310720000000.0,6,Nature_conservation,Environment,191,4.417917410499999,0.0
+Spain,ESP,1310720000000.0,7,Other-environment-projects,Environment,683,27.3119092892,0.0
+Spain,ESP,1310720000000.0,8,Sustainable-land-use,Environment,1092,70.65070643909999,0.0
+Spain,ESP,1310720000000.0,9,Marine-energy,Mitigation,1,0.0069025,0.0069025
+Spain,ESP,1310720000000.0,10,Renewables-multiple,Mitigation,153,21.537489798899994,21.537489798899994
+Spain,ESP,1310720000000.0,11,Hydro-energy,Mitigation,23,0.34099638,0.34099638
+Spain,ESP,1310720000000.0,12,Energy-efficiency,Mitigation,14,0.89935367,0.89935367
+Spain,ESP,1310720000000.0,13,Wind-energy,Mitigation,42,1.43870969,1.43870969
+Sweden,SWE,529613000000.0,0,Adaptation,Adaptation,629,486.758333475,486.758333475
+Sweden,SWE,529613000000.0,1,Solar-energy,Mitigation,29,10.80350002,10.80350002
+Sweden,SWE,529613000000.0,2,Bioenergy,Mitigation,27,6.914371900000001,6.914371900000001
+Sweden,SWE,529613000000.0,3,Other-mitigation-projects,Mitigation,90,32.56471582,32.56471582
+Sweden,SWE,529613000000.0,4,Biodiversity,Environment,82,29.216418930000003,0.0
+Sweden,SWE,529613000000.0,5,Geothermal-energy,Mitigation,3,2.7046536000000003,2.7046536000000003
+Sweden,SWE,529613000000.0,6,Nature_conservation,Environment,66,64.9355435886,0.0
+Sweden,SWE,529613000000.0,7,Other-environment-projects,Environment,499,270.25784573,0.0
+Sweden,SWE,529613000000.0,8,Sustainable-land-use,Environment,394,218.90477398099998,0.0
+Sweden,SWE,529613000000.0,9,Marine-energy,Mitigation,6,2.6499740000000003,2.6499740000000003
+Sweden,SWE,529613000000.0,10,Renewables-multiple,Mitigation,202,180.1639908476,180.1639908476
+Sweden,SWE,529613000000.0,11,Hydro-energy,Mitigation,12,18.694302099999998,18.694302099999998
+Sweden,SWE,529613000000.0,12,Energy-efficiency,Mitigation,54,46.90032594,46.90032594
+Sweden,SWE,529613000000.0,13,Wind-energy,Mitigation,1,0.0440606,0.0440606
+Switzerland,CHE,687863000000.0,0,Adaptation,Adaptation,1576,366.65170648595307,366.65170648595307
+Switzerland,CHE,687863000000.0,1,Solar-energy,Mitigation,55,3.1970105279999994,3.1970105279999994
+Switzerland,CHE,687863000000.0,2,Bioenergy,Mitigation,72,28.01762501,28.01762501
+Switzerland,CHE,687863000000.0,3,Other-mitigation-projects,Mitigation,323,111.83552099945999,111.83552099945999
+Switzerland,CHE,687863000000.0,4,Biodiversity,Environment,95,18.046155629999998,0.0
+Switzerland,CHE,687863000000.0,6,Nature_conservation,Environment,130,17.953346079,0.0
+Switzerland,CHE,687863000000.0,7,Other-environment-projects,Environment,492,115.94357219299997,0.0
+Switzerland,CHE,687863000000.0,8,Sustainable-land-use,Environment,1410,273.5140692617,0.0
+Switzerland,CHE,687863000000.0,10,Renewables-multiple,Mitigation,142,66.47860981,66.47860981
+Switzerland,CHE,687863000000.0,11,Hydro-energy,Mitigation,38,15.189254043,15.189254043
+Switzerland,CHE,687863000000.0,12,Energy-efficiency,Mitigation,102,43.985223051,43.985223051
+Turkey,TUR,820392000000.0,1,Solar-energy,Mitigation,3,0.13858,0.13858
+Turkey,TUR,820392000000.0,6,Nature_conservation,Environment,2,0.018410000000000003,0.0
+United Arab Emirates,ARE,388829000000.0,0,Adaptation,Adaptation,13,10.413360199999998,10.413360199999998
+United Arab Emirates,ARE,388829000000.0,1,Solar-energy,Mitigation,49,57.252842199999996,57.252842199999996
+United Arab Emirates,ARE,388829000000.0,2,Bioenergy,Mitigation,2,0.11,0.11
+United Arab Emirates,ARE,388829000000.0,3,Other-mitigation-projects,Mitigation,4,0.23373,0.23373
+United Arab Emirates,ARE,388829000000.0,4,Biodiversity,Environment,10,5.317411,0.0
+United Arab Emirates,ARE,388829000000.0,5,Geothermal-energy,Mitigation,1,0.0,0.0
+United Arab Emirates,ARE,388829000000.0,6,Nature_conservation,Environment,5,0.11148000000000001,0.0
+United Arab Emirates,ARE,388829000000.0,7,Other-environment-projects,Environment,11,0.7685356399999999,0.0
+United Arab Emirates,ARE,388829000000.0,8,Sustainable-land-use,Environment,4,2.8250240000000004,0.0
+United Arab Emirates,ARE,388829000000.0,10,Renewables-multiple,Mitigation,10,132.36528,132.36528
+United Arab Emirates,ARE,388829000000.0,11,Hydro-energy,Mitigation,9,0.44406,0.44406
+United Arab Emirates,ARE,388829000000.0,13,Wind-energy,Mitigation,3,0.18767,0.18767
+United Kingdom,GBR,2795380000000.0,0,Adaptation,Adaptation,2737,2730.90647871926,2730.90647871926
+United Kingdom,GBR,2795380000000.0,1,Solar-energy,Mitigation,147,142.439589354,142.439589354
+United Kingdom,GBR,2795380000000.0,2,Bioenergy,Mitigation,74,89.5477634018,89.5477634018
+United Kingdom,GBR,2795380000000.0,3,Other-mitigation-projects,Mitigation,442,760.3989949589999,760.3989949589999
+United Kingdom,GBR,2795380000000.0,4,Biodiversity,Environment,455,89.06858205699996,0.0
+United Kingdom,GBR,2795380000000.0,5,Geothermal-energy,Mitigation,42,38.440601769,38.440601769
+United Kingdom,GBR,2795380000000.0,6,Nature_conservation,Environment,141,53.453390847,0.0
+United Kingdom,GBR,2795380000000.0,7,Other-environment-projects,Environment,453,243.47401214400008,0.0
+United Kingdom,GBR,2795380000000.0,8,Sustainable-land-use,Environment,764,652.1618389036,0.0
+United Kingdom,GBR,2795380000000.0,9,Marine-energy,Mitigation,8,0.6430794,0.6430794
+United Kingdom,GBR,2795380000000.0,10,Renewables-multiple,Mitigation,738,851.9983187142002,851.9983187142002
+United Kingdom,GBR,2795380000000.0,11,Hydro-energy,Mitigation,7,3.391238,3.391238
+United Kingdom,GBR,2795380000000.0,12,Energy-efficiency,Mitigation,60,8.09580246,8.09580246
+United Kingdom,GBR,2795380000000.0,13,Wind-energy,Mitigation,16,6.5744354099999995,6.5744354099999995
+United States,USA,19663100000000.0,0,Adaptation,Adaptation,2442,1281.330668,1281.330668
+United States,USA,19663100000000.0,1,Solar-energy,Mitigation,343,50.44967000000001,50.44967000000001
+United States,USA,19663100000000.0,2,Bioenergy,Mitigation,74,9.919995999999998,9.919995999999998
+United States,USA,19663100000000.0,3,Other-mitigation-projects,Mitigation,658,464.00407600000005,464.00407600000005
+United States,USA,19663100000000.0,4,Biodiversity,Environment,2217,619.456221,0.0
+United States,USA,19663100000000.0,5,Geothermal-energy,Mitigation,26,2.718584,2.718584
+United States,USA,19663100000000.0,6,Nature_conservation,Environment,419,119.833561,0.0
+United States,USA,19663100000000.0,7,Other-environment-projects,Environment,1997,413.16739800000005,0.0
+United States,USA,19663100000000.0,8,Sustainable-land-use,Environment,1385,744.2013820000001,0.0
+United States,USA,19663100000000.0,9,Marine-energy,Mitigation,2,0.014369,0.014369
+United States,USA,19663100000000.0,10,Renewables-multiple,Mitigation,627,566.1907390000002,566.1907390000002
+United States,USA,19663100000000.0,11,Hydro-energy,Mitigation,83,244.666936,244.666936
+United States,USA,19663100000000.0,12,Energy-efficiency,Mitigation,450,115.804946,115.804946
+United States,USA,19663100000000.0,13,Wind-energy,Mitigation,38,29.384710000000002,29.384710000000002

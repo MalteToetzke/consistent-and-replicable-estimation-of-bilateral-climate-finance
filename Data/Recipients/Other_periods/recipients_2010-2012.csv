@@ -1,0 +1,1243 @@
+RecipientName,country_code,country_type,gdp,climate_class_number,climate_class,meta_category,no_projects,effective_funding,climate_funding
+Afghanistan,AFG,LDCs,19609450491.0,0,Adaptation,Adaptation,37,13.14594565,13.14594565
+Afghanistan,AFG,LDCs,19609450491.0,1,Solar-energy,Mitigation,15,40.384652470000006,40.384652470000006
+Afghanistan,AFG,LDCs,19609450491.0,2,Bioenergy,Mitigation,7,14.385479,14.385479
+Afghanistan,AFG,LDCs,19609450491.0,3,Other-mitigation-projects,Mitigation,13,53.979850000000006,53.979850000000006
+Afghanistan,AFG,LDCs,19609450491.0,4,Biodiversity,Environment,17,4.07485,0.0
+Afghanistan,AFG,LDCs,19609450491.0,6,Nature_conservation,Environment,1,0.1224869999999999,0.0
+Afghanistan,AFG,LDCs,19609450491.0,7,Other-environment-projects,Environment,14,2.1906195499999996,0.0
+Afghanistan,AFG,LDCs,19609450491.0,8,Sustainable-land-use,Environment,25,15.409855100000001,0.0
+Afghanistan,AFG,LDCs,19609450491.0,10,Renewables-multiple,Mitigation,17,27.2189953,27.2189953
+Afghanistan,AFG,LDCs,19609450491.0,11,Hydro-energy,Mitigation,21,26.556117754,26.556117754
+Afghanistan,AFG,LDCs,19609450491.0,12,Energy-efficiency,Mitigation,40,80.767198,80.767198
+Albania,ALB,UMICs,13338567710.0,0,Adaptation,Adaptation,6,0.5641612899999999,0.5641612899999999
+Albania,ALB,UMICs,13338567710.0,4,Biodiversity,Environment,3,0.45443329,0.0
+Albania,ALB,UMICs,13338567710.0,6,Nature_conservation,Environment,7,1.4790446,0.0
+Albania,ALB,UMICs,13338567710.0,7,Other-environment-projects,Environment,24,10.31928572,0.0
+Albania,ALB,UMICs,13338567710.0,8,Sustainable-land-use,Environment,17,7.95343845,0.0
+Albania,ALB,UMICs,13338567710.0,10,Renewables-multiple,Mitigation,9,2.3867458,2.3867458
+Albania,ALB,UMICs,13338567710.0,11,Hydro-energy,Mitigation,17,4.7745386,4.7745386
+Albania,ALB,UMICs,13338567710.0,12,Energy-efficiency,Mitigation,3,0.7163409999999999,0.7163409999999999
+Algeria,DZA,UMICs,167430000000.0,0,Adaptation,Adaptation,14,0.26634042299999977,0.26634042299999977
+Algeria,DZA,UMICs,167430000000.0,1,Solar-energy,Mitigation,7,1.0277227,1.0277227
+Algeria,DZA,UMICs,167430000000.0,2,Bioenergy,Mitigation,5,0.06780262,0.06780262
+Algeria,DZA,UMICs,167430000000.0,3,Other-mitigation-projects,Mitigation,2,0.5321802,0.5321802
+Algeria,DZA,UMICs,167430000000.0,4,Biodiversity,Environment,5,0.3511930199999999,0.0
+Algeria,DZA,UMICs,167430000000.0,5,Geothermal-energy,Mitigation,1,0.0516556,0.0516556
+Algeria,DZA,UMICs,167430000000.0,6,Nature_conservation,Environment,5,0.4554060999999998,0.0
+Algeria,DZA,UMICs,167430000000.0,7,Other-environment-projects,Environment,21,5.154174680000001,0.0
+Algeria,DZA,UMICs,167430000000.0,8,Sustainable-land-use,Environment,15,4.7480533629999995,0.0
+Algeria,DZA,UMICs,167430000000.0,10,Renewables-multiple,Mitigation,2,1.48176,1.48176
+Algeria,DZA,UMICs,167430000000.0,12,Energy-efficiency,Mitigation,4,0.0470661999999999,0.0470661999999999
+Algeria,DZA,UMICs,167430000000.0,13,Wind-energy,Mitigation,1,0.0331126,0.0331126
+Angola,AGO,LDCs,107086000000.0,0,Adaptation,Adaptation,7,1.1717279999999999,1.1717279999999999
+Angola,AGO,LDCs,107086000000.0,1,Solar-energy,Mitigation,2,0.2557217,0.2557217
+Angola,AGO,LDCs,107086000000.0,3,Other-mitigation-projects,Mitigation,2,0.00780148,0.00780148
+Angola,AGO,LDCs,107086000000.0,6,Nature_conservation,Environment,2,0.0028737,0.0
+Angola,AGO,LDCs,107086000000.0,7,Other-environment-projects,Environment,9,0.48295496999999976,0.0
+Angola,AGO,LDCs,107086000000.0,8,Sustainable-land-use,Environment,14,1.9069648799999996,0.0
+Angola,AGO,LDCs,107086000000.0,10,Renewables-multiple,Mitigation,9,0.57994713,0.57994713
+Angola,AGO,LDCs,107086000000.0,11,Hydro-energy,Mitigation,2,0.13365025,0.13365025
+Anguilla,AIA,Small Island Developing States,313000000.0,10,Renewables-multiple,Mitigation,1,0.0499481,0.0499481
+Antigua and Barbuda,ATG,Small Island Developing States,1515917778.0,0,Adaptation,Adaptation,2,0.5227682,0.5227682
+Antigua and Barbuda,ATG,Small Island Developing States,1515917778.0,4,Biodiversity,Environment,4,0.14029706,0.0
+Antigua and Barbuda,ATG,Small Island Developing States,1515917778.0,6,Nature_conservation,Environment,1,0.0050203999999999,0.0
+Antigua and Barbuda,ATG,Small Island Developing States,1515917778.0,7,Other-environment-projects,Environment,4,0.1782139999999998,0.0
+Argentina,ARG,UMICs,552902000000.0,0,Adaptation,Adaptation,22,0.7593752999999996,0.7593752999999996
+Argentina,ARG,UMICs,552902000000.0,1,Solar-energy,Mitigation,4,0.1997294,0.1997294
+Argentina,ARG,UMICs,552902000000.0,2,Bioenergy,Mitigation,11,0.3324171899999997,0.3324171899999997
+Argentina,ARG,UMICs,552902000000.0,3,Other-mitigation-projects,Mitigation,20,1.8937864109999998,1.8937864109999998
+Argentina,ARG,UMICs,552902000000.0,4,Biodiversity,Environment,25,0.8582642509999996,0.0
+Argentina,ARG,UMICs,552902000000.0,5,Geothermal-energy,Mitigation,2,0.02281207,0.02281207
+Argentina,ARG,UMICs,552902000000.0,6,Nature_conservation,Environment,17,1.0701539699999996,0.0
+Argentina,ARG,UMICs,552902000000.0,7,Other-environment-projects,Environment,45,2.179892282999999,0.0
+Argentina,ARG,UMICs,552902000000.0,8,Sustainable-land-use,Environment,60,2.7373234996999987,0.0
+Argentina,ARG,UMICs,552902000000.0,10,Renewables-multiple,Mitigation,5,0.2547576999999999,0.2547576999999999
+Argentina,ARG,UMICs,552902000000.0,11,Hydro-energy,Mitigation,5,0.005800262,0.005800262
+Argentina,ARG,UMICs,552902000000.0,12,Energy-efficiency,Mitigation,10,0.21931128999999988,0.21931128999999988
+Argentina,ARG,UMICs,552902000000.0,13,Wind-energy,Mitigation,5,0.06781808,0.06781808
+Armenia,ARM,LMICs,11751535093.0,0,Adaptation,Adaptation,4,1.38996,1.38996
+Armenia,ARM,LMICs,11751535093.0,2,Bioenergy,Mitigation,2,0.21314472,0.21314472
+Armenia,ARM,LMICs,11751535093.0,3,Other-mitigation-projects,Mitigation,1,-0.00857366,-0.00857366
+Armenia,ARM,LMICs,11751535093.0,4,Biodiversity,Environment,4,1.2075367999999997,0.0
+Armenia,ARM,LMICs,11751535093.0,6,Nature_conservation,Environment,4,0.9003041599999999,0.0
+Armenia,ARM,LMICs,11751535093.0,7,Other-environment-projects,Environment,15,2.6440431,0.0
+Armenia,ARM,LMICs,11751535093.0,8,Sustainable-land-use,Environment,5,0.3286635999999999,0.0
+Armenia,ARM,LMICs,11751535093.0,10,Renewables-multiple,Mitigation,15,19.17039605,19.17039605
+Armenia,ARM,LMICs,11751535093.0,11,Hydro-energy,Mitigation,5,0.8837119,0.8837119
+Armenia,ARM,LMICs,11751535093.0,12,Energy-efficiency,Mitigation,9,11.7454176,11.7454176
+Armenia,ARM,LMICs,11751535093.0,13,Wind-energy,Mitigation,2,0.3897050999999999,0.3897050999999999
+Azerbaijan,AZE,UMICs,45393607318.0,3,Other-mitigation-projects,Mitigation,2,0.0581461199999999,0.0581461199999999
+Azerbaijan,AZE,UMICs,45393607318.0,4,Biodiversity,Environment,3,0.38222199999999995,0.0
+Azerbaijan,AZE,UMICs,45393607318.0,6,Nature_conservation,Environment,3,0.46435719,0.0
+Azerbaijan,AZE,UMICs,45393607318.0,7,Other-environment-projects,Environment,12,1.1945283999999998,0.0
+Azerbaijan,AZE,UMICs,45393607318.0,8,Sustainable-land-use,Environment,10,2.4440965,0.0
+Azerbaijan,AZE,UMICs,45393607318.0,10,Renewables-multiple,Mitigation,4,1.147257,1.147257
+Azerbaijan,AZE,UMICs,45393607318.0,12,Energy-efficiency,Mitigation,6,0.8621471599999998,0.8621471599999998
+Bangladesh,BGD,LDCs,248563000000.0,0,Adaptation,Adaptation,116,128.96880643400002,128.96880643400002
+Bangladesh,BGD,LDCs,248563000000.0,1,Solar-energy,Mitigation,9,15.4835112,15.4835112
+Bangladesh,BGD,LDCs,248563000000.0,2,Bioenergy,Mitigation,3,5.08505,5.08505
+Bangladesh,BGD,LDCs,248563000000.0,3,Other-mitigation-projects,Mitigation,8,1.1331137,1.1331137
+Bangladesh,BGD,LDCs,248563000000.0,4,Biodiversity,Environment,17,12.0929394,0.0
+Bangladesh,BGD,LDCs,248563000000.0,6,Nature_conservation,Environment,19,4.01656744,0.0
+Bangladesh,BGD,LDCs,248563000000.0,7,Other-environment-projects,Environment,43,7.33064569,0.0
+Bangladesh,BGD,LDCs,248563000000.0,8,Sustainable-land-use,Environment,48,11.849328530000001,0.0
+Bangladesh,BGD,LDCs,248563000000.0,10,Renewables-multiple,Mitigation,17,11.98197291,11.98197291
+Bangladesh,BGD,LDCs,248563000000.0,11,Hydro-energy,Mitigation,4,5.344812,5.344812
+Bangladesh,BGD,LDCs,248563000000.0,12,Energy-efficiency,Mitigation,19,19.92143207,19.92143207
+Barbados,BRB,Small Island Developing States,4963700000.0,0,Adaptation,Adaptation,3,0.00507506,0.00507506
+Barbados,BRB,Small Island Developing States,4963700000.0,4,Biodiversity,Environment,1,0.00926641,0.0
+Barbados,BRB,Small Island Developing States,4963700000.0,6,Nature_conservation,Environment,1,0.015444,0.0
+Barbados,BRB,Small Island Developing States,4963700000.0,10,Renewables-multiple,Mitigation,1,0.0307938,0.0307938
+Belarus,BLR,UMICs,56403141352.0,0,Adaptation,Adaptation,1,0.0237547,0.0237547
+Belarus,BLR,UMICs,56403141352.0,3,Other-mitigation-projects,Mitigation,3,0.30712872999999996,0.30712872999999996
+Belarus,BLR,UMICs,56403141352.0,6,Nature_conservation,Environment,8,1.2831757799999997,0.0
+Belarus,BLR,UMICs,56403141352.0,7,Other-environment-projects,Environment,8,4.003073,0.0
+Belarus,BLR,UMICs,56403141352.0,8,Sustainable-land-use,Environment,3,0.054048,0.0
+Belarus,BLR,UMICs,56403141352.0,10,Renewables-multiple,Mitigation,1,0.00569993,0.00569993
+Belarus,BLR,UMICs,56403141352.0,12,Energy-efficiency,Mitigation,12,1.4366673099999996,1.4366673099999996
+Belize,BLZ,Small Island Developing States,1817262720.0,0,Adaptation,Adaptation,13,0.89873803,0.89873803
+Belize,BLZ,Small Island Developing States,1817262720.0,1,Solar-energy,Mitigation,1,5.81126,5.81126
+Belize,BLZ,Small Island Developing States,1817262720.0,4,Biodiversity,Environment,2,0.054970000000000005,0.0
+Belize,BLZ,Small Island Developing States,1817262720.0,6,Nature_conservation,Environment,7,0.2116790351999997,0.0
+Belize,BLZ,Small Island Developing States,1817262720.0,7,Other-environment-projects,Environment,6,0.05264092,0.0
+Belize,BLZ,Small Island Developing States,1817262720.0,8,Sustainable-land-use,Environment,3,0.33387999999999995,0.0
+Belize,BLZ,Small Island Developing States,1817262720.0,10,Renewables-multiple,Mitigation,3,0.0795660809999997,0.0795660809999997
+Benin,BEN,LDCs,12910515819.0,0,Adaptation,Adaptation,27,4.6432004099999995,4.6432004099999995
+Benin,BEN,LDCs,12910515819.0,1,Solar-energy,Mitigation,15,0.8438388599999997,0.8438388599999997
+Benin,BEN,LDCs,12910515819.0,2,Bioenergy,Mitigation,3,0.4901405,0.4901405
+Benin,BEN,LDCs,12910515819.0,3,Other-mitigation-projects,Mitigation,2,0.0040654,0.0040654
+Benin,BEN,LDCs,12910515819.0,4,Biodiversity,Environment,11,0.4386198919999999,0.0
+Benin,BEN,LDCs,12910515819.0,6,Nature_conservation,Environment,22,12.083471849999999,0.0
+Benin,BEN,LDCs,12910515819.0,7,Other-environment-projects,Environment,75,7.4803644536,0.0
+Benin,BEN,LDCs,12910515819.0,8,Sustainable-land-use,Environment,49,19.7811549593,0.0
+Benin,BEN,LDCs,12910515819.0,10,Renewables-multiple,Mitigation,2,0.07089872,0.07089872
+Benin,BEN,LDCs,12910515819.0,11,Hydro-energy,Mitigation,5,0.7455609999999998,0.7455609999999998
+Bhutan,BTN,LDCs,2264902343.0,0,Adaptation,Adaptation,19,4.1322189,4.1322189
+Bhutan,BTN,LDCs,2264902343.0,3,Other-mitigation-projects,Mitigation,1,0.0265694,0.0265694
+Bhutan,BTN,LDCs,2264902343.0,4,Biodiversity,Environment,2,0.2664849999999999,0.0
+Bhutan,BTN,LDCs,2264902343.0,6,Nature_conservation,Environment,6,2.7276833,0.0
+Bhutan,BTN,LDCs,2264902343.0,7,Other-environment-projects,Environment,15,0.7572145999999997,0.0
+Bhutan,BTN,LDCs,2264902343.0,8,Sustainable-land-use,Environment,9,1.03256169,0.0
+Bhutan,BTN,LDCs,2264902343.0,10,Renewables-multiple,Mitigation,5,0.5949592999999999,0.5949592999999999
+Bhutan,BTN,LDCs,2264902343.0,11,Hydro-energy,Mitigation,13,6.7835811,6.7835811
+Bhutan,BTN,LDCs,2264902343.0,12,Energy-efficiency,Mitigation,2,0.0507387,0.0507387
+Bolivia,BOL,LMICs,37126587467.0,0,Adaptation,Adaptation,105,38.998698421200004,38.998698421200004
+Bolivia,BOL,LMICs,37126587467.0,1,Solar-energy,Mitigation,29,5.73945416,5.73945416
+Bolivia,BOL,LMICs,37126587467.0,2,Bioenergy,Mitigation,6,0.24740877999999988,0.24740877999999988
+Bolivia,BOL,LMICs,37126587467.0,3,Other-mitigation-projects,Mitigation,8,1.4648589300000001,1.4648589300000001
+Bolivia,BOL,LMICs,37126587467.0,4,Biodiversity,Environment,58,33.742255732000004,0.0
+Bolivia,BOL,LMICs,37126587467.0,5,Geothermal-energy,Mitigation,1,8.31748e-05,8.31748e-05
+Bolivia,BOL,LMICs,37126587467.0,6,Nature_conservation,Environment,40,25.469456301999998,0.0
+Bolivia,BOL,LMICs,37126587467.0,7,Other-environment-projects,Environment,171,22.896666978000003,0.0
+Bolivia,BOL,LMICs,37126587467.0,8,Sustainable-land-use,Environment,259,32.850398916,0.0
+Bolivia,BOL,LMICs,37126587467.0,10,Renewables-multiple,Mitigation,10,1.3023386999999997,1.3023386999999997
+Bolivia,BOL,LMICs,37126587467.0,11,Hydro-energy,Mitigation,7,0.4365633999999998,0.4365633999999998
+Bolivia,BOL,LMICs,37126587467.0,12,Energy-efficiency,Mitigation,7,1.1834659999999997,1.1834659999999997
+Bolivia,BOL,LMICs,37126587467.0,13,Wind-energy,Mitigation,2,0.00710536,0.00710536
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,1,Solar-energy,Mitigation,1,0.0,0.0
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,2,Bioenergy,Mitigation,3,0.462952,0.462952
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,4,Biodiversity,Environment,4,0.5115430400000001,0.0
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,6,Nature_conservation,Environment,3,0.0981894999999999,0.0
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,7,Other-environment-projects,Environment,29,13.8028899033,0.0
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,8,Sustainable-land-use,Environment,11,1.37936345,0.0
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,10,Renewables-multiple,Mitigation,4,2.6631219999999995,2.6631219999999995
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,11,Hydro-energy,Mitigation,7,4.5395307,4.5395307
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,12,Energy-efficiency,Mitigation,8,2.09228874,2.09228874
+Bosnia and Herzegovina,BIH,UMICs,18287267400.0,13,Wind-energy,Mitigation,3,0.673123,0.673123
+Botswana,BWA,UMICs,16895247027.0,0,Adaptation,Adaptation,8,0.545983601,0.545983601
+Botswana,BWA,UMICs,16895247027.0,1,Solar-energy,Mitigation,1,12.648,12.648
+Botswana,BWA,UMICs,16895247027.0,3,Other-mitigation-projects,Mitigation,1,0.0009575569999999,0.0009575569999999
+Botswana,BWA,UMICs,16895247027.0,4,Biodiversity,Environment,3,0.1509413999999999,0.0
+Botswana,BWA,UMICs,16895247027.0,6,Nature_conservation,Environment,7,2.6035657,0.0
+Botswana,BWA,UMICs,16895247027.0,8,Sustainable-land-use,Environment,4,0.68796358,0.0
+Botswana,BWA,UMICs,16895247027.0,10,Renewables-multiple,Mitigation,1,0.38411,0.38411
+Botswana,BWA,UMICs,16895247027.0,11,Hydro-energy,Mitigation,3,0.2096867,0.2096867
+Botswana,BWA,UMICs,16895247027.0,12,Energy-efficiency,Mitigation,1,0.4452069999999999,0.4452069999999999
+Brazil,BRA,UMICs,1877200000000.0,0,Adaptation,Adaptation,49,3.0203185079999995,3.0203185079999995
+Brazil,BRA,UMICs,1877200000000.0,1,Solar-energy,Mitigation,24,4.086651299999999,4.086651299999999
+Brazil,BRA,UMICs,1877200000000.0,2,Bioenergy,Mitigation,23,3.8116902599999998,3.8116902599999998
+Brazil,BRA,UMICs,1877200000000.0,3,Other-mitigation-projects,Mitigation,72,73.73395539599997,73.73395539599997
+Brazil,BRA,UMICs,1877200000000.0,4,Biodiversity,Environment,106,50.609176489999996,0.0
+Brazil,BRA,UMICs,1877200000000.0,6,Nature_conservation,Environment,76,119.497608999,0.0
+Brazil,BRA,UMICs,1877200000000.0,7,Other-environment-projects,Environment,196,28.189457549999997,0.0
+Brazil,BRA,UMICs,1877200000000.0,8,Sustainable-land-use,Environment,183,42.94929544469999,0.0
+Brazil,BRA,UMICs,1877200000000.0,10,Renewables-multiple,Mitigation,32,227.53391275000007,227.53391275000007
+Brazil,BRA,UMICs,1877200000000.0,11,Hydro-energy,Mitigation,15,88.27789982000002,88.27789982000002
+Brazil,BRA,UMICs,1877200000000.0,12,Energy-efficiency,Mitigation,14,1.4841669,1.4841669
+Brazil,BRA,UMICs,1877200000000.0,13,Wind-energy,Mitigation,6,55.245385830000004,55.245385830000004
+Burkina Faso,BFA,LDCs,14153973552.0,0,Adaptation,Adaptation,49,23.5574439771,23.5574439771
+Burkina Faso,BFA,LDCs,14153973552.0,1,Solar-energy,Mitigation,25,5.051758599999999,5.051758599999999
+Burkina Faso,BFA,LDCs,14153973552.0,2,Bioenergy,Mitigation,8,0.63758544,0.63758544
+Burkina Faso,BFA,LDCs,14153973552.0,3,Other-mitigation-projects,Mitigation,1,0.000423943,0.000423943
+Burkina Faso,BFA,LDCs,14153973552.0,4,Biodiversity,Environment,9,0.10477371,0.0
+Burkina Faso,BFA,LDCs,14153973552.0,6,Nature_conservation,Environment,19,15.788178687999999,0.0
+Burkina Faso,BFA,LDCs,14153973552.0,7,Other-environment-projects,Environment,44,2.4856872919999997,0.0
+Burkina Faso,BFA,LDCs,14153973552.0,8,Sustainable-land-use,Environment,95,11.656196330999997,0.0
+Burkina Faso,BFA,LDCs,14153973552.0,10,Renewables-multiple,Mitigation,2,0.52137962,0.52137962
+Burkina Faso,BFA,LDCs,14153973552.0,11,Hydro-energy,Mitigation,3,0.1524457,0.1524457
+Burundi,BDI,LDCs,3057118985.0,0,Adaptation,Adaptation,4,3.9664447,3.9664447
+Burundi,BDI,LDCs,3057118985.0,1,Solar-energy,Mitigation,2,6.1771914,6.1771914
+Burundi,BDI,LDCs,3057118985.0,2,Bioenergy,Mitigation,2,0.00419729,0.00419729
+Burundi,BDI,LDCs,3057118985.0,6,Nature_conservation,Environment,1,0.0503966999999999,0.0
+Burundi,BDI,LDCs,3057118985.0,7,Other-environment-projects,Environment,6,0.58759603,0.0
+Burundi,BDI,LDCs,3057118985.0,8,Sustainable-land-use,Environment,14,2.8955059999999992,0.0
+Burundi,BDI,LDCs,3057118985.0,10,Renewables-multiple,Mitigation,1,1.14015,1.14015
+Burundi,BDI,LDCs,3057118985.0,11,Hydro-energy,Mitigation,1,0.0,0.0
+Burundi,BDI,LDCs,3057118985.0,12,Energy-efficiency,Mitigation,1,0.0227892,0.0227892
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,0,Adaptation,Adaptation,6,3.5286728,3.5286728
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,1,Solar-energy,Mitigation,4,1.2443196,1.2443196
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,4,Biodiversity,Environment,3,0.3583889999999999,0.0
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,6,Nature_conservation,Environment,12,0.5660110999999999,0.0
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,7,Other-environment-projects,Environment,11,4.78424051,0.0
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,8,Sustainable-land-use,Environment,12,1.9068325399999997,0.0
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,10,Renewables-multiple,Mitigation,9,83.08685335999999,83.08685335999999
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,11,Hydro-energy,Mitigation,1,1.09934,1.09934
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,12,Energy-efficiency,Mitigation,1,0.085298,0.085298
+Cabo Verde,CPV,Small Island Developing States,1795683047.0,13,Wind-energy,Mitigation,3,0.1560354999999999,0.1560354999999999
+Cambodia,KHM,LDCs,22381009185.0,0,Adaptation,Adaptation,66,38.90846146,38.90846146
+Cambodia,KHM,LDCs,22381009185.0,1,Solar-energy,Mitigation,5,10.557134999999999,10.557134999999999
+Cambodia,KHM,LDCs,22381009185.0,2,Bioenergy,Mitigation,3,0.5508029999999999,0.5508029999999999
+Cambodia,KHM,LDCs,22381009185.0,3,Other-mitigation-projects,Mitigation,8,3.6523487999999995,3.6523487999999995
+Cambodia,KHM,LDCs,22381009185.0,4,Biodiversity,Environment,14,1.8557313,0.0
+Cambodia,KHM,LDCs,22381009185.0,6,Nature_conservation,Environment,8,11.730843740000001,0.0
+Cambodia,KHM,LDCs,22381009185.0,7,Other-environment-projects,Environment,28,22.62602277,0.0
+Cambodia,KHM,LDCs,22381009185.0,8,Sustainable-land-use,Environment,37,16.828387056,0.0
+Cambodia,KHM,LDCs,22381009185.0,10,Renewables-multiple,Mitigation,11,5.4744929,5.4744929
+Cambodia,KHM,LDCs,22381009185.0,11,Hydro-energy,Mitigation,3,0.3203663,0.3203663
+Cambodia,KHM,LDCs,22381009185.0,13,Wind-energy,Mitigation,3,0.0436147999999999,0.0436147999999999
+Cameroon,CMR,LMICs,35207235376.0,0,Adaptation,Adaptation,14,3.0652203505999998,3.0652203505999998
+Cameroon,CMR,LMICs,35207235376.0,1,Solar-energy,Mitigation,8,0.7495963999999998,0.7495963999999998
+Cameroon,CMR,LMICs,35207235376.0,2,Bioenergy,Mitigation,6,0.6209918799999998,0.6209918799999998
+Cameroon,CMR,LMICs,35207235376.0,3,Other-mitigation-projects,Mitigation,4,1.10910684,1.10910684
+Cameroon,CMR,LMICs,35207235376.0,4,Biodiversity,Environment,32,8.154492343000001,0.0
+Cameroon,CMR,LMICs,35207235376.0,5,Geothermal-energy,Mitigation,1,0.0540977,0.0540977
+Cameroon,CMR,LMICs,35207235376.0,6,Nature_conservation,Environment,13,11.50119157,0.0
+Cameroon,CMR,LMICs,35207235376.0,7,Other-environment-projects,Environment,36,1.7485039299999992,0.0
+Cameroon,CMR,LMICs,35207235376.0,8,Sustainable-land-use,Environment,48,37.922017,0.0
+Cameroon,CMR,LMICs,35207235376.0,10,Renewables-multiple,Mitigation,7,1.2883360000000001,1.2883360000000001
+Cameroon,CMR,LMICs,35207235376.0,11,Hydro-energy,Mitigation,8,0.3821751,0.3821751
+Cameroon,CMR,LMICs,35207235376.0,12,Energy-efficiency,Mitigation,1,0.125254,0.125254
+Central African Republic,CAF,LDCs,2006896079.0,0,Adaptation,Adaptation,4,0.0370723305999999,0.0370723305999999
+Central African Republic,CAF,LDCs,2006896079.0,3,Other-mitigation-projects,Mitigation,1,1.0919,1.0919
+Central African Republic,CAF,LDCs,2006896079.0,6,Nature_conservation,Environment,1,0.00760467,0.0
+Central African Republic,CAF,LDCs,2006896079.0,8,Sustainable-land-use,Environment,8,2.8325227,0.0
+Central African Republic,CAF,LDCs,2006896079.0,11,Hydro-energy,Mitigation,1,0.0,0.0
+Chad,TCD,LDCs,10720536841.0,0,Adaptation,Adaptation,16,3.96898173,3.96898173
+Chad,TCD,LDCs,10720536841.0,1,Solar-energy,Mitigation,3,0.06414679999999989,0.06414679999999989
+Chad,TCD,LDCs,10720536841.0,6,Nature_conservation,Environment,1,0.213333,0.0
+Chad,TCD,LDCs,10720536841.0,7,Other-environment-projects,Environment,4,0.18199198900000002,0.0
+Chad,TCD,LDCs,10720536841.0,8,Sustainable-land-use,Environment,25,6.370701564,0.0
+Chad,TCD,LDCs,10720536841.0,10,Renewables-multiple,Mitigation,1,0.449871,0.449871
+Chile,CHL,MADCTs,270396000000.0,0,Adaptation,Adaptation,33,4.186748768,4.186748768
+Chile,CHL,MADCTs,270396000000.0,1,Solar-energy,Mitigation,7,0.0819222099999997,0.0819222099999997
+Chile,CHL,MADCTs,270396000000.0,2,Bioenergy,Mitigation,7,1.01530923,1.01530923
+Chile,CHL,MADCTs,270396000000.0,3,Other-mitigation-projects,Mitigation,20,2.844689624,2.844689624
+Chile,CHL,MADCTs,270396000000.0,4,Biodiversity,Environment,18,0.275932961,0.0
+Chile,CHL,MADCTs,270396000000.0,5,Geothermal-energy,Mitigation,5,0.06711953,0.06711953
+Chile,CHL,MADCTs,270396000000.0,6,Nature_conservation,Environment,26,0.6627995689999997,0.0
+Chile,CHL,MADCTs,270396000000.0,7,Other-environment-projects,Environment,57,6.140228989999999,0.0
+Chile,CHL,MADCTs,270396000000.0,8,Sustainable-land-use,Environment,46,1.9971444119999993,0.0
+Chile,CHL,MADCTs,270396000000.0,9,Marine-energy,Mitigation,3,0.24097739999999981,0.24097739999999981
+Chile,CHL,MADCTs,270396000000.0,10,Renewables-multiple,Mitigation,24,81.93827412000002,81.93827412000002
+Chile,CHL,MADCTs,270396000000.0,11,Hydro-energy,Mitigation,2,0.0247330999999999,0.0247330999999999
+Chile,CHL,MADCTs,270396000000.0,12,Energy-efficiency,Mitigation,11,1.9398037699999997,1.9398037699999997
+Chile,CHL,MADCTs,270396000000.0,13,Wind-energy,Mitigation,2,0.02738446,0.02738446
+China (People's Republic of),CHN,UMICs,12568600000000.0,0,Adaptation,Adaptation,162,45.251142461,45.251142461
+China (People's Republic of),CHN,UMICs,12568600000000.0,1,Solar-energy,Mitigation,16,21.5328017,21.5328017
+China (People's Republic of),CHN,UMICs,12568600000000.0,2,Bioenergy,Mitigation,35,7.7504672999999995,7.7504672999999995
+China (People's Republic of),CHN,UMICs,12568600000000.0,3,Other-mitigation-projects,Mitigation,268,85.63930849030001,85.63930849030001
+China (People's Republic of),CHN,UMICs,12568600000000.0,4,Biodiversity,Environment,45,9.298947165,0.0
+China (People's Republic of),CHN,UMICs,12568600000000.0,5,Geothermal-energy,Mitigation,2,0.4227959999999999,0.4227959999999999
+China (People's Republic of),CHN,UMICs,12568600000000.0,6,Nature_conservation,Environment,128,186.28695270000003,0.0
+China (People's Republic of),CHN,UMICs,12568600000000.0,7,Other-environment-projects,Environment,477,827.9190659700002,0.0
+China (People's Republic of),CHN,UMICs,12568600000000.0,8,Sustainable-land-use,Environment,147,27.21286086,0.0
+China (People's Republic of),CHN,UMICs,12568600000000.0,9,Marine-energy,Mitigation,7,0.57637877,0.57637877
+China (People's Republic of),CHN,UMICs,12568600000000.0,10,Renewables-multiple,Mitigation,85,226.59173506999997,226.59173506999997
+China (People's Republic of),CHN,UMICs,12568600000000.0,11,Hydro-energy,Mitigation,87,94.45374269999999,94.45374269999999
+China (People's Republic of),CHN,UMICs,12568600000000.0,12,Energy-efficiency,Mitigation,74,112.42824115,112.42824115
+China (People's Republic of),CHN,UMICs,12568600000000.0,13,Wind-energy,Mitigation,47,7.54256102,7.54256102
+Colombia,COL,UMICs,309113000000.0,0,Adaptation,Adaptation,28,27.219790418000002,27.219790418000002
+Colombia,COL,UMICs,309113000000.0,1,Solar-energy,Mitigation,7,0.1649455799999999,0.1649455799999999
+Colombia,COL,UMICs,309113000000.0,2,Bioenergy,Mitigation,3,0.7583873,0.7583873
+Colombia,COL,UMICs,309113000000.0,3,Other-mitigation-projects,Mitigation,21,8.294352904,8.294352904
+Colombia,COL,UMICs,309113000000.0,4,Biodiversity,Environment,35,11.41841233,0.0
+Colombia,COL,UMICs,309113000000.0,5,Geothermal-energy,Mitigation,2,0.1198799999999998,0.1198799999999998
+Colombia,COL,UMICs,309113000000.0,6,Nature_conservation,Environment,29,3.0669804699999994,0.0
+Colombia,COL,UMICs,309113000000.0,7,Other-environment-projects,Environment,94,13.234050009999999,0.0
+Colombia,COL,UMICs,309113000000.0,8,Sustainable-land-use,Environment,80,17.338784989999997,0.0
+Colombia,COL,UMICs,309113000000.0,10,Renewables-multiple,Mitigation,18,13.08562359,13.08562359
+Colombia,COL,UMICs,309113000000.0,11,Hydro-energy,Mitigation,6,0.1848389,0.1848389
+Colombia,COL,UMICs,309113000000.0,12,Energy-efficiency,Mitigation,3,1.5742687,1.5742687
+Comoros,COM,Small Island Developing States,1084112832.0,0,Adaptation,Adaptation,3,0.09369079999999991,0.09369079999999991
+Comoros,COM,Small Island Developing States,1084112832.0,1,Solar-energy,Mitigation,1,0.0257069,0.0257069
+Comoros,COM,Small Island Developing States,1084112832.0,4,Biodiversity,Environment,1,0.402988,0.0
+Comoros,COM,Small Island Developing States,1084112832.0,5,Geothermal-energy,Mitigation,1,0.00327314,0.00327314
+Comoros,COM,Small Island Developing States,1084112832.0,6,Nature_conservation,Environment,2,0.2335719999999999,0.0
+Comoros,COM,Small Island Developing States,1084112832.0,8,Sustainable-land-use,Environment,5,1.4897259999999997,0.0
+Congo,COG,LMICs,9823410998.0,0,Adaptation,Adaptation,4,2.01196,2.01196
+Congo,COG,LMICs,9823410998.0,1,Solar-energy,Mitigation,2,0.1180979999999999,0.1180979999999999
+Congo,COG,LMICs,9823410998.0,3,Other-mitigation-projects,Mitigation,1,1.0919,1.0919
+Congo,COG,LMICs,9823410998.0,4,Biodiversity,Environment,5,0.0181106,0.0
+Congo,COG,LMICs,9823410998.0,6,Nature_conservation,Environment,4,0.12258,0.0
+Congo,COG,LMICs,9823410998.0,7,Other-environment-projects,Environment,3,0.1091045,0.0
+Congo,COG,LMICs,9823410998.0,8,Sustainable-land-use,Environment,11,9.6766673,0.0
+Cook Islands,COK,UMICs,355000000.0,0,Adaptation,Adaptation,6,2.6135805682,2.6135805682
+Cook Islands,COK,UMICs,355000000.0,3,Other-mitigation-projects,Mitigation,1,0.008443,0.008443
+Cook Islands,COK,UMICs,355000000.0,7,Other-environment-projects,Environment,5,2.24777,0.0
+Cook Islands,COK,UMICs,355000000.0,8,Sustainable-land-use,Environment,4,1.0796219999999999,0.0
+Cook Islands,COK,UMICs,355000000.0,10,Renewables-multiple,Mitigation,2,0.5855565,0.5855565
+Costa Rica,CRI,UMICs,58548738110.0,0,Adaptation,Adaptation,12,0.4094874253999998,0.4094874253999998
+Costa Rica,CRI,UMICs,58548738110.0,1,Solar-energy,Mitigation,1,9.22965,9.22965
+Costa Rica,CRI,UMICs,58548738110.0,3,Other-mitigation-projects,Mitigation,6,3.3752291999999997,3.3752291999999997
+Costa Rica,CRI,UMICs,58548738110.0,4,Biodiversity,Environment,27,4.16724958,0.0
+Costa Rica,CRI,UMICs,58548738110.0,6,Nature_conservation,Environment,30,27.038188940000005,0.0
+Costa Rica,CRI,UMICs,58548738110.0,7,Other-environment-projects,Environment,25,1.26279185,0.0
+Costa Rica,CRI,UMICs,58548738110.0,8,Sustainable-land-use,Environment,27,8.648117569999998,0.0
+Costa Rica,CRI,UMICs,58548738110.0,10,Renewables-multiple,Mitigation,7,3.4360891000000002,3.4360891000000002
+Costa Rica,CRI,UMICs,58548738110.0,11,Hydro-energy,Mitigation,7,62.1352301,62.1352301
+Costa Rica,CRI,UMICs,58548738110.0,13,Wind-energy,Mitigation,1,0.0638331,0.0638331
+Croatia,HRV,MADCTs,55570834593.0,3,Other-mitigation-projects,Mitigation,1,0.00139151,0.00139151
+Croatia,HRV,MADCTs,55570834593.0,4,Biodiversity,Environment,2,0.01324503,0.0
+Croatia,HRV,MADCTs,55570834593.0,6,Nature_conservation,Environment,1,0.0144105999999999,0.0
+Croatia,HRV,MADCTs,55570834593.0,7,Other-environment-projects,Environment,7,0.6390583400000001,0.0
+Croatia,HRV,MADCTs,55570834593.0,8,Sustainable-land-use,Environment,5,0.2080288499999999,0.0
+Croatia,HRV,MADCTs,55570834593.0,10,Renewables-multiple,Mitigation,3,6.996486999999999,6.996486999999999
+Croatia,HRV,MADCTs,55570834593.0,12,Energy-efficiency,Mitigation,1,0.000540541,0.000540541
+Cuba,CUB,Small Island Developing States,93844250000.0,0,Adaptation,Adaptation,13,2.60647644,2.60647644
+Cuba,CUB,Small Island Developing States,93844250000.0,1,Solar-energy,Mitigation,10,1.3128761999999996,1.3128761999999996
+Cuba,CUB,Small Island Developing States,93844250000.0,2,Bioenergy,Mitigation,10,2.6779981799999995,2.6779981799999995
+Cuba,CUB,Small Island Developing States,93844250000.0,3,Other-mitigation-projects,Mitigation,3,0.15896672,0.15896672
+Cuba,CUB,Small Island Developing States,93844250000.0,4,Biodiversity,Environment,7,1.0198487999999999,0.0
+Cuba,CUB,Small Island Developing States,93844250000.0,6,Nature_conservation,Environment,11,1.65752472,0.0
+Cuba,CUB,Small Island Developing States,93844250000.0,7,Other-environment-projects,Environment,83,6.333015015999999,0.0
+Cuba,CUB,Small Island Developing States,93844250000.0,8,Sustainable-land-use,Environment,43,2.05980105,0.0
+Cuba,CUB,Small Island Developing States,93844250000.0,10,Renewables-multiple,Mitigation,11,0.7670709949999999,0.7670709949999999
+Cuba,CUB,Small Island Developing States,93844250000.0,11,Hydro-energy,Mitigation,1,0.01628,0.01628
+Cuba,CUB,Small Island Developing States,93844250000.0,13,Wind-energy,Mitigation,2,0.013828409999999899,0.013828409999999899
+Côte d'Ivoire,CIV,LMICs,52376793651.0,0,Adaptation,Adaptation,20,2.6117454870000003,2.6117454870000003
+Côte d'Ivoire,CIV,LMICs,52376793651.0,1,Solar-energy,Mitigation,3,0.32683417000000003,0.32683417000000003
+Côte d'Ivoire,CIV,LMICs,52376793651.0,4,Biodiversity,Environment,3,0.3137456999999999,0.0
+Côte d'Ivoire,CIV,LMICs,52376793651.0,6,Nature_conservation,Environment,10,7.54974617,0.0
+Côte d'Ivoire,CIV,LMICs,52376793651.0,7,Other-environment-projects,Environment,16,0.3060526899999997,0.0
+Côte d'Ivoire,CIV,LMICs,52376793651.0,8,Sustainable-land-use,Environment,8,20.78577602,0.0
+Côte d'Ivoire,CIV,LMICs,52376793651.0,10,Renewables-multiple,Mitigation,3,25.15974062,25.15974062
+Côte d'Ivoire,CIV,LMICs,52376793651.0,11,Hydro-energy,Mitigation,2,0.0,0.0
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,0,Adaptation,Adaptation,15,8.9612144806,8.9612144806
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,1,Solar-energy,Mitigation,11,0.37638252999999977,0.37638252999999977
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,2,Bioenergy,Mitigation,4,0.25190384999999993,0.25190384999999993
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,3,Other-mitigation-projects,Mitigation,7,4.33687278,4.33687278
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,4,Biodiversity,Environment,24,31.528703299999997,0.0
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,5,Geothermal-energy,Mitigation,3,0.1292513999999999,0.1292513999999999
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,6,Nature_conservation,Environment,27,11.151634,0.0
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,7,Other-environment-projects,Environment,15,1.0324749499999997,0.0
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,8,Sustainable-land-use,Environment,45,36.7060113,0.0
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,10,Renewables-multiple,Mitigation,6,0.6149968,0.6149968
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,11,Hydro-energy,Mitigation,4,7.8105225,7.8105225
+Democratic Republic of the Congo,COD,LDCs,41444547384.0,12,Energy-efficiency,Mitigation,3,0.38861999999999997,0.38861999999999997
+Djibouti,DJI,LDCs,2823368140.0,0,Adaptation,Adaptation,5,7.5022,7.5022
+Djibouti,DJI,LDCs,2823368140.0,1,Solar-energy,Mitigation,4,8.269645,8.269645
+Djibouti,DJI,LDCs,2823368140.0,4,Biodiversity,Environment,1,0.03687,0.0
+Djibouti,DJI,LDCs,2823368140.0,6,Nature_conservation,Environment,1,0.0100407999999999,0.0
+Djibouti,DJI,LDCs,2823368140.0,7,Other-environment-projects,Environment,1,0.351086,0.0
+Djibouti,DJI,LDCs,2823368140.0,8,Sustainable-land-use,Environment,2,0.6733919999999999,0.0
+Dominica,DMA,Small Island Developing States,556745925.9,0,Adaptation,Adaptation,4,0.65372273,0.65372273
+Dominica,DMA,Small Island Developing States,556745925.9,5,Geothermal-energy,Mitigation,3,4.412223,4.412223
+Dominica,DMA,Small Island Developing States,556745925.9,6,Nature_conservation,Environment,1,0.2388809999999999,0.0
+Dominica,DMA,Small Island Developing States,556745925.9,7,Other-environment-projects,Environment,2,0.014655000000000001,0.0
+Dominica,DMA,Small Island Developing States,556745925.9,11,Hydro-energy,Mitigation,1,0.0,0.0
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,0,Adaptation,Adaptation,22,16.02717406,16.02717406
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,1,Solar-energy,Mitigation,1,0.123675,0.123675
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,2,Bioenergy,Mitigation,2,0.702146,0.702146
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,3,Other-mitigation-projects,Mitigation,3,0.0628678999999999,0.0628678999999999
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,4,Biodiversity,Environment,30,4.9975153500000005,0.0
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,6,Nature_conservation,Environment,13,0.4851348899999998,0.0
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,7,Other-environment-projects,Environment,65,10.377912989999999,0.0
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,8,Sustainable-land-use,Environment,51,14.91757166,0.0
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,10,Renewables-multiple,Mitigation,4,0.1286093599999999,0.1286093599999999
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,11,Hydro-energy,Mitigation,4,0.00328371,0.00328371
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,12,Energy-efficiency,Mitigation,2,0.08543046,0.08543046
+Dominican Republic,DOM,Small Island Developing States,80272839474.0,13,Wind-energy,Mitigation,7,0.4977813,0.4977813
+Ecuador,ECU,UMICs,103704000000.0,0,Adaptation,Adaptation,35,3.13731898,3.13731898
+Ecuador,ECU,UMICs,103704000000.0,1,Solar-energy,Mitigation,6,13.3296146,13.3296146
+Ecuador,ECU,UMICs,103704000000.0,2,Bioenergy,Mitigation,11,2.1484216,2.1484216
+Ecuador,ECU,UMICs,103704000000.0,3,Other-mitigation-projects,Mitigation,8,0.06613853999999969,0.06613853999999969
+Ecuador,ECU,UMICs,103704000000.0,4,Biodiversity,Environment,58,16.885962298000003,0.0
+Ecuador,ECU,UMICs,103704000000.0,5,Geothermal-energy,Mitigation,3,0.01154238,0.01154238
+Ecuador,ECU,UMICs,103704000000.0,6,Nature_conservation,Environment,42,24.509495209999997,0.0
+Ecuador,ECU,UMICs,103704000000.0,7,Other-environment-projects,Environment,114,12.230135484999998,0.0
+Ecuador,ECU,UMICs,103704000000.0,8,Sustainable-land-use,Environment,153,24.612716034,0.0
+Ecuador,ECU,UMICs,103704000000.0,10,Renewables-multiple,Mitigation,16,0.92831532,0.92831532
+Ecuador,ECU,UMICs,103704000000.0,11,Hydro-energy,Mitigation,6,0.93682339,0.93682339
+Egypt,EGY,LMICs,291013000000.0,0,Adaptation,Adaptation,46,1.2843192579999996,1.2843192579999996
+Egypt,EGY,LMICs,291013000000.0,1,Solar-energy,Mitigation,21,136.30544844,136.30544844
+Egypt,EGY,LMICs,291013000000.0,2,Bioenergy,Mitigation,6,0.0416928199999998,0.0416928199999998
+Egypt,EGY,LMICs,291013000000.0,3,Other-mitigation-projects,Mitigation,9,11.67848223,11.67848223
+Egypt,EGY,LMICs,291013000000.0,4,Biodiversity,Environment,5,7.377130000000001,0.0
+Egypt,EGY,LMICs,291013000000.0,6,Nature_conservation,Environment,13,0.6296715499999996,0.0
+Egypt,EGY,LMICs,291013000000.0,7,Other-environment-projects,Environment,69,41.78278316720001,0.0
+Egypt,EGY,LMICs,291013000000.0,8,Sustainable-land-use,Environment,25,5.352731113,0.0
+Egypt,EGY,LMICs,291013000000.0,10,Renewables-multiple,Mitigation,14,9.7861083,9.7861083
+Egypt,EGY,LMICs,291013000000.0,11,Hydro-energy,Mitigation,15,77.3602504,77.3602504
+Egypt,EGY,LMICs,291013000000.0,12,Energy-efficiency,Mitigation,7,0.1992362899999999,0.1992362899999999
+Egypt,EGY,LMICs,291013000000.0,13,Wind-energy,Mitigation,28,35.049541299999994,35.049541299999994
+El Salvador,SLV,LMICs,25149784000.0,0,Adaptation,Adaptation,38,20.50359345,20.50359345
+El Salvador,SLV,LMICs,25149784000.0,1,Solar-energy,Mitigation,4,0.1380693999999998,0.1380693999999998
+El Salvador,SLV,LMICs,25149784000.0,3,Other-mitigation-projects,Mitigation,2,1.09470873,1.09470873
+El Salvador,SLV,LMICs,25149784000.0,4,Biodiversity,Environment,18,5.8540927,0.0
+El Salvador,SLV,LMICs,25149784000.0,5,Geothermal-energy,Mitigation,2,0.2234367,0.2234367
+El Salvador,SLV,LMICs,25149784000.0,6,Nature_conservation,Environment,13,1.6412377399999998,0.0
+El Salvador,SLV,LMICs,25149784000.0,7,Other-environment-projects,Environment,56,5.583134619999999,0.0
+El Salvador,SLV,LMICs,25149784000.0,8,Sustainable-land-use,Environment,36,1.6572492299999995,0.0
+El Salvador,SLV,LMICs,25149784000.0,10,Renewables-multiple,Mitigation,9,10.484184599999999,10.484184599999999
+El Salvador,SLV,LMICs,25149784000.0,11,Hydro-energy,Mitigation,9,1.293195,1.293195
+El Salvador,SLV,LMICs,25149784000.0,12,Energy-efficiency,Mitigation,1,0.0946358,0.0946358
+Equatorial Guinea,GNQ,UMICs,12186496882.0,1,Solar-energy,Mitigation,1,0.0102827999999999,0.0102827999999999
+Equatorial Guinea,GNQ,UMICs,12186496882.0,3,Other-mitigation-projects,Mitigation,1,1.0919,1.0919
+Equatorial Guinea,GNQ,UMICs,12186496882.0,6,Nature_conservation,Environment,2,0.07333139999999999,0.0
+Equatorial Guinea,GNQ,UMICs,12186496882.0,7,Other-environment-projects,Environment,1,0.0156023,0.0
+Equatorial Guinea,GNQ,UMICs,12186496882.0,8,Sustainable-land-use,Environment,2,0.1159787999999998,0.0
+Eswatini,SWZ,LMICs,4295268357.0,0,Adaptation,Adaptation,5,5.070807,5.070807
+Eswatini,SWZ,LMICs,4295268357.0,3,Other-mitigation-projects,Mitigation,4,0.43999277999999997,0.43999277999999997
+Eswatini,SWZ,LMICs,4295268357.0,7,Other-environment-projects,Environment,2,0.0814839,0.0
+Eswatini,SWZ,LMICs,4295268357.0,8,Sustainable-land-use,Environment,3,0.3301572,0.0
+Ethiopia,ETH,LDCs,80206751231.0,0,Adaptation,Adaptation,101,78.84416602900001,78.84416602900001
+Ethiopia,ETH,LDCs,80206751231.0,1,Solar-energy,Mitigation,8,3.62278057,3.62278057
+Ethiopia,ETH,LDCs,80206751231.0,2,Bioenergy,Mitigation,2,0.0475579,0.0475579
+Ethiopia,ETH,LDCs,80206751231.0,3,Other-mitigation-projects,Mitigation,11,7.246527837,7.246527837
+Ethiopia,ETH,LDCs,80206751231.0,4,Biodiversity,Environment,16,2.8662936399999994,0.0
+Ethiopia,ETH,LDCs,80206751231.0,5,Geothermal-energy,Mitigation,4,19.578828,19.578828
+Ethiopia,ETH,LDCs,80206751231.0,6,Nature_conservation,Environment,18,4.4848209,0.0
+Ethiopia,ETH,LDCs,80206751231.0,7,Other-environment-projects,Environment,85,12.307450839999998,0.0
+Ethiopia,ETH,LDCs,80206751231.0,8,Sustainable-land-use,Environment,113,57.88031705,0.0
+Ethiopia,ETH,LDCs,80206751231.0,10,Renewables-multiple,Mitigation,13,5.237656690000001,5.237656690000001
+Ethiopia,ETH,LDCs,80206751231.0,11,Hydro-energy,Mitigation,14,4.9690058399999995,4.9690058399999995
+Ethiopia,ETH,LDCs,80206751231.0,12,Energy-efficiency,Mitigation,1,0.0160437,0.0160437
+Ethiopia,ETH,LDCs,80206751231.0,13,Wind-energy,Mitigation,4,0.1108079,0.1108079
+Fiji,FJI,Small Island Developing States,5207692828.0,0,Adaptation,Adaptation,19,2.33913802,2.33913802
+Fiji,FJI,Small Island Developing States,5207692828.0,3,Other-mitigation-projects,Mitigation,3,0.09506979999999969,0.09506979999999969
+Fiji,FJI,Small Island Developing States,5207692828.0,4,Biodiversity,Environment,1,0.025,0.0
+Fiji,FJI,Small Island Developing States,5207692828.0,6,Nature_conservation,Environment,6,0.3575996999999999,0.0
+Fiji,FJI,Small Island Developing States,5207692828.0,7,Other-environment-projects,Environment,13,0.5044944599999996,0.0
+Fiji,FJI,Small Island Developing States,5207692828.0,8,Sustainable-land-use,Environment,5,0.48701079999999997,0.0
+Fiji,FJI,Small Island Developing States,5207692828.0,10,Renewables-multiple,Mitigation,3,1.979139,1.979139
+Gabon,GAB,UMICs,15371345949.0,1,Solar-energy,Mitigation,1,7.634410000000001,7.634410000000001
+Gabon,GAB,UMICs,15371345949.0,2,Bioenergy,Mitigation,2,0.014708,0.014708
+Gabon,GAB,UMICs,15371345949.0,3,Other-mitigation-projects,Mitigation,3,1.45878,1.45878
+Gabon,GAB,UMICs,15371345949.0,4,Biodiversity,Environment,7,0.69118522,0.0
+Gabon,GAB,UMICs,15371345949.0,6,Nature_conservation,Environment,11,8.889559669999999,0.0
+Gabon,GAB,UMICs,15371345949.0,7,Other-environment-projects,Environment,4,0.03657668,0.0
+Gabon,GAB,UMICs,15371345949.0,8,Sustainable-land-use,Environment,12,8.0103613,0.0
+Gabon,GAB,UMICs,15371345949.0,10,Renewables-multiple,Mitigation,1,0.0,0.0
+Gambia,GMB,LDCs,1542251823.0,0,Adaptation,Adaptation,3,5.7052992300000005,5.7052992300000005
+Gambia,GMB,LDCs,1542251823.0,1,Solar-energy,Mitigation,1,0.0,0.0
+Gambia,GMB,LDCs,1542251823.0,7,Other-environment-projects,Environment,1,0.0139072999999999,0.0
+Gambia,GMB,LDCs,1542251823.0,8,Sustainable-land-use,Environment,9,0.1799224899999996,0.0
+Gambia,GMB,LDCs,1542251823.0,10,Renewables-multiple,Mitigation,1,0.00724062,0.00724062
+Georgia,GEO,LMICs,16336304380.0,0,Adaptation,Adaptation,8,1.8789836999999998,1.8789836999999998
+Georgia,GEO,LMICs,16336304380.0,1,Solar-energy,Mitigation,3,5.8218534,5.8218534
+Georgia,GEO,LMICs,16336304380.0,3,Other-mitigation-projects,Mitigation,6,130.73886,130.73886
+Georgia,GEO,LMICs,16336304380.0,4,Biodiversity,Environment,10,1.0190112999999998,0.0
+Georgia,GEO,LMICs,16336304380.0,6,Nature_conservation,Environment,8,2.5810901,0.0
+Georgia,GEO,LMICs,16336304380.0,7,Other-environment-projects,Environment,19,2.37519099,0.0
+Georgia,GEO,LMICs,16336304380.0,8,Sustainable-land-use,Environment,22,4.29025822,0.0
+Georgia,GEO,LMICs,16336304380.0,10,Renewables-multiple,Mitigation,6,6.1562149999999995,6.1562149999999995
+Georgia,GEO,LMICs,16336304380.0,11,Hydro-energy,Mitigation,14,9.140690900000001,9.140690900000001
+Georgia,GEO,LMICs,16336304380.0,12,Energy-efficiency,Mitigation,15,10.5477791,10.5477791
+Ghana,GHA,LMICs,59022565018.0,0,Adaptation,Adaptation,42,14.582334298,14.582334298
+Ghana,GHA,LMICs,59022565018.0,1,Solar-energy,Mitigation,9,12.26440607,12.26440607
+Ghana,GHA,LMICs,59022565018.0,2,Bioenergy,Mitigation,1,0.0226344,0.0226344
+Ghana,GHA,LMICs,59022565018.0,3,Other-mitigation-projects,Mitigation,8,1.7832051999999998,1.7832051999999998
+Ghana,GHA,LMICs,59022565018.0,4,Biodiversity,Environment,8,5.7666881,0.0
+Ghana,GHA,LMICs,59022565018.0,6,Nature_conservation,Environment,18,10.56581656,0.0
+Ghana,GHA,LMICs,59022565018.0,7,Other-environment-projects,Environment,57,32.87849569,0.0
+Ghana,GHA,LMICs,59022565018.0,8,Sustainable-land-use,Environment,75,15.219861757999997,0.0
+Ghana,GHA,LMICs,59022565018.0,10,Renewables-multiple,Mitigation,7,0.97356575,0.97356575
+Ghana,GHA,LMICs,59022565018.0,12,Energy-efficiency,Mitigation,14,0.42686,0.42686
+Ghana,GHA,LMICs,59022565018.0,13,Wind-energy,Mitigation,1,0.017023,0.017023
+Grenada,GRD,Small Island Developing States,1116238200.0,0,Adaptation,Adaptation,4,0.89229053,0.89229053
+Grenada,GRD,Small Island Developing States,1116238200.0,6,Nature_conservation,Environment,4,0.0903997599999999,0.0
+Grenada,GRD,Small Island Developing States,1116238200.0,7,Other-environment-projects,Environment,1,0.0095909999999999,0.0
+Guatemala,GTM,LMICs,69936159619.0,0,Adaptation,Adaptation,22,3.2922695399999995,3.2922695399999995
+Guatemala,GTM,LMICs,69936159619.0,1,Solar-energy,Mitigation,10,0.5230201689999998,0.5230201689999998
+Guatemala,GTM,LMICs,69936159619.0,2,Bioenergy,Mitigation,1,0.0,0.0
+Guatemala,GTM,LMICs,69936159619.0,3,Other-mitigation-projects,Mitigation,3,1.1674421,1.1674421
+Guatemala,GTM,LMICs,69936159619.0,4,Biodiversity,Environment,30,15.297191789,0.0
+Guatemala,GTM,LMICs,69936159619.0,6,Nature_conservation,Environment,27,4.106766479999999,0.0
+Guatemala,GTM,LMICs,69936159619.0,7,Other-environment-projects,Environment,88,13.63094941,0.0
+Guatemala,GTM,LMICs,69936159619.0,8,Sustainable-land-use,Environment,73,11.46185727,0.0
+Guatemala,GTM,LMICs,69936159619.0,10,Renewables-multiple,Mitigation,6,25.5404669,25.5404669
+Guatemala,GTM,LMICs,69936159619.0,11,Hydro-energy,Mitigation,5,2.05265089,2.05265089
+Guinea,GIN,LDCs,10706424125.0,0,Adaptation,Adaptation,21,2.252253857,2.252253857
+Guinea,GIN,LDCs,10706424125.0,1,Solar-energy,Mitigation,1,0.0,0.0
+Guinea,GIN,LDCs,10706424125.0,4,Biodiversity,Environment,1,0.02529,0.0
+Guinea,GIN,LDCs,10706424125.0,6,Nature_conservation,Environment,5,1.7908629,0.0
+Guinea,GIN,LDCs,10706424125.0,7,Other-environment-projects,Environment,5,0.1370510999999999,0.0
+Guinea,GIN,LDCs,10706424125.0,8,Sustainable-land-use,Environment,25,1.7296938099999999,0.0
+Guinea,GIN,LDCs,10706424125.0,10,Renewables-multiple,Mitigation,1,0.00724062,0.00724062
+Guinea,GIN,LDCs,10706424125.0,11,Hydro-energy,Mitigation,9,0.0,0.0
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,0,Adaptation,Adaptation,1,0.3,0.3
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,1,Solar-energy,Mitigation,6,0.17258297,0.17258297
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,4,Biodiversity,Environment,4,0.56417089,0.0
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,6,Nature_conservation,Environment,3,0.2728488,0.0
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,7,Other-environment-projects,Environment,5,0.11645304000000001,0.0
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,8,Sustainable-land-use,Environment,5,0.5171844,0.0
+Guinea-Bissau,GNB,Small Island Developing States,1274280002.0,10,Renewables-multiple,Mitigation,4,0.3595249199999999,0.3595249199999999
+Guyana,GUY,Small Island Developing States,3683111326.0,0,Adaptation,Adaptation,2,0.48403453,0.48403453
+Guyana,GUY,Small Island Developing States,3683111326.0,1,Solar-energy,Mitigation,1,0.0837378,0.0837378
+Guyana,GUY,Small Island Developing States,3683111326.0,3,Other-mitigation-projects,Mitigation,8,69.7892469,69.7892469
+Guyana,GUY,Small Island Developing States,3683111326.0,4,Biodiversity,Environment,2,0.0305266,0.0
+Guyana,GUY,Small Island Developing States,3683111326.0,6,Nature_conservation,Environment,4,6.254722000000001,0.0
+Guyana,GUY,Small Island Developing States,3683111326.0,8,Sustainable-land-use,Environment,9,0.6499999999999999,0.0
+Guyana,GUY,Small Island Developing States,3683111326.0,10,Renewables-multiple,Mitigation,1,0.0307938,0.0307938
+Haiti,HTI,Small Island Developing States,8652501130.0,0,Adaptation,Adaptation,82,29.17561003,29.17561003
+Haiti,HTI,Small Island Developing States,8652501130.0,1,Solar-energy,Mitigation,5,0.22744239,0.22744239
+Haiti,HTI,Small Island Developing States,8652501130.0,2,Bioenergy,Mitigation,3,7.7968399999999995,7.7968399999999995
+Haiti,HTI,Small Island Developing States,8652501130.0,4,Biodiversity,Environment,6,2.3088705,0.0
+Haiti,HTI,Small Island Developing States,8652501130.0,6,Nature_conservation,Environment,20,7.181519349999999,0.0
+Haiti,HTI,Small Island Developing States,8652501130.0,7,Other-environment-projects,Environment,71,102.4756322,0.0
+Haiti,HTI,Small Island Developing States,8652501130.0,8,Sustainable-land-use,Environment,89,30.000078210000005,0.0
+Haiti,HTI,Small Island Developing States,8652501130.0,10,Renewables-multiple,Mitigation,11,2.4913368399999998,2.4913368399999998
+Haiti,HTI,Small Island Developing States,8652501130.0,11,Hydro-energy,Mitigation,8,0.8660741599999999,0.8660741599999999
+Haiti,HTI,Small Island Developing States,8652501130.0,12,Energy-efficiency,Mitigation,2,1.96488,1.96488
+Honduras,HND,LMICs,22990641459.0,0,Adaptation,Adaptation,32,4.490970008,4.490970008
+Honduras,HND,LMICs,22990641459.0,1,Solar-energy,Mitigation,1,0.00331126,0.00331126
+Honduras,HND,LMICs,22990641459.0,2,Bioenergy,Mitigation,1,0.264901,0.264901
+Honduras,HND,LMICs,22990641459.0,3,Other-mitigation-projects,Mitigation,5,1.1314570640000001,1.1314570640000001
+Honduras,HND,LMICs,22990641459.0,4,Biodiversity,Environment,12,4.01523916,0.0
+Honduras,HND,LMICs,22990641459.0,5,Geothermal-energy,Mitigation,1,0.00642674,0.00642674
+Honduras,HND,LMICs,22990641459.0,6,Nature_conservation,Environment,25,1.76069932,0.0
+Honduras,HND,LMICs,22990641459.0,7,Other-environment-projects,Environment,73,7.934666335999999,0.0
+Honduras,HND,LMICs,22990641459.0,8,Sustainable-land-use,Environment,128,33.9136333574,0.0
+Honduras,HND,LMICs,22990641459.0,10,Renewables-multiple,Mitigation,6,37.1266212,37.1266212
+Honduras,HND,LMICs,22990641459.0,11,Hydro-energy,Mitigation,10,12.0116309,12.0116309
+India,IND,LMICs,2527890000000.0,0,Adaptation,Adaptation,176,64.981401659,64.981401659
+India,IND,LMICs,2527890000000.0,1,Solar-energy,Mitigation,40,35.91164003,35.91164003
+India,IND,LMICs,2527890000000.0,2,Bioenergy,Mitigation,37,34.743525850000005,34.743525850000005
+India,IND,LMICs,2527890000000.0,3,Other-mitigation-projects,Mitigation,96,21.31989213,21.31989213
+India,IND,LMICs,2527890000000.0,4,Biodiversity,Environment,43,10.37466101,0.0
+India,IND,LMICs,2527890000000.0,5,Geothermal-energy,Mitigation,2,0.0069999999999999,0.0069999999999999
+India,IND,LMICs,2527890000000.0,6,Nature_conservation,Environment,50,18.4865166716,0.0
+India,IND,LMICs,2527890000000.0,7,Other-environment-projects,Environment,95,83.15540352400001,0.0
+India,IND,LMICs,2527890000000.0,8,Sustainable-land-use,Environment,154,133.42186446,0.0
+India,IND,LMICs,2527890000000.0,9,Marine-energy,Mitigation,2,0.0491901,0.0491901
+India,IND,LMICs,2527890000000.0,10,Renewables-multiple,Mitigation,113,530.77769604,530.77769604
+India,IND,LMICs,2527890000000.0,11,Hydro-energy,Mitigation,82,296.9426697,296.9426697
+India,IND,LMICs,2527890000000.0,12,Energy-efficiency,Mitigation,82,572.05830774,572.05830774
+India,IND,LMICs,2527890000000.0,13,Wind-energy,Mitigation,4,2.8810513,2.8810513
+Indonesia,IDN,LMICs,993956000000.0,0,Adaptation,Adaptation,131,374.898474546,374.898474546
+Indonesia,IDN,LMICs,993956000000.0,1,Solar-energy,Mitigation,2,0.0,0.0
+Indonesia,IDN,LMICs,993956000000.0,2,Bioenergy,Mitigation,32,12.536662849999999,12.536662849999999
+Indonesia,IDN,LMICs,993956000000.0,3,Other-mitigation-projects,Mitigation,146,405.10671694000007,405.10671694000007
+Indonesia,IDN,LMICs,993956000000.0,4,Biodiversity,Environment,82,21.392170522,0.0
+Indonesia,IDN,LMICs,993956000000.0,5,Geothermal-energy,Mitigation,37,202.186099,202.186099
+Indonesia,IDN,LMICs,993956000000.0,6,Nature_conservation,Environment,92,55.535455216,0.0
+Indonesia,IDN,LMICs,993956000000.0,7,Other-environment-projects,Environment,154,36.062052206999994,0.0
+Indonesia,IDN,LMICs,993956000000.0,8,Sustainable-land-use,Environment,156,46.562501754,0.0
+Indonesia,IDN,LMICs,993956000000.0,10,Renewables-multiple,Mitigation,34,21.26424451,21.26424451
+Indonesia,IDN,LMICs,993956000000.0,11,Hydro-energy,Mitigation,78,61.5798348,61.5798348
+Indonesia,IDN,LMICs,993956000000.0,12,Energy-efficiency,Mitigation,13,8.4603698,8.4603698
+Iran,IRN,UMICs,416093000000.0,3,Other-mitigation-projects,Mitigation,5,6.33843,6.33843
+Iran,IRN,UMICs,416093000000.0,11,Hydro-energy,Mitigation,5,0.0,0.0
+Iran,IRN,UMICs,416093000000.0,12,Energy-efficiency,Mitigation,1,0.0143032999999999,0.0143032999999999
+Iraq,IRQ,UMICs,201235000000.0,0,Adaptation,Adaptation,5,0.9797899999999999,0.9797899999999999
+Iraq,IRQ,UMICs,201235000000.0,3,Other-mitigation-projects,Mitigation,1,3.42545,3.42545
+Iraq,IRQ,UMICs,201235000000.0,6,Nature_conservation,Environment,6,2.083252,0.0
+Iraq,IRQ,UMICs,201235000000.0,7,Other-environment-projects,Environment,4,4.8845272,0.0
+Iraq,IRQ,UMICs,201235000000.0,8,Sustainable-land-use,Environment,5,4.074937,0.0
+Iraq,IRQ,UMICs,201235000000.0,11,Hydro-energy,Mitigation,3,3.285885,3.285885
+Jamaica,JAM,Small Island Developing States,15048382267.0,0,Adaptation,Adaptation,19,5.0504345299999995,5.0504345299999995
+Jamaica,JAM,Small Island Developing States,15048382267.0,1,Solar-energy,Mitigation,6,0.3971689999999999,0.3971689999999999
+Jamaica,JAM,Small Island Developing States,15048382267.0,3,Other-mitigation-projects,Mitigation,2,0.268188,0.268188
+Jamaica,JAM,Small Island Developing States,15048382267.0,4,Biodiversity,Environment,10,0.1233648,0.0
+Jamaica,JAM,Small Island Developing States,15048382267.0,6,Nature_conservation,Environment,2,0.44745999999999997,0.0
+Jamaica,JAM,Small Island Developing States,15048382267.0,7,Other-environment-projects,Environment,55,4.986659329999999,0.0
+Jamaica,JAM,Small Island Developing States,15048382267.0,8,Sustainable-land-use,Environment,6,0.1559027,0.0
+Jamaica,JAM,Small Island Developing States,15048382267.0,10,Renewables-multiple,Mitigation,4,0.3878365999999999,0.3878365999999999
+Jamaica,JAM,Small Island Developing States,15048382267.0,11,Hydro-energy,Mitigation,1,0.0642205,0.0642205
+Jamaica,JAM,Small Island Developing States,15048382267.0,12,Energy-efficiency,Mitigation,1,0.084345,0.084345
+Jordan,JOR,LMICs,40784805634.0,0,Adaptation,Adaptation,7,0.05613983,0.05613983
+Jordan,JOR,LMICs,40784805634.0,1,Solar-energy,Mitigation,8,8.831698,8.831698
+Jordan,JOR,LMICs,40784805634.0,2,Bioenergy,Mitigation,1,0.0349139,0.0349139
+Jordan,JOR,LMICs,40784805634.0,3,Other-mitigation-projects,Mitigation,7,0.46597464999999993,0.46597464999999993
+Jordan,JOR,LMICs,40784805634.0,4,Biodiversity,Environment,27,4.268726685000001,0.0
+Jordan,JOR,LMICs,40784805634.0,6,Nature_conservation,Environment,4,0.0562659699999999,0.0
+Jordan,JOR,LMICs,40784805634.0,7,Other-environment-projects,Environment,77,34.41840387,0.0
+Jordan,JOR,LMICs,40784805634.0,8,Sustainable-land-use,Environment,14,2.34479494,0.0
+Jordan,JOR,LMICs,40784805634.0,10,Renewables-multiple,Mitigation,18,2.6909028999999998,2.6909028999999998
+Jordan,JOR,LMICs,40784805634.0,11,Hydro-energy,Mitigation,4,13.1531,13.1531
+Jordan,JOR,LMICs,40784805634.0,12,Energy-efficiency,Mitigation,18,15.784705299999999,15.784705299999999
+Kazakhstan,KAZ,UMICs,169595000000.0,3,Other-mitigation-projects,Mitigation,4,1.1208179999999999,1.1208179999999999
+Kazakhstan,KAZ,UMICs,169595000000.0,4,Biodiversity,Environment,8,0.6548141999999997,0.0
+Kazakhstan,KAZ,UMICs,169595000000.0,6,Nature_conservation,Environment,6,0.19169197999999982,0.0
+Kazakhstan,KAZ,UMICs,169595000000.0,7,Other-environment-projects,Environment,9,0.39217689999999994,0.0
+Kazakhstan,KAZ,UMICs,169595000000.0,8,Sustainable-land-use,Environment,3,0.02409081,0.0
+Kazakhstan,KAZ,UMICs,169595000000.0,9,Marine-energy,Mitigation,1,0.00793702,0.00793702
+Kazakhstan,KAZ,UMICs,169595000000.0,10,Renewables-multiple,Mitigation,5,0.7822013,0.7822013
+Kazakhstan,KAZ,UMICs,169595000000.0,12,Energy-efficiency,Mitigation,14,1.76547046,1.76547046
+Kazakhstan,KAZ,UMICs,169595000000.0,13,Wind-energy,Mitigation,1,0.411246,0.411246
+Kenya,KEN,LMICs,79088636338.0,0,Adaptation,Adaptation,118,61.70684664100001,61.70684664100001
+Kenya,KEN,LMICs,79088636338.0,1,Solar-energy,Mitigation,17,1.7018436399999999,1.7018436399999999
+Kenya,KEN,LMICs,79088636338.0,2,Bioenergy,Mitigation,21,1.1200175809999995,1.1200175809999995
+Kenya,KEN,LMICs,79088636338.0,3,Other-mitigation-projects,Mitigation,15,14.637987,14.637987
+Kenya,KEN,LMICs,79088636338.0,4,Biodiversity,Environment,63,16.575852052,0.0
+Kenya,KEN,LMICs,79088636338.0,5,Geothermal-energy,Mitigation,21,152.8118102,152.8118102
+Kenya,KEN,LMICs,79088636338.0,6,Nature_conservation,Environment,29,3.728267235,0.0
+Kenya,KEN,LMICs,79088636338.0,7,Other-environment-projects,Environment,93,14.787255555600002,0.0
+Kenya,KEN,LMICs,79088636338.0,8,Sustainable-land-use,Environment,115,81.76450154,0.0
+Kenya,KEN,LMICs,79088636338.0,9,Marine-energy,Mitigation,1,0.00188742,0.00188742
+Kenya,KEN,LMICs,79088636338.0,10,Renewables-multiple,Mitigation,13,28.9985304,28.9985304
+Kenya,KEN,LMICs,79088636338.0,11,Hydro-energy,Mitigation,17,36.2263656,36.2263656
+Kenya,KEN,LMICs,79088636338.0,12,Energy-efficiency,Mitigation,8,1.1560442,1.1560442
+Kenya,KEN,LMICs,79088636338.0,13,Wind-energy,Mitigation,4,3.9022560000000004,3.9022560000000004
+Kiribati,KIR,Small Island Developing States,185621610.8,0,Adaptation,Adaptation,9,2.083950598,2.083950598
+Kiribati,KIR,Small Island Developing States,185621610.8,3,Other-mitigation-projects,Mitigation,5,0.04378468,0.04378468
+Kiribati,KIR,Small Island Developing States,185621610.8,4,Biodiversity,Environment,4,0.0700658799999998,0.0
+Kiribati,KIR,Small Island Developing States,185621610.8,5,Geothermal-energy,Mitigation,1,0.057404,0.057404
+Kiribati,KIR,Small Island Developing States,185621610.8,8,Sustainable-land-use,Environment,5,0.9688766,0.0
+Kiribati,KIR,Small Island Developing States,185621610.8,10,Renewables-multiple,Mitigation,1,0.0,0.0
+Kosovo,XKX,LMICs,7255373020.0,3,Other-mitigation-projects,Mitigation,4,2.1715762,2.1715762
+Kosovo,XKX,LMICs,7255373020.0,4,Biodiversity,Environment,3,0.008807976,0.0
+Kosovo,XKX,LMICs,7255373020.0,6,Nature_conservation,Environment,3,3.181886,0.0
+Kosovo,XKX,LMICs,7255373020.0,7,Other-environment-projects,Environment,8,1.7586521899999998,0.0
+Kosovo,XKX,LMICs,7255373020.0,8,Sustainable-land-use,Environment,7,2.63900922,0.0
+Kosovo,XKX,LMICs,7255373020.0,10,Renewables-multiple,Mitigation,1,0.3114949999999999,0.3114949999999999
+Kosovo,XKX,LMICs,7255373020.0,12,Energy-efficiency,Mitigation,5,8.939313369999999,8.939313369999999
+Kyrgyzstan,KGZ,LMICs,7583986690.0,0,Adaptation,Adaptation,15,0.34523948999999976,0.34523948999999976
+Kyrgyzstan,KGZ,LMICs,7583986690.0,2,Bioenergy,Mitigation,2,0.02682003,0.02682003
+Kyrgyzstan,KGZ,LMICs,7583986690.0,3,Other-mitigation-projects,Mitigation,6,0.40751137,0.40751137
+Kyrgyzstan,KGZ,LMICs,7583986690.0,6,Nature_conservation,Environment,2,0.0680419999999999,0.0
+Kyrgyzstan,KGZ,LMICs,7583986690.0,7,Other-environment-projects,Environment,9,1.1262054,0.0
+Kyrgyzstan,KGZ,LMICs,7583986690.0,8,Sustainable-land-use,Environment,12,3.291512466,0.0
+Kyrgyzstan,KGZ,LMICs,7583986690.0,10,Renewables-multiple,Mitigation,1,0.1933079999999999,0.1933079999999999
+Kyrgyzstan,KGZ,LMICs,7583986690.0,11,Hydro-energy,Mitigation,6,1.8360702999999998,1.8360702999999998
+Kyrgyzstan,KGZ,LMICs,7583986690.0,12,Energy-efficiency,Mitigation,6,4.35013,4.35013
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,0,Adaptation,Adaptation,31,19.091630340000002,19.091630340000002
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,1,Solar-energy,Mitigation,1,5.46942,5.46942
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,2,Bioenergy,Mitigation,1,0.006561,0.006561
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,3,Other-mitigation-projects,Mitigation,14,4.439622669999999,4.439622669999999
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,4,Biodiversity,Environment,17,6.138587812,0.0
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,6,Nature_conservation,Environment,6,11.80343671,0.0
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,7,Other-environment-projects,Environment,47,13.114587512900002,0.0
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,8,Sustainable-land-use,Environment,51,29.21905556,0.0
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,10,Renewables-multiple,Mitigation,13,1.7936531,1.7936531
+Lao People's Democratic Republic,LAO,LDCs,16635369576.0,11,Hydro-energy,Mitigation,20,11.551027999999999,11.551027999999999
+Lebanon,LBN,UMICs,52522690724.0,0,Adaptation,Adaptation,7,0.7357919999999998,0.7357919999999998
+Lebanon,LBN,UMICs,52522690724.0,1,Solar-energy,Mitigation,3,0.3382699999999999,0.3382699999999999
+Lebanon,LBN,UMICs,52522690724.0,3,Other-mitigation-projects,Mitigation,1,0.00957557,0.00957557
+Lebanon,LBN,UMICs,52522690724.0,4,Biodiversity,Environment,4,5.5697562,0.0
+Lebanon,LBN,UMICs,52522690724.0,6,Nature_conservation,Environment,14,4.0034839,0.0
+Lebanon,LBN,UMICs,52522690724.0,7,Other-environment-projects,Environment,21,9.4937378,0.0
+Lebanon,LBN,UMICs,52522690724.0,8,Sustainable-land-use,Environment,19,9.88827695,0.0
+Lebanon,LBN,UMICs,52522690724.0,10,Renewables-multiple,Mitigation,3,1.5442330000000002,1.5442330000000002
+Lebanon,LBN,UMICs,52522690724.0,11,Hydro-energy,Mitigation,5,6.493352,6.493352
+Lebanon,LBN,UMICs,52522690724.0,12,Energy-efficiency,Mitigation,1,0.0338172,0.0338172
+Lesotho,LSO,LDCs,2395788510.0,0,Adaptation,Adaptation,13,11.72260168,11.72260168
+Lesotho,LSO,LDCs,2395788510.0,1,Solar-energy,Mitigation,2,3.7604176000000002,3.7604176000000002
+Lesotho,LSO,LDCs,2395788510.0,3,Other-mitigation-projects,Mitigation,1,0.00983404,0.00983404
+Lesotho,LSO,LDCs,2395788510.0,6,Nature_conservation,Environment,5,2.48545,0.0
+Lesotho,LSO,LDCs,2395788510.0,7,Other-environment-projects,Environment,9,0.53710451,0.0
+Lesotho,LSO,LDCs,2395788510.0,8,Sustainable-land-use,Environment,2,0.11246386,0.0
+Lesotho,LSO,LDCs,2395788510.0,11,Hydro-energy,Mitigation,2,0.361411,0.361411
+Liberia,LBR,LDCs,3214959820.0,0,Adaptation,Adaptation,2,-0.19465900000000003,-0.19465900000000003
+Liberia,LBR,LDCs,3214959820.0,1,Solar-energy,Mitigation,3,0.1015003999999999,0.1015003999999999
+Liberia,LBR,LDCs,3214959820.0,3,Other-mitigation-projects,Mitigation,6,2.93206619,2.93206619
+Liberia,LBR,LDCs,3214959820.0,4,Biodiversity,Environment,12,1.4100219999999999,0.0
+Liberia,LBR,LDCs,3214959820.0,6,Nature_conservation,Environment,1,0.0306399999999999,0.0
+Liberia,LBR,LDCs,3214959820.0,8,Sustainable-land-use,Environment,32,12.28159435,0.0
+Liberia,LBR,LDCs,3214959820.0,10,Renewables-multiple,Mitigation,6,0.4313306199999999,0.4313306199999999
+Liberia,LBR,LDCs,3214959820.0,11,Hydro-energy,Mitigation,4,5.1287341,5.1287341
+Liberia,LBR,LDCs,3214959820.0,12,Energy-efficiency,Mitigation,7,6.43069,6.43069
+Libya,LBY,UMICs,39321331613.0,6,Nature_conservation,Environment,1,0.0144105999999999,0.0
+Libya,LBY,UMICs,39321331613.0,7,Other-environment-projects,Environment,1,0.35,0.0
+Libya,LBY,UMICs,39321331613.0,8,Sustainable-land-use,Environment,1,0.00827815,0.0
+Libya,LBY,UMICs,39321331613.0,10,Renewables-multiple,Mitigation,2,0.0899743,0.0899743
+Madagascar,MDG,LDCs,12857058469.0,0,Adaptation,Adaptation,16,2.1548027,2.1548027
+Madagascar,MDG,LDCs,12857058469.0,1,Solar-energy,Mitigation,9,0.4111060299999999,0.4111060299999999
+Madagascar,MDG,LDCs,12857058469.0,2,Bioenergy,Mitigation,4,0.1239815,0.1239815
+Madagascar,MDG,LDCs,12857058469.0,3,Other-mitigation-projects,Mitigation,8,3.3042965,3.3042965
+Madagascar,MDG,LDCs,12857058469.0,4,Biodiversity,Environment,49,13.091208796,0.0
+Madagascar,MDG,LDCs,12857058469.0,6,Nature_conservation,Environment,36,24.187173933,0.0
+Madagascar,MDG,LDCs,12857058469.0,7,Other-environment-projects,Environment,44,3.8643805020799995,0.0
+Madagascar,MDG,LDCs,12857058469.0,8,Sustainable-land-use,Environment,65,26.455016844,0.0
+Madagascar,MDG,LDCs,12857058469.0,10,Renewables-multiple,Mitigation,10,2.4927742999999998,2.4927742999999998
+Madagascar,MDG,LDCs,12857058469.0,11,Hydro-energy,Mitigation,7,6.1236737,6.1236737
+Malawi,MWI,LDCs,6538710280.0,0,Adaptation,Adaptation,72,31.609838854000003,31.609838854000003
+Malawi,MWI,LDCs,6538710280.0,1,Solar-energy,Mitigation,5,7.544994900000001,7.544994900000001
+Malawi,MWI,LDCs,6538710280.0,2,Bioenergy,Mitigation,4,0.11699720999999991,0.11699720999999991
+Malawi,MWI,LDCs,6538710280.0,3,Other-mitigation-projects,Mitigation,7,15.63393472,15.63393472
+Malawi,MWI,LDCs,6538710280.0,4,Biodiversity,Environment,14,10.1528291,0.0
+Malawi,MWI,LDCs,6538710280.0,6,Nature_conservation,Environment,8,19.71933468,0.0
+Malawi,MWI,LDCs,6538710280.0,7,Other-environment-projects,Environment,27,3.0512916,0.0
+Malawi,MWI,LDCs,6538710280.0,8,Sustainable-land-use,Environment,53,8.41959409,0.0
+Malawi,MWI,LDCs,6538710280.0,10,Renewables-multiple,Mitigation,4,1.0836173999999998,1.0836173999999998
+Malawi,MWI,LDCs,6538710280.0,12,Energy-efficiency,Mitigation,7,4.6057575360000005,4.6057575360000005
+Malaysia,MYS,UMICs,328970000000.0,0,Adaptation,Adaptation,10,1.5981476899999998,1.5981476899999998
+Malaysia,MYS,UMICs,328970000000.0,1,Solar-energy,Mitigation,2,0.119458,0.119458
+Malaysia,MYS,UMICs,328970000000.0,3,Other-mitigation-projects,Mitigation,5,0.11824396999999989,0.11824396999999989
+Malaysia,MYS,UMICs,328970000000.0,4,Biodiversity,Environment,10,0.7922004999999998,0.0
+Malaysia,MYS,UMICs,328970000000.0,5,Geothermal-energy,Mitigation,1,0.0,0.0
+Malaysia,MYS,UMICs,328970000000.0,6,Nature_conservation,Environment,12,1.9762381999999996,0.0
+Malaysia,MYS,UMICs,328970000000.0,7,Other-environment-projects,Environment,15,0.85178679,0.0
+Malaysia,MYS,UMICs,328970000000.0,8,Sustainable-land-use,Environment,6,1.5025556999999998,0.0
+Malaysia,MYS,UMICs,328970000000.0,10,Renewables-multiple,Mitigation,8,26.5550217,26.5550217
+Malaysia,MYS,UMICs,328970000000.0,11,Hydro-energy,Mitigation,5,0.13166801,0.13166801
+Maldives,MDV,Small Island Developing States,4856251371.0,0,Adaptation,Adaptation,12,12.93356316,12.93356316
+Maldives,MDV,Small Island Developing States,4856251371.0,3,Other-mitigation-projects,Mitigation,3,0.46768897000000004,0.46768897000000004
+Maldives,MDV,Small Island Developing States,4856251371.0,4,Biodiversity,Environment,3,0.28392090000000003,0.0
+Maldives,MDV,Small Island Developing States,4856251371.0,6,Nature_conservation,Environment,1,0.104736,0.0
+Maldives,MDV,Small Island Developing States,4856251371.0,7,Other-environment-projects,Environment,3,0.7334049999999999,0.0
+Maldives,MDV,Small Island Developing States,4856251371.0,8,Sustainable-land-use,Environment,1,0.0,0.0
+Maldives,MDV,Small Island Developing States,4856251371.0,10,Renewables-multiple,Mitigation,4,12.0440732,12.0440732
+Mali,MLI,LDCs,15436528478.0,0,Adaptation,Adaptation,53,25.220883661,25.220883661
+Mali,MLI,LDCs,15436528478.0,1,Solar-energy,Mitigation,27,1.2901591699999997,1.2901591699999997
+Mali,MLI,LDCs,15436528478.0,2,Bioenergy,Mitigation,1,0.0,0.0
+Mali,MLI,LDCs,15436528478.0,3,Other-mitigation-projects,Mitigation,11,1.83612243,1.83612243
+Mali,MLI,LDCs,15436528478.0,4,Biodiversity,Environment,25,3.3692322749999994,0.0
+Mali,MLI,LDCs,15436528478.0,5,Geothermal-energy,Mitigation,1,0.0208565,0.0208565
+Mali,MLI,LDCs,15436528478.0,6,Nature_conservation,Environment,15,3.0685284489999995,0.0
+Mali,MLI,LDCs,15436528478.0,7,Other-environment-projects,Environment,93,9.236484265,0.0
+Mali,MLI,LDCs,15436528478.0,8,Sustainable-land-use,Environment,99,19.392464615199998,0.0
+Mali,MLI,LDCs,15436528478.0,10,Renewables-multiple,Mitigation,7,0.37985852,0.37985852
+Mali,MLI,LDCs,15436528478.0,11,Hydro-energy,Mitigation,3,0.18680074,0.18680074
+Marshall Islands,MHL,Small Island Developing States,204829250.0,0,Adaptation,Adaptation,13,2.5551985900000003,2.5551985900000003
+Marshall Islands,MHL,Small Island Developing States,204829250.0,1,Solar-energy,Mitigation,5,6.340733299999999,6.340733299999999
+Marshall Islands,MHL,Small Island Developing States,204829250.0,3,Other-mitigation-projects,Mitigation,1,0.000789337,0.000789337
+Marshall Islands,MHL,Small Island Developing States,204829250.0,6,Nature_conservation,Environment,1,0.0577,0.0
+Mauritania,MRT,LDCs,6793383017.0,0,Adaptation,Adaptation,4,13.517381,13.517381
+Mauritania,MRT,LDCs,6793383017.0,1,Solar-energy,Mitigation,8,45.3166481,45.3166481
+Mauritania,MRT,LDCs,6793383017.0,4,Biodiversity,Environment,2,6.527017000000001,0.0
+Mauritania,MRT,LDCs,6793383017.0,6,Nature_conservation,Environment,5,0.747647,0.0
+Mauritania,MRT,LDCs,6793383017.0,7,Other-environment-projects,Environment,4,1.020446,0.0
+Mauritania,MRT,LDCs,6793383017.0,8,Sustainable-land-use,Environment,10,8.410651430000001,0.0
+Mauritius,MUS,Small Island Developing States,13109270082.0,0,Adaptation,Adaptation,3,0.0217099599999999,0.0217099599999999
+Mauritius,MUS,Small Island Developing States,13109270082.0,6,Nature_conservation,Environment,4,0.1951880299999997,0.0
+Mauritius,MUS,Small Island Developing States,13109270082.0,7,Other-environment-projects,Environment,6,47.7883,0.0
+Mauritius,MUS,Small Island Developing States,13109270082.0,8,Sustainable-land-use,Environment,3,62.5923464,0.0
+Mauritius,MUS,Small Island Developing States,13109270082.0,12,Energy-efficiency,Mitigation,7,33.10891,33.10891
+Mexico,MEX,UMICs,1177040000000.0,0,Adaptation,Adaptation,44,249.88590926999998,249.88590926999998
+Mexico,MEX,UMICs,1177040000000.0,1,Solar-energy,Mitigation,6,0.0632532299999998,0.0632532299999998
+Mexico,MEX,UMICs,1177040000000.0,2,Bioenergy,Mitigation,11,1.03450474,1.03450474
+Mexico,MEX,UMICs,1177040000000.0,3,Other-mitigation-projects,Mitigation,76,460.0323067130001,460.0323067130001
+Mexico,MEX,UMICs,1177040000000.0,4,Biodiversity,Environment,63,6.6714331829999995,0.0
+Mexico,MEX,UMICs,1177040000000.0,5,Geothermal-energy,Mitigation,1,0.0139043,0.0139043
+Mexico,MEX,UMICs,1177040000000.0,6,Nature_conservation,Environment,70,5.912083871000002,0.0
+Mexico,MEX,UMICs,1177040000000.0,7,Other-environment-projects,Environment,108,20.336026682,0.0
+Mexico,MEX,UMICs,1177040000000.0,8,Sustainable-land-use,Environment,83,5.102971853,0.0
+Mexico,MEX,UMICs,1177040000000.0,10,Renewables-multiple,Mitigation,15,86.40362732999999,86.40362732999999
+Mexico,MEX,UMICs,1177040000000.0,11,Hydro-energy,Mitigation,1,0.00169536,0.00169536
+Mexico,MEX,UMICs,1177040000000.0,12,Energy-efficiency,Mitigation,13,68.53967260000002,68.53967260000002
+Mexico,MEX,UMICs,1177040000000.0,13,Wind-energy,Mitigation,3,0.0748,0.0748
+Micronesia,FSM,Small Island Developing States,354338550.0,0,Adaptation,Adaptation,5,2.57667841,2.57667841
+Micronesia,FSM,Small Island Developing States,354338550.0,1,Solar-energy,Mitigation,1,6.03916,6.03916
+Micronesia,FSM,Small Island Developing States,354338550.0,6,Nature_conservation,Environment,2,0.0265617,0.0
+Micronesia,FSM,Small Island Developing States,354338550.0,7,Other-environment-projects,Environment,1,0.0624649,0.0
+Micronesia,FSM,Small Island Developing States,354338550.0,8,Sustainable-land-use,Environment,1,0.02485,0.0
+Moldova,MDA,LMICs,9779863582.0,1,Solar-energy,Mitigation,2,5.2483894,5.2483894
+Moldova,MDA,LMICs,9779863582.0,4,Biodiversity,Environment,3,0.3218937999999999,0.0
+Moldova,MDA,LMICs,9779863582.0,6,Nature_conservation,Environment,1,0.207584,0.0
+Moldova,MDA,LMICs,9779863582.0,7,Other-environment-projects,Environment,26,1.8954005099999998,0.0
+Moldova,MDA,LMICs,9779863582.0,8,Sustainable-land-use,Environment,3,0.175257273,0.0
+Moldova,MDA,LMICs,9779863582.0,10,Renewables-multiple,Mitigation,8,4.6731578,4.6731578
+Moldova,MDA,LMICs,9779863582.0,12,Energy-efficiency,Mitigation,17,6.775702128,6.775702128
+Mongolia,MNG,LMICs,12264746066.0,0,Adaptation,Adaptation,20,7.613227,7.613227
+Mongolia,MNG,LMICs,12264746066.0,1,Solar-energy,Mitigation,6,8.587251,8.587251
+Mongolia,MNG,LMICs,12264746066.0,2,Bioenergy,Mitigation,1,0.006561,0.006561
+Mongolia,MNG,LMICs,12264746066.0,3,Other-mitigation-projects,Mitigation,11,3.3297203,3.3297203
+Mongolia,MNG,LMICs,12264746066.0,4,Biodiversity,Environment,9,5.6495664,0.0
+Mongolia,MNG,LMICs,12264746066.0,6,Nature_conservation,Environment,23,16.5228860305,0.0
+Mongolia,MNG,LMICs,12264746066.0,7,Other-environment-projects,Environment,38,54.21098335,0.0
+Mongolia,MNG,LMICs,12264746066.0,8,Sustainable-land-use,Environment,37,14.35179961,0.0
+Mongolia,MNG,LMICs,12264746066.0,10,Renewables-multiple,Mitigation,13,13.989830099999999,13.989830099999999
+Mongolia,MNG,LMICs,12264746066.0,11,Hydro-energy,Mitigation,6,0.451621,0.451621
+Mongolia,MNG,LMICs,12264746066.0,12,Energy-efficiency,Mitigation,19,42.0300352,42.0300352
+Mongolia,MNG,LMICs,12264746066.0,13,Wind-energy,Mitigation,2,1.71315,1.71315
+Montenegro,MNE,UMICs,4857976293.0,1,Solar-energy,Mitigation,1,0.0,0.0
+Montenegro,MNE,UMICs,4857976293.0,2,Bioenergy,Mitigation,2,0.983936,0.983936
+Montenegro,MNE,UMICs,4857976293.0,3,Other-mitigation-projects,Mitigation,1,2.5706900000000004,2.5706900000000004
+Montenegro,MNE,UMICs,4857976293.0,4,Biodiversity,Environment,1,0.0308483,0.0
+Montenegro,MNE,UMICs,4857976293.0,6,Nature_conservation,Environment,6,0.6118316999999998,0.0
+Montenegro,MNE,UMICs,4857976293.0,7,Other-environment-projects,Environment,5,0.4137110999999997,0.0
+Montenegro,MNE,UMICs,4857976293.0,8,Sustainable-land-use,Environment,14,2.11891295,0.0
+Montenegro,MNE,UMICs,4857976293.0,10,Renewables-multiple,Mitigation,4,0.24185247999999993,0.24185247999999993
+Montenegro,MNE,UMICs,4857976293.0,11,Hydro-energy,Mitigation,11,3.903974,3.903974
+Montenegro,MNE,UMICs,4857976293.0,12,Energy-efficiency,Mitigation,12,7.3223059,7.3223059
+Montserrat,MSR,UMICs,67000000.0,5,Geothermal-energy,Mitigation,4,2.523736,2.523736
+Montserrat,MSR,UMICs,67000000.0,7,Other-environment-projects,Environment,1,0.00614568,0.0
+Montserrat,MSR,UMICs,67000000.0,13,Wind-energy,Mitigation,1,0.00130541,0.00130541
+Morocco,MAR,LMICs,110170000000.0,0,Adaptation,Adaptation,46,6.2780819026,6.2780819026
+Morocco,MAR,LMICs,110170000000.0,1,Solar-energy,Mitigation,35,87.592316211,87.592316211
+Morocco,MAR,LMICs,110170000000.0,2,Bioenergy,Mitigation,6,0.05290831,0.05290831
+Morocco,MAR,LMICs,110170000000.0,3,Other-mitigation-projects,Mitigation,10,5.409481266,5.409481266
+Morocco,MAR,LMICs,110170000000.0,4,Biodiversity,Environment,28,2.7828837364701995,0.0
+Morocco,MAR,LMICs,110170000000.0,5,Geothermal-energy,Mitigation,1,0.00611791,0.00611791
+Morocco,MAR,LMICs,110170000000.0,6,Nature_conservation,Environment,26,4.340719889999999,0.0
+Morocco,MAR,LMICs,110170000000.0,7,Other-environment-projects,Environment,130,18.76096411708,0.0
+Morocco,MAR,LMICs,110170000000.0,8,Sustainable-land-use,Environment,78,11.388625041999997,0.0
+Morocco,MAR,LMICs,110170000000.0,9,Marine-energy,Mitigation,1,0.0868873999999999,0.0868873999999999
+Morocco,MAR,LMICs,110170000000.0,10,Renewables-multiple,Mitigation,15,6.279760400000001,6.279760400000001
+Morocco,MAR,LMICs,110170000000.0,11,Hydro-energy,Mitigation,18,21.4002466,21.4002466
+Morocco,MAR,LMICs,110170000000.0,12,Energy-efficiency,Mitigation,11,0.8323285999999999,0.8323285999999999
+Morocco,MAR,LMICs,110170000000.0,13,Wind-energy,Mitigation,8,16.2520785,16.2520785
+Mozambique,MOZ,LDCs,14151687139.0,0,Adaptation,Adaptation,58,34.2796851,34.2796851
+Mozambique,MOZ,LDCs,14151687139.0,1,Solar-energy,Mitigation,10,16.2641775,16.2641775
+Mozambique,MOZ,LDCs,14151687139.0,2,Bioenergy,Mitigation,10,6.589586880000001,6.589586880000001
+Mozambique,MOZ,LDCs,14151687139.0,3,Other-mitigation-projects,Mitigation,4,2.1102948,2.1102948
+Mozambique,MOZ,LDCs,14151687139.0,4,Biodiversity,Environment,24,6.513971229999999,0.0
+Mozambique,MOZ,LDCs,14151687139.0,6,Nature_conservation,Environment,20,16.96746151,0.0
+Mozambique,MOZ,LDCs,14151687139.0,7,Other-environment-projects,Environment,78,31.325899079999996,0.0
+Mozambique,MOZ,LDCs,14151687139.0,8,Sustainable-land-use,Environment,84,35.05717308,0.0
+Mozambique,MOZ,LDCs,14151687139.0,10,Renewables-multiple,Mitigation,17,11.222779899999999,11.222779899999999
+Mozambique,MOZ,LDCs,14151687139.0,11,Hydro-energy,Mitigation,13,0.29626055,0.29626055
+Myanmar,MMR,LDCs,71241354706.0,0,Adaptation,Adaptation,15,0.9325505999999999,0.9325505999999999
+Myanmar,MMR,LDCs,71241354706.0,2,Bioenergy,Mitigation,1,0.00328,0.00328
+Myanmar,MMR,LDCs,71241354706.0,3,Other-mitigation-projects,Mitigation,4,0.0896736299999999,0.0896736299999999
+Myanmar,MMR,LDCs,71241354706.0,4,Biodiversity,Environment,1,0.0398305,0.0
+Myanmar,MMR,LDCs,71241354706.0,6,Nature_conservation,Environment,6,1.412197,0.0
+Myanmar,MMR,LDCs,71241354706.0,7,Other-environment-projects,Environment,8,0.1095286,0.0
+Myanmar,MMR,LDCs,71241354706.0,8,Sustainable-land-use,Environment,18,1.7640880499999998,0.0
+Myanmar,MMR,LDCs,71241354706.0,10,Renewables-multiple,Mitigation,2,0.0687705999999999,0.0687705999999999
+Myanmar,MMR,LDCs,71241354706.0,11,Hydro-energy,Mitigation,3,0.46868234,0.46868234
+Namibia,NAM,UMICs,12100052698.0,0,Adaptation,Adaptation,14,3.008376331,3.008376331
+Namibia,NAM,UMICs,12100052698.0,1,Solar-energy,Mitigation,14,1.2000444899999996,1.2000444899999996
+Namibia,NAM,UMICs,12100052698.0,2,Bioenergy,Mitigation,1,0.0812539999999999,0.0812539999999999
+Namibia,NAM,UMICs,12100052698.0,3,Other-mitigation-projects,Mitigation,1,0.00737553,0.00737553
+Namibia,NAM,UMICs,12100052698.0,4,Biodiversity,Environment,2,1.1187719999999999,0.0
+Namibia,NAM,UMICs,12100052698.0,6,Nature_conservation,Environment,7,3.422017,0.0
+Namibia,NAM,UMICs,12100052698.0,7,Other-environment-projects,Environment,12,1.03578469,0.0
+Namibia,NAM,UMICs,12100052698.0,8,Sustainable-land-use,Environment,17,9.64860642,0.0
+Namibia,NAM,UMICs,12100052698.0,10,Renewables-multiple,Mitigation,3,0.0996818,0.0996818
+Namibia,NAM,UMICs,12100052698.0,11,Hydro-energy,Mitigation,3,48.13974,48.13974
+Namibia,NAM,UMICs,12100052698.0,12,Energy-efficiency,Mitigation,1,0.062697,0.062697
+Nauru,NRU,Small Island Developing States,107739476.1,0,Adaptation,Adaptation,5,1.550503406,1.550503406
+Nauru,NRU,Small Island Developing States,107739476.1,1,Solar-energy,Mitigation,3,0.35046999999999984,0.35046999999999984
+Nauru,NRU,Small Island Developing States,107739476.1,10,Renewables-multiple,Mitigation,2,5.824866,5.824866
+Nepal,NPL,LDCs,25518448233.0,0,Adaptation,Adaptation,111,28.113837040299998,28.113837040299998
+Nepal,NPL,LDCs,25518448233.0,1,Solar-energy,Mitigation,11,24.739853200000002,24.739853200000002
+Nepal,NPL,LDCs,25518448233.0,2,Bioenergy,Mitigation,21,4.68666636,4.68666636
+Nepal,NPL,LDCs,25518448233.0,3,Other-mitigation-projects,Mitigation,24,12.62376979,12.62376979
+Nepal,NPL,LDCs,25518448233.0,4,Biodiversity,Environment,21,1.2666972049999998,0.0
+Nepal,NPL,LDCs,25518448233.0,6,Nature_conservation,Environment,13,10.54220359,0.0
+Nepal,NPL,LDCs,25518448233.0,7,Other-environment-projects,Environment,31,15.59485854,0.0
+Nepal,NPL,LDCs,25518448233.0,8,Sustainable-land-use,Environment,54,26.42923277,0.0
+Nepal,NPL,LDCs,25518448233.0,10,Renewables-multiple,Mitigation,24,10.098600300000001,10.098600300000001
+Nepal,NPL,LDCs,25518448233.0,11,Hydro-energy,Mitigation,37,62.78583168,62.78583168
+Nepal,NPL,LDCs,25518448233.0,12,Energy-efficiency,Mitigation,8,3.1491486599999994,3.1491486599999994
+Nepal,NPL,LDCs,25518448233.0,13,Wind-energy,Mitigation,4,0.57253453,0.57253453
+Nicaragua,NIC,LMICs,13082697368.0,0,Adaptation,Adaptation,32,5.8427115270000005,5.8427115270000005
+Nicaragua,NIC,LMICs,13082697368.0,1,Solar-energy,Mitigation,15,12.85314038,12.85314038
+Nicaragua,NIC,LMICs,13082697368.0,2,Bioenergy,Mitigation,1,0.0552433,0.0552433
+Nicaragua,NIC,LMICs,13082697368.0,3,Other-mitigation-projects,Mitigation,7,1.2570839870000001,1.2570839870000001
+Nicaragua,NIC,LMICs,13082697368.0,4,Biodiversity,Environment,21,4.42384238,0.0
+Nicaragua,NIC,LMICs,13082697368.0,5,Geothermal-energy,Mitigation,1,0.0,0.0
+Nicaragua,NIC,LMICs,13082697368.0,6,Nature_conservation,Environment,47,8.6962459334,0.0
+Nicaragua,NIC,LMICs,13082697368.0,7,Other-environment-projects,Environment,136,37.81323221200001,0.0
+Nicaragua,NIC,LMICs,13082697368.0,8,Sustainable-land-use,Environment,101,20.426305,0.0
+Nicaragua,NIC,LMICs,13082697368.0,10,Renewables-multiple,Mitigation,22,20.343962674000004,20.343962674000004
+Nicaragua,NIC,LMICs,13082697368.0,11,Hydro-energy,Mitigation,11,13.0951795,13.0951795
+Nicaragua,NIC,LMICs,13082697368.0,12,Energy-efficiency,Mitigation,3,0.9802909999999999,0.9802909999999999
+Nicaragua,NIC,LMICs,13082697368.0,13,Wind-energy,Mitigation,4,0.9442383299999999,0.9442383299999999
+Niger,NER,LDCs,11374635240.0,0,Adaptation,Adaptation,48,10.060767267,10.060767267
+Niger,NER,LDCs,11374635240.0,1,Solar-energy,Mitigation,3,0.0820055,0.0820055
+Niger,NER,LDCs,11374635240.0,2,Bioenergy,Mitigation,4,0.1006406999999997,0.1006406999999997
+Niger,NER,LDCs,11374635240.0,3,Other-mitigation-projects,Mitigation,1,0.0016655,0.0016655
+Niger,NER,LDCs,11374635240.0,4,Biodiversity,Environment,16,1.2110273599999999,0.0
+Niger,NER,LDCs,11374635240.0,6,Nature_conservation,Environment,5,1.8402160389999997,0.0
+Niger,NER,LDCs,11374635240.0,7,Other-environment-projects,Environment,35,2.3180129309999997,0.0
+Niger,NER,LDCs,11374635240.0,8,Sustainable-land-use,Environment,52,19.0621367234,0.0
+Niger,NER,LDCs,11374635240.0,10,Renewables-multiple,Mitigation,1,0.00724062,0.00724062
+Nigeria,NGA,LMICs,424252000000.0,0,Adaptation,Adaptation,21,33.62363292,33.62363292
+Nigeria,NGA,LMICs,424252000000.0,1,Solar-energy,Mitigation,5,0.21004862000000002,0.21004862000000002
+Nigeria,NGA,LMICs,424252000000.0,2,Bioenergy,Mitigation,3,0.0262385,0.0262385
+Nigeria,NGA,LMICs,424252000000.0,3,Other-mitigation-projects,Mitigation,7,0.09850999999999979,0.09850999999999979
+Nigeria,NGA,LMICs,424252000000.0,4,Biodiversity,Environment,2,0.780724,0.0
+Nigeria,NGA,LMICs,424252000000.0,6,Nature_conservation,Environment,1,0.0391796,0.0
+Nigeria,NGA,LMICs,424252000000.0,7,Other-environment-projects,Environment,24,2.2951295999999997,0.0
+Nigeria,NGA,LMICs,424252000000.0,8,Sustainable-land-use,Environment,17,0.46931229999999946,0.0
+Nigeria,NGA,LMICs,424252000000.0,10,Renewables-multiple,Mitigation,17,12.95423813,12.95423813
+Nigeria,NGA,LMICs,424252000000.0,11,Hydro-energy,Mitigation,8,25.4115041,25.4115041
+Nigeria,NGA,LMICs,424252000000.0,12,Energy-efficiency,Mitigation,3,0.26855,0.26855
+Niue,NIU,UMICs,24000000.0,0,Adaptation,Adaptation,7,2.532982896,2.532982896
+Niue,NIU,UMICs,24000000.0,8,Sustainable-land-use,Environment,1,0.00577796,0.0
+North Macedonia,MKD,UMICs,11473544774.0,0,Adaptation,Adaptation,4,0.098452543,0.098452543
+North Macedonia,MKD,UMICs,11473544774.0,1,Solar-energy,Mitigation,1,0.0994702,0.0994702
+North Macedonia,MKD,UMICs,11473544774.0,3,Other-mitigation-projects,Mitigation,5,1.98229679,1.98229679
+North Macedonia,MKD,UMICs,11473544774.0,4,Biodiversity,Environment,6,0.7400878999999997,0.0
+North Macedonia,MKD,UMICs,11473544774.0,5,Geothermal-energy,Mitigation,3,0.1751323,0.1751323
+North Macedonia,MKD,UMICs,11473544774.0,6,Nature_conservation,Environment,14,2.74879493,0.0
+North Macedonia,MKD,UMICs,11473544774.0,7,Other-environment-projects,Environment,39,10.529095075,0.0
+North Macedonia,MKD,UMICs,11473544774.0,8,Sustainable-land-use,Environment,5,0.17667984999999992,0.0
+North Macedonia,MKD,UMICs,11473544774.0,10,Renewables-multiple,Mitigation,8,35.1902812,35.1902812
+North Macedonia,MKD,UMICs,11473544774.0,11,Hydro-energy,Mitigation,1,0.0166795,0.0166795
+North Macedonia,MKD,UMICs,11473544774.0,12,Energy-efficiency,Mitigation,11,1.1517008999999996,1.1517008999999996
+Oman,OMN,MADCTs,72147984395.0,4,Biodiversity,Environment,1,0.00297,0.0
+Oman,OMN,MADCTs,72147984395.0,8,Sustainable-land-use,Environment,1,0.005823,0.0
+Pakistan,PAK,LMICs,289314000000.0,0,Adaptation,Adaptation,54,7.7380812599999995,7.7380812599999995
+Pakistan,PAK,LMICs,289314000000.0,1,Solar-energy,Mitigation,7,6.51699,6.51699
+Pakistan,PAK,LMICs,289314000000.0,2,Bioenergy,Mitigation,9,1.870037,1.870037
+Pakistan,PAK,LMICs,289314000000.0,3,Other-mitigation-projects,Mitigation,2,0.0616954,0.0616954
+Pakistan,PAK,LMICs,289314000000.0,4,Biodiversity,Environment,7,1.01633503,0.0
+Pakistan,PAK,LMICs,289314000000.0,6,Nature_conservation,Environment,7,4.57212607,0.0
+Pakistan,PAK,LMICs,289314000000.0,7,Other-environment-projects,Environment,10,1.8005288,0.0
+Pakistan,PAK,LMICs,289314000000.0,8,Sustainable-land-use,Environment,10,6.96352388,0.0
+Pakistan,PAK,LMICs,289314000000.0,10,Renewables-multiple,Mitigation,11,7.1854747,7.1854747
+Pakistan,PAK,LMICs,289314000000.0,11,Hydro-energy,Mitigation,24,47.39520492,47.39520492
+Pakistan,PAK,LMICs,289314000000.0,12,Energy-efficiency,Mitigation,34,102.2810033801,102.2810033801
+Pakistan,PAK,LMICs,289314000000.0,13,Wind-energy,Mitigation,1,0.0,0.0
+Palau,PLW,UMICs,287704600.0,0,Adaptation,Adaptation,4,1.4481132060000002,1.4481132060000002
+Palau,PLW,UMICs,287704600.0,1,Solar-energy,Mitigation,1,5.46942,5.46942
+Palau,PLW,UMICs,287704600.0,3,Other-mitigation-projects,Mitigation,1,0.000786102,0.000786102
+Palau,PLW,UMICs,287704600.0,6,Nature_conservation,Environment,2,0.10445068,0.0
+Palau,PLW,UMICs,287704600.0,7,Other-environment-projects,Environment,2,0.0645073,0.0
+Panama,PAN,UMICs,61229480000.0,0,Adaptation,Adaptation,6,0.08321002999999999,0.08321002999999999
+Panama,PAN,UMICs,61229480000.0,3,Other-mitigation-projects,Mitigation,3,1.380706,1.380706
+Panama,PAN,UMICs,61229480000.0,4,Biodiversity,Environment,13,5.5639858,0.0
+Panama,PAN,UMICs,61229480000.0,6,Nature_conservation,Environment,7,0.5495954599999999,0.0
+Panama,PAN,UMICs,61229480000.0,7,Other-environment-projects,Environment,9,2.15685641,0.0
+Panama,PAN,UMICs,61229480000.0,8,Sustainable-land-use,Environment,18,0.7839892399999998,0.0
+Panama,PAN,UMICs,61229480000.0,10,Renewables-multiple,Mitigation,5,10.91186553,10.91186553
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,0,Adaptation,Adaptation,18,3.0443163859999998,3.0443163859999998
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,3,Other-mitigation-projects,Mitigation,7,2.6428247000000002,2.6428247000000002
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,4,Biodiversity,Environment,3,0.1643600399999999,0.0
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,6,Nature_conservation,Environment,10,13.025895,0.0
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,7,Other-environment-projects,Environment,11,0.8872648,0.0
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,8,Sustainable-land-use,Environment,14,1.8547179499999997,0.0
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,10,Renewables-multiple,Mitigation,1,0.011026,0.011026
+Papua New Guinea,PNG,Small Island Developing States,22721464066.0,11,Hydro-energy,Mitigation,1,0.0198675,0.0198675
+Paraguay,PRY,UMICs,37951446286.0,0,Adaptation,Adaptation,9,0.2398429199999999,0.2398429199999999
+Paraguay,PRY,UMICs,37951446286.0,2,Bioenergy,Mitigation,2,0.010177410000000001,0.010177410000000001
+Paraguay,PRY,UMICs,37951446286.0,3,Other-mitigation-projects,Mitigation,2,1.2390670000000001,1.2390670000000001
+Paraguay,PRY,UMICs,37951446286.0,4,Biodiversity,Environment,18,1.82660136,0.0
+Paraguay,PRY,UMICs,37951446286.0,6,Nature_conservation,Environment,17,10.386606299999999,0.0
+Paraguay,PRY,UMICs,37951446286.0,7,Other-environment-projects,Environment,5,0.2032451,0.0
+Paraguay,PRY,UMICs,37951446286.0,8,Sustainable-land-use,Environment,24,3.60192012,0.0
+Paraguay,PRY,UMICs,37951446286.0,11,Hydro-energy,Mitigation,3,7.44705,7.44705
+Peru,PER,UMICs,208320000000.0,0,Adaptation,Adaptation,126,38.91946262,38.91946262
+Peru,PER,UMICs,208320000000.0,1,Solar-energy,Mitigation,9,5.044409829999999,5.044409829999999
+Peru,PER,UMICs,208320000000.0,2,Bioenergy,Mitigation,9,0.48905229,0.48905229
+Peru,PER,UMICs,208320000000.0,3,Other-mitigation-projects,Mitigation,25,3.4813686399999995,3.4813686399999995
+Peru,PER,UMICs,208320000000.0,4,Biodiversity,Environment,76,17.637954643999997,0.0
+Peru,PER,UMICs,208320000000.0,5,Geothermal-energy,Mitigation,4,0.1399014999999998,0.1399014999999998
+Peru,PER,UMICs,208320000000.0,6,Nature_conservation,Environment,45,28.553241054999997,0.0
+Peru,PER,UMICs,208320000000.0,7,Other-environment-projects,Environment,188,57.557577924000014,0.0
+Peru,PER,UMICs,208320000000.0,8,Sustainable-land-use,Environment,166,50.576391404,0.0
+Peru,PER,UMICs,208320000000.0,9,Marine-energy,Mitigation,1,0.00167526,0.00167526
+Peru,PER,UMICs,208320000000.0,10,Renewables-multiple,Mitigation,24,7.045839861,7.045839861
+Peru,PER,UMICs,208320000000.0,11,Hydro-energy,Mitigation,10,0.8378673699999999,0.8378673699999999
+Peru,PER,UMICs,208320000000.0,12,Energy-efficiency,Mitigation,1,0.16,0.16
+Peru,PER,UMICs,208320000000.0,13,Wind-energy,Mitigation,4,0.02409964,0.02409964
+Philippines,PHL,LMICs,335438000000.0,0,Adaptation,Adaptation,71,58.928536772,58.928536772
+Philippines,PHL,LMICs,335438000000.0,1,Solar-energy,Mitigation,9,7.20080063,7.20080063
+Philippines,PHL,LMICs,335438000000.0,2,Bioenergy,Mitigation,3,0.051232,0.051232
+Philippines,PHL,LMICs,335438000000.0,3,Other-mitigation-projects,Mitigation,40,8.74314347,8.74314347
+Philippines,PHL,LMICs,335438000000.0,4,Biodiversity,Environment,44,17.8283049,0.0
+Philippines,PHL,LMICs,335438000000.0,5,Geothermal-energy,Mitigation,25,0.0,0.0
+Philippines,PHL,LMICs,335438000000.0,6,Nature_conservation,Environment,16,6.6721287,0.0
+Philippines,PHL,LMICs,335438000000.0,7,Other-environment-projects,Environment,104,9.971347441699999,0.0
+Philippines,PHL,LMICs,335438000000.0,8,Sustainable-land-use,Environment,87,24.301382304,0.0
+Philippines,PHL,LMICs,335438000000.0,10,Renewables-multiple,Mitigation,28,32.97105326,32.97105326
+Philippines,PHL,LMICs,335438000000.0,11,Hydro-energy,Mitigation,5,0.60765,0.60765
+Philippines,PHL,LMICs,335438000000.0,12,Energy-efficiency,Mitigation,8,1.7152650999999999,1.7152650999999999
+Philippines,PHL,LMICs,335438000000.0,13,Wind-energy,Mitigation,5,1.461559,1.461559
+Rwanda,RWA,LDCs,9264008577.0,0,Adaptation,Adaptation,15,4.095625999999999,4.095625999999999
+Rwanda,RWA,LDCs,9264008577.0,1,Solar-energy,Mitigation,6,0.3764990999999998,0.3764990999999998
+Rwanda,RWA,LDCs,9264008577.0,2,Bioenergy,Mitigation,4,0.1449347599999998,0.1449347599999998
+Rwanda,RWA,LDCs,9264008577.0,3,Other-mitigation-projects,Mitigation,4,0.9717912999999999,0.9717912999999999
+Rwanda,RWA,LDCs,9264008577.0,4,Biodiversity,Environment,21,6.35015,0.0
+Rwanda,RWA,LDCs,9264008577.0,6,Nature_conservation,Environment,12,1.6740451452,0.0
+Rwanda,RWA,LDCs,9264008577.0,7,Other-environment-projects,Environment,20,1.8388160999999994,0.0
+Rwanda,RWA,LDCs,9264008577.0,8,Sustainable-land-use,Environment,56,12.079765319999996,0.0
+Rwanda,RWA,LDCs,9264008577.0,10,Renewables-multiple,Mitigation,14,43.3905851,43.3905851
+Rwanda,RWA,LDCs,9264008577.0,11,Hydro-energy,Mitigation,4,0.2029312,0.2029312
+Saint Helena,SHN,UMICs,39000000.0,1,Solar-energy,Mitigation,1,0.00308551,0.00308551
+Saint Helena,SHN,UMICs,39000000.0,4,Biodiversity,Environment,7,0.59275848,0.0
+Saint Helena,SHN,UMICs,39000000.0,6,Nature_conservation,Environment,1,0.0204645,0.0
+Saint Helena,SHN,UMICs,39000000.0,13,Wind-energy,Mitigation,1,0.00833977,0.00833977
+Saint Kitts and Nevis,KNA,Small Island Developing States,990612592.7,0,Adaptation,Adaptation,4,0.65372273,0.65372273
+Saint Kitts and Nevis,KNA,Small Island Developing States,990612592.7,7,Other-environment-projects,Environment,2,0.01354215,0.0
+Saint Lucia,LCA,Small Island Developing States,1972174244.0,0,Adaptation,Adaptation,2,0.48403453,0.48403453
+Saint Lucia,LCA,Small Island Developing States,1972174244.0,4,Biodiversity,Environment,1,0.0006594589999999,0.0
+Saint Lucia,LCA,Small Island Developing States,1972174244.0,6,Nature_conservation,Environment,1,0.0108107999999999,0.0
+Saint Vincent and the Grenadines,VCT,Small Island Developing States,791738518.5,0,Adaptation,Adaptation,6,0.90719373,0.90719373
+Saint Vincent and the Grenadines,VCT,Small Island Developing States,791738518.5,4,Biodiversity,Environment,1,0.19991,0.0
+Saint Vincent and the Grenadines,VCT,Small Island Developing States,791738518.5,7,Other-environment-projects,Environment,1,0.009336,0.0
+Saint Vincent and the Grenadines,VCT,Small Island Developing States,791738518.5,10,Renewables-multiple,Mitigation,2,0.0307938,0.0307938
+Samoa,WSM,Small Island Developing States,818146882.9,0,Adaptation,Adaptation,12,3.9988759999999997,3.9988759999999997
+Samoa,WSM,Small Island Developing States,818146882.9,2,Bioenergy,Mitigation,3,0.2584233999999999,0.2584233999999999
+Samoa,WSM,Small Island Developing States,818146882.9,3,Other-mitigation-projects,Mitigation,4,1.2585563,1.2585563
+Samoa,WSM,Small Island Developing States,818146882.9,6,Nature_conservation,Environment,1,3.41839,0.0
+Samoa,WSM,Small Island Developing States,818146882.9,7,Other-environment-projects,Environment,1,0.0041,0.0
+Samoa,WSM,Small Island Developing States,818146882.9,8,Sustainable-land-use,Environment,3,0.8811718,0.0
+Samoa,WSM,Small Island Developing States,818146882.9,10,Renewables-multiple,Mitigation,2,0.0527755699999999,0.0527755699999999
+Sao Tome and Principe,STP,Small Island Developing States,378432924.4,0,Adaptation,Adaptation,2,0.0,0.0
+Sao Tome and Principe,STP,Small Island Developing States,378432924.4,6,Nature_conservation,Environment,2,0.1357468999999999,0.0
+Sao Tome and Principe,STP,Small Island Developing States,378432924.4,10,Renewables-multiple,Mitigation,2,0.09982029999999989,0.09982029999999989
+Senegal,SEN,LDCs,20925147137.0,0,Adaptation,Adaptation,77,45.340167711099994,45.340167711099994
+Senegal,SEN,LDCs,20925147137.0,1,Solar-energy,Mitigation,28,2.3851313100000002,2.3851313100000002
+Senegal,SEN,LDCs,20925147137.0,2,Bioenergy,Mitigation,5,0.39959972,0.39959972
+Senegal,SEN,LDCs,20925147137.0,3,Other-mitigation-projects,Mitigation,4,0.42994994000000003,0.42994994000000003
+Senegal,SEN,LDCs,20925147137.0,4,Biodiversity,Environment,39,3.349453581,0.0
+Senegal,SEN,LDCs,20925147137.0,6,Nature_conservation,Environment,32,9.428649099,0.0
+Senegal,SEN,LDCs,20925147137.0,7,Other-environment-projects,Environment,120,10.587622670299998,0.0
+Senegal,SEN,LDCs,20925147137.0,8,Sustainable-land-use,Environment,106,10.912376689299997,0.0
+Senegal,SEN,LDCs,20925147137.0,10,Renewables-multiple,Mitigation,15,11.559152005,11.559152005
+Senegal,SEN,LDCs,20925147137.0,11,Hydro-energy,Mitigation,1,0.292991,0.292991
+Senegal,SEN,LDCs,20925147137.0,13,Wind-energy,Mitigation,1,0.00378808,0.00378808
+Serbia,SRB,UMICs,45277164757.0,2,Bioenergy,Mitigation,5,0.17965967,0.17965967
+Serbia,SRB,UMICs,45277164757.0,3,Other-mitigation-projects,Mitigation,2,0.11477129999999999,0.11477129999999999
+Serbia,SRB,UMICs,45277164757.0,4,Biodiversity,Environment,4,0.13466889999999998,0.0
+Serbia,SRB,UMICs,45277164757.0,6,Nature_conservation,Environment,2,0.0801305999999999,0.0
+Serbia,SRB,UMICs,45277164757.0,7,Other-environment-projects,Environment,45,37.74930795,0.0
+Serbia,SRB,UMICs,45277164757.0,8,Sustainable-land-use,Environment,16,6.0157097,0.0
+Serbia,SRB,UMICs,45277164757.0,10,Renewables-multiple,Mitigation,12,6.5403307,6.5403307
+Serbia,SRB,UMICs,45277164757.0,11,Hydro-energy,Mitigation,4,12.066778,12.066778
+Serbia,SRB,UMICs,45277164757.0,12,Energy-efficiency,Mitigation,31,32.83393635,32.83393635
+Seychelles,SYC,Small Island Developing States,1522697136.0,4,Biodiversity,Environment,6,0.231163917,0.0
+Seychelles,SYC,Small Island Developing States,1522697136.0,6,Nature_conservation,Environment,3,0.8537769999999999,0.0
+Seychelles,SYC,Small Island Developing States,1522697136.0,13,Wind-energy,Mitigation,2,17.7811,17.7811
+Sierra Leone,SLE,LDCs,3931937097.0,0,Adaptation,Adaptation,4,3.7368491,3.7368491
+Sierra Leone,SLE,LDCs,3931937097.0,3,Other-mitigation-projects,Mitigation,1,20.0385,20.0385
+Sierra Leone,SLE,LDCs,3931937097.0,4,Biodiversity,Environment,2,0.034371700000000005,0.0
+Sierra Leone,SLE,LDCs,3931937097.0,6,Nature_conservation,Environment,2,0.617209,0.0
+Sierra Leone,SLE,LDCs,3931937097.0,8,Sustainable-land-use,Environment,11,6.85521192,0.0
+Sierra Leone,SLE,LDCs,3931937097.0,10,Renewables-multiple,Mitigation,1,0.00724062,0.00724062
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,0,Adaptation,Adaptation,19,3.2204636099999995,3.2204636099999995
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,1,Solar-energy,Mitigation,1,0.609904,0.609904
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,3,Other-mitigation-projects,Mitigation,2,0.0962848999999999,0.0962848999999999
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,4,Biodiversity,Environment,2,0.0764102,0.0
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,6,Nature_conservation,Environment,1,0.0845085,0.0
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,8,Sustainable-land-use,Environment,6,0.34652496,0.0
+Solomon Islands,SLB,Small Island Developing States,1303084723.0,11,Hydro-energy,Mitigation,1,1.44928,1.44928
+South Africa,ZAF,UMICs,336651000000.0,0,Adaptation,Adaptation,61,4.9671131399999995,4.9671131399999995
+South Africa,ZAF,UMICs,336651000000.0,1,Solar-energy,Mitigation,21,8.838743903,8.838743903
+South Africa,ZAF,UMICs,336651000000.0,2,Bioenergy,Mitigation,1,0.259913,0.259913
+South Africa,ZAF,UMICs,336651000000.0,3,Other-mitigation-projects,Mitigation,76,18.175998277,18.175998277
+South Africa,ZAF,UMICs,336651000000.0,4,Biodiversity,Environment,15,3.012934753,0.0
+South Africa,ZAF,UMICs,336651000000.0,6,Nature_conservation,Environment,18,3.10603516,0.0
+South Africa,ZAF,UMICs,336651000000.0,7,Other-environment-projects,Environment,93,9.025179566,0.0
+South Africa,ZAF,UMICs,336651000000.0,8,Sustainable-land-use,Environment,50,6.529241763,0.0
+South Africa,ZAF,UMICs,336651000000.0,10,Renewables-multiple,Mitigation,29,76.2166832,76.2166832
+South Africa,ZAF,UMICs,336651000000.0,12,Energy-efficiency,Mitigation,39,47.155405553999984,47.155405553999984
+South Africa,ZAF,UMICs,336651000000.0,13,Wind-energy,Mitigation,6,0.7925348,0.7925348
+South Sudan,SSD,LDCs,11997800760.0,0,Adaptation,Adaptation,29,1.0418081199999996,1.0418081199999996
+South Sudan,SSD,LDCs,11997800760.0,4,Biodiversity,Environment,2,0.0,0.0
+South Sudan,SSD,LDCs,11997800760.0,6,Nature_conservation,Environment,1,0.0401142,0.0
+South Sudan,SSD,LDCs,11997800760.0,7,Other-environment-projects,Environment,18,4.462970500000001,0.0
+South Sudan,SSD,LDCs,11997800760.0,8,Sustainable-land-use,Environment,3,1.3293081999999998,0.0
+South Sudan,SSD,LDCs,11997800760.0,10,Renewables-multiple,Mitigation,1,0.0570829,0.0570829
+South Sudan,SSD,LDCs,11997800760.0,11,Hydro-energy,Mitigation,7,2.506103324,2.506103324
+Sri Lanka,LKA,LMICs,84573583661.0,0,Adaptation,Adaptation,23,2.21558908,2.21558908
+Sri Lanka,LKA,LMICs,84573583661.0,1,Solar-energy,Mitigation,9,15.80768129,15.80768129
+Sri Lanka,LKA,LMICs,84573583661.0,2,Bioenergy,Mitigation,2,0.1156761,0.1156761
+Sri Lanka,LKA,LMICs,84573583661.0,3,Other-mitigation-projects,Mitigation,1,0.00453308,0.00453308
+Sri Lanka,LKA,LMICs,84573583661.0,4,Biodiversity,Environment,3,0.270768,0.0
+Sri Lanka,LKA,LMICs,84573583661.0,6,Nature_conservation,Environment,12,0.3122060115999996,0.0
+Sri Lanka,LKA,LMICs,84573583661.0,7,Other-environment-projects,Environment,30,20.688087943,0.0
+Sri Lanka,LKA,LMICs,84573583661.0,8,Sustainable-land-use,Environment,12,0.32987759999999966,0.0
+Sri Lanka,LKA,LMICs,84573583661.0,10,Renewables-multiple,Mitigation,3,0.10352,0.10352
+Sri Lanka,LKA,LMICs,84573583661.0,11,Hydro-energy,Mitigation,27,146.96805094,146.96805094
+Sri Lanka,LKA,LMICs,84573583661.0,12,Energy-efficiency,Mitigation,3,0.56934964,0.56934964
+Sudan,SDN,LDCs,43285344619.0,0,Adaptation,Adaptation,44,2.337375468,2.337375468
+Sudan,SDN,LDCs,43285344619.0,1,Solar-energy,Mitigation,1,0.0154242,0.0154242
+Sudan,SDN,LDCs,43285344619.0,3,Other-mitigation-projects,Mitigation,1,0.21698,0.21698
+Sudan,SDN,LDCs,43285344619.0,4,Biodiversity,Environment,3,11.63784,0.0
+Sudan,SDN,LDCs,43285344619.0,6,Nature_conservation,Environment,1,0.006396,0.0
+Sudan,SDN,LDCs,43285344619.0,7,Other-environment-projects,Environment,24,29.735988980000002,0.0
+Sudan,SDN,LDCs,43285344619.0,8,Sustainable-land-use,Environment,15,13.2026022,0.0
+Sudan,SDN,LDCs,43285344619.0,10,Renewables-multiple,Mitigation,2,0.0940635999999999,0.0940635999999999
+Sudan,SDN,LDCs,43285344619.0,11,Hydro-energy,Mitigation,1,0.0175442,0.0175442
+Suriname,SUR,Small Island Developing States,3713945432.0,0,Adaptation,Adaptation,2,0.48403453,0.48403453
+Suriname,SUR,Small Island Developing States,3713945432.0,3,Other-mitigation-projects,Mitigation,3,1.10547469,1.10547469
+Suriname,SUR,Small Island Developing States,3713945432.0,4,Biodiversity,Environment,3,0.7614239,0.0
+Suriname,SUR,Small Island Developing States,3713945432.0,7,Other-environment-projects,Environment,2,0.008156517,0.0
+Suriname,SUR,Small Island Developing States,3713945432.0,10,Renewables-multiple,Mitigation,1,0.7197939999999999,0.7197939999999999
+Tajikistan,TJK,LMICs,7520944062.0,0,Adaptation,Adaptation,33,2.8301702999999994,2.8301702999999994
+Tajikistan,TJK,LMICs,7520944062.0,1,Solar-energy,Mitigation,2,5.1469779,5.1469779
+Tajikistan,TJK,LMICs,7520944062.0,3,Other-mitigation-projects,Mitigation,6,1.05663818,1.05663818
+Tajikistan,TJK,LMICs,7520944062.0,4,Biodiversity,Environment,1,0.0141709,0.0
+Tajikistan,TJK,LMICs,7520944062.0,5,Geothermal-energy,Mitigation,2,0.16071827,0.16071827
+Tajikistan,TJK,LMICs,7520944062.0,6,Nature_conservation,Environment,8,1.07893103,0.0
+Tajikistan,TJK,LMICs,7520944062.0,7,Other-environment-projects,Environment,3,0.70572064,0.0
+Tajikistan,TJK,LMICs,7520944062.0,8,Sustainable-land-use,Environment,4,0.383861,0.0
+Tajikistan,TJK,LMICs,7520944062.0,10,Renewables-multiple,Mitigation,2,0.1053049999999999,0.1053049999999999
+Tajikistan,TJK,LMICs,7520944062.0,11,Hydro-energy,Mitigation,16,35.714631,35.714631
+Tajikistan,TJK,LMICs,7520944062.0,12,Energy-efficiency,Mitigation,6,1.18814,1.18814
+Tanzania,TZA,LDCs,54330302947.0,0,Adaptation,Adaptation,82,19.807197374,19.807197374
+Tanzania,TZA,LDCs,54330302947.0,1,Solar-energy,Mitigation,23,1.38550997,1.38550997
+Tanzania,TZA,LDCs,54330302947.0,2,Bioenergy,Mitigation,21,6.4343787699999995,6.4343787699999995
+Tanzania,TZA,LDCs,54330302947.0,3,Other-mitigation-projects,Mitigation,30,14.587722679999999,14.587722679999999
+Tanzania,TZA,LDCs,54330302947.0,4,Biodiversity,Environment,60,11.8430226,0.0
+Tanzania,TZA,LDCs,54330302947.0,5,Geothermal-energy,Mitigation,1,0.0724002,0.0724002
+Tanzania,TZA,LDCs,54330302947.0,6,Nature_conservation,Environment,59,22.36835748,0.0
+Tanzania,TZA,LDCs,54330302947.0,7,Other-environment-projects,Environment,109,15.456289499999997,0.0
+Tanzania,TZA,LDCs,54330302947.0,8,Sustainable-land-use,Environment,106,46.116719950000004,0.0
+Tanzania,TZA,LDCs,54330302947.0,10,Renewables-multiple,Mitigation,14,4.81093456,4.81093456
+Tanzania,TZA,LDCs,54330302947.0,11,Hydro-energy,Mitigation,21,6.053351589999999,6.053351589999999
+Tanzania,TZA,LDCs,54330302947.0,12,Energy-efficiency,Mitigation,2,0.1378260999999999,0.1378260999999999
+Tanzania,TZA,LDCs,54330302947.0,13,Wind-energy,Mitigation,2,0.1207229,0.1207229
+Thailand,THA,UMICs,464237000000.0,0,Adaptation,Adaptation,36,4.63776067,4.63776067
+Thailand,THA,UMICs,464237000000.0,1,Solar-energy,Mitigation,4,0.3682525,0.3682525
+Thailand,THA,UMICs,464237000000.0,2,Bioenergy,Mitigation,2,0.11706736,0.11706736
+Thailand,THA,UMICs,464237000000.0,3,Other-mitigation-projects,Mitigation,19,7.310735129999999,7.310735129999999
+Thailand,THA,UMICs,464237000000.0,4,Biodiversity,Environment,8,1.1501072799999998,0.0
+Thailand,THA,UMICs,464237000000.0,6,Nature_conservation,Environment,12,11.71960296,0.0
+Thailand,THA,UMICs,464237000000.0,7,Other-environment-projects,Environment,42,4.260271039999999,0.0
+Thailand,THA,UMICs,464237000000.0,8,Sustainable-land-use,Environment,30,3.6476704479999995,0.0
+Thailand,THA,UMICs,464237000000.0,10,Renewables-multiple,Mitigation,6,5.40240217,5.40240217
+Thailand,THA,UMICs,464237000000.0,11,Hydro-energy,Mitigation,2,0.0939172,0.0939172
+Thailand,THA,UMICs,464237000000.0,12,Energy-efficiency,Mitigation,4,1.7072886999999999,1.7072886999999999
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,0,Adaptation,Adaptation,16,4.5209204,4.5209204
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,1,Solar-energy,Mitigation,10,12.184442,12.184442
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,3,Other-mitigation-projects,Mitigation,1,0.0815217,0.0815217
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,4,Biodiversity,Environment,7,1.407128,0.0
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,6,Nature_conservation,Environment,3,2.4367518999999995,0.0
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,7,Other-environment-projects,Environment,8,2.9118545,0.0
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,8,Sustainable-land-use,Environment,10,5.1975743,0.0
+Timor-Leste,TLS,Small Island Developing States,1620903797.0,11,Hydro-energy,Mitigation,2,0.0578720999999999,0.0578720999999999
+Togo,TGO,LDCs,4860823923.0,0,Adaptation,Adaptation,2,5.69732,5.69732
+Togo,TGO,LDCs,4860823923.0,1,Solar-energy,Mitigation,2,0.2405224,0.2405224
+Togo,TGO,LDCs,4860823923.0,2,Bioenergy,Mitigation,1,0.0868929,0.0868929
+Togo,TGO,LDCs,4860823923.0,6,Nature_conservation,Environment,1,0.00142346,0.0
+Togo,TGO,LDCs,4860823923.0,7,Other-environment-projects,Environment,5,4.2358362000000005,0.0
+Togo,TGO,LDCs,4860823923.0,8,Sustainable-land-use,Environment,13,0.8995784899999998,0.0
+Togo,TGO,LDCs,4860823923.0,10,Renewables-multiple,Mitigation,4,0.3158829199999998,0.3158829199999998
+Togo,TGO,LDCs,4860823923.0,11,Hydro-energy,Mitigation,1,0.0,0.0
+Togo,TGO,LDCs,4860823923.0,12,Energy-efficiency,Mitigation,2,0.18020419999999998,0.18020419999999998
+Tokelau,TKL,LMICs,10000000.0,0,Adaptation,Adaptation,2,1.328633,1.328633
+Tokelau,TKL,LMICs,10000000.0,1,Solar-energy,Mitigation,2,5.42595,5.42595
+Tonga,TON,Small Island Developing States,429268751.8,0,Adaptation,Adaptation,11,6.3753266,6.3753266
+Tonga,TON,Small Island Developing States,429268751.8,1,Solar-energy,Mitigation,8,17.832706549999997,17.832706549999997
+Tonga,TON,Small Island Developing States,429268751.8,3,Other-mitigation-projects,Mitigation,3,1.0810956,1.0810956
+Tonga,TON,Small Island Developing States,429268751.8,6,Nature_conservation,Environment,1,0.00513667,0.0
+Tonga,TON,Small Island Developing States,429268751.8,7,Other-environment-projects,Environment,1,0.00537,0.0
+Trinidad and Tobago,TTO,Small Island Developing States,23546170481.0,0,Adaptation,Adaptation,2,0.01038309,0.01038309
+Trinidad and Tobago,TTO,Small Island Developing States,23546170481.0,10,Renewables-multiple,Mitigation,1,0.0307938,0.0307938
+Tunisia,TUN,LMICs,40669025774.0,0,Adaptation,Adaptation,26,3.9675636579999995,3.9675636579999995
+Tunisia,TUN,LMICs,40669025774.0,1,Solar-energy,Mitigation,14,2.0593417,2.0593417
+Tunisia,TUN,LMICs,40669025774.0,3,Other-mitigation-projects,Mitigation,9,3.41879788,3.41879788
+Tunisia,TUN,LMICs,40669025774.0,4,Biodiversity,Environment,8,0.171967206,0.0
+Tunisia,TUN,LMICs,40669025774.0,6,Nature_conservation,Environment,24,5.23042003,0.0
+Tunisia,TUN,LMICs,40669025774.0,7,Other-environment-projects,Environment,116,36.2038608954,0.0
+Tunisia,TUN,LMICs,40669025774.0,8,Sustainable-land-use,Environment,59,10.602620016,0.0
+Tunisia,TUN,LMICs,40669025774.0,10,Renewables-multiple,Mitigation,9,5.14366831,5.14366831
+Tunisia,TUN,LMICs,40669025774.0,11,Hydro-energy,Mitigation,3,0.1870233999999999,0.1870233999999999
+Tunisia,TUN,LMICs,40669025774.0,12,Energy-efficiency,Mitigation,7,4.1208889,4.1208889
+Tunisia,TUN,LMICs,40669025774.0,13,Wind-energy,Mitigation,16,221.6867305,221.6867305
+Turkey,TUR,UMICs,820392000000.0,0,Adaptation,Adaptation,12,0.2252485899999998,0.2252485899999998
+Turkey,TUR,UMICs,820392000000.0,1,Solar-energy,Mitigation,2,0.13917,0.13917
+Turkey,TUR,UMICs,820392000000.0,2,Bioenergy,Mitigation,7,2.0121409999999997,2.0121409999999997
+Turkey,TUR,UMICs,820392000000.0,3,Other-mitigation-projects,Mitigation,30,330.75523163,330.75523163
+Turkey,TUR,UMICs,820392000000.0,5,Geothermal-energy,Mitigation,5,0.3959299999999999,0.3959299999999999
+Turkey,TUR,UMICs,820392000000.0,6,Nature_conservation,Environment,7,1.3182964399999997,0.0
+Turkey,TUR,UMICs,820392000000.0,7,Other-environment-projects,Environment,8,0.2036661829999998,0.0
+Turkey,TUR,UMICs,820392000000.0,8,Sustainable-land-use,Environment,4,0.21845915000000002,0.0
+Turkey,TUR,UMICs,820392000000.0,10,Renewables-multiple,Mitigation,8,90.294641,90.294641
+Turkey,TUR,UMICs,820392000000.0,12,Energy-efficiency,Mitigation,16,0.9486619999999997,0.9486619999999997
+Turkey,TUR,UMICs,820392000000.0,13,Wind-energy,Mitigation,1,0.0397351,0.0397351
+Turkmenistan,TKM,UMICs,37666785714.0,0,Adaptation,Adaptation,1,0.006743,0.006743
+Turkmenistan,TKM,UMICs,37666785714.0,1,Solar-energy,Mitigation,1,0.00903,0.00903
+Turkmenistan,TKM,UMICs,37666785714.0,3,Other-mitigation-projects,Mitigation,3,0.05679012,0.05679012
+Turkmenistan,TKM,UMICs,37666785714.0,6,Nature_conservation,Environment,1,0.595,0.0
+Turkmenistan,TKM,UMICs,37666785714.0,7,Other-environment-projects,Environment,2,0.0634,0.0
+Turkmenistan,TKM,UMICs,37666785714.0,8,Sustainable-land-use,Environment,3,1.827475,0.0
+Turkmenistan,TKM,UMICs,37666785714.0,12,Energy-efficiency,Mitigation,4,0.4696499999999999,0.4696499999999999
+Tuvalu,TUV,Small Island Developing States,40503750.82,0,Adaptation,Adaptation,6,1.5808265000000001,1.5808265000000001
+Tuvalu,TUV,Small Island Developing States,40503750.82,3,Other-mitigation-projects,Mitigation,1,0.007926,0.007926
+Tuvalu,TUV,Small Island Developing States,40503750.82,10,Renewables-multiple,Mitigation,3,0.30572520000000003,0.30572520000000003
+Uganda,UGA,LDCs,31801742338.0,0,Adaptation,Adaptation,87,17.30771018,17.30771018
+Uganda,UGA,LDCs,31801742338.0,1,Solar-energy,Mitigation,12,0.4897832999999995,0.4897832999999995
+Uganda,UGA,LDCs,31801742338.0,2,Bioenergy,Mitigation,6,0.5476457,0.5476457
+Uganda,UGA,LDCs,31801742338.0,3,Other-mitigation-projects,Mitigation,13,3.59231549,3.59231549
+Uganda,UGA,LDCs,31801742338.0,4,Biodiversity,Environment,35,11.0291657,0.0
+Uganda,UGA,LDCs,31801742338.0,6,Nature_conservation,Environment,19,11.1643029,0.0
+Uganda,UGA,LDCs,31801742338.0,7,Other-environment-projects,Environment,27,2.2477186699999994,0.0
+Uganda,UGA,LDCs,31801742338.0,8,Sustainable-land-use,Environment,67,9.441400129999998,0.0
+Uganda,UGA,LDCs,31801742338.0,10,Renewables-multiple,Mitigation,41,16.45673423,16.45673423
+Uganda,UGA,LDCs,31801742338.0,11,Hydro-energy,Mitigation,13,6.4628480999999995,6.4628480999999995
+Uganda,UGA,LDCs,31801742338.0,12,Energy-efficiency,Mitigation,7,9.3696359,9.3696359
+Ukraine,UKR,LMICs,116252000000.0,0,Adaptation,Adaptation,3,0.0402622409999999,0.0402622409999999
+Ukraine,UKR,LMICs,116252000000.0,1,Solar-energy,Mitigation,2,0.1610154,0.1610154
+Ukraine,UKR,LMICs,116252000000.0,2,Bioenergy,Mitigation,4,0.2061992499999999,0.2061992499999999
+Ukraine,UKR,LMICs,116252000000.0,3,Other-mitigation-projects,Mitigation,22,25.99323958,25.99323958
+Ukraine,UKR,LMICs,116252000000.0,4,Biodiversity,Environment,2,0.1041144,0.0
+Ukraine,UKR,LMICs,116252000000.0,6,Nature_conservation,Environment,23,6.23373516,0.0
+Ukraine,UKR,LMICs,116252000000.0,7,Other-environment-projects,Environment,69,9.43401967,0.0
+Ukraine,UKR,LMICs,116252000000.0,8,Sustainable-land-use,Environment,11,1.38391939,0.0
+Ukraine,UKR,LMICs,116252000000.0,10,Renewables-multiple,Mitigation,11,3.5144569000000003,3.5144569000000003
+Ukraine,UKR,LMICs,116252000000.0,12,Energy-efficiency,Mitigation,71,40.48236951,40.48236951
+Uruguay,URY,MADCTs,56226960599.0,0,Adaptation,Adaptation,10,1.1389038999999999,1.1389038999999999
+Uruguay,URY,MADCTs,56226960599.0,1,Solar-energy,Mitigation,2,8.32001668,8.32001668
+Uruguay,URY,MADCTs,56226960599.0,2,Bioenergy,Mitigation,3,0.21874241,0.21874241
+Uruguay,URY,MADCTs,56226960599.0,3,Other-mitigation-projects,Mitigation,1,0.170758,0.170758
+Uruguay,URY,MADCTs,56226960599.0,4,Biodiversity,Environment,5,0.7612277999999999,0.0
+Uruguay,URY,MADCTs,56226960599.0,6,Nature_conservation,Environment,8,1.7497995499999996,0.0
+Uruguay,URY,MADCTs,56226960599.0,7,Other-environment-projects,Environment,13,0.35880432500000004,0.0
+Uruguay,URY,MADCTs,56226960599.0,8,Sustainable-land-use,Environment,10,0.2018307599999998,0.0
+Uruguay,URY,MADCTs,56226960599.0,11,Hydro-energy,Mitigation,1,0.0177154,0.0177154
+Uruguay,URY,MADCTs,56226960599.0,12,Energy-efficiency,Mitigation,1,0.102649,0.102649
+Uzbekistan,UZB,LMICs,66220052410.0,0,Adaptation,Adaptation,1,0.000478764,0.000478764
+Uzbekistan,UZB,LMICs,66220052410.0,1,Solar-energy,Mitigation,1,0.170535,0.170535
+Uzbekistan,UZB,LMICs,66220052410.0,3,Other-mitigation-projects,Mitigation,2,0.288501,0.288501
+Uzbekistan,UZB,LMICs,66220052410.0,4,Biodiversity,Environment,1,0.0506,0.0
+Uzbekistan,UZB,LMICs,66220052410.0,6,Nature_conservation,Environment,10,2.7041875199999996,0.0
+Uzbekistan,UZB,LMICs,66220052410.0,7,Other-environment-projects,Environment,12,0.6408595899999999,0.0
+Uzbekistan,UZB,LMICs,66220052410.0,8,Sustainable-land-use,Environment,3,0.0250486,0.0
+Uzbekistan,UZB,LMICs,66220052410.0,10,Renewables-multiple,Mitigation,1,0.006201,0.006201
+Uzbekistan,UZB,LMICs,66220052410.0,12,Energy-efficiency,Mitigation,4,0.4228329099999997,0.4228329099999997
+Vanuatu,VUT,Small Island Developing States,853435051.6,0,Adaptation,Adaptation,16,2.1938215719999996,2.1938215719999996
+Vanuatu,VUT,Small Island Developing States,853435051.6,3,Other-mitigation-projects,Mitigation,3,2.1839258,2.1839258
+Vanuatu,VUT,Small Island Developing States,853435051.6,4,Biodiversity,Environment,10,2.11545705,0.0
+Vanuatu,VUT,Small Island Developing States,853435051.6,6,Nature_conservation,Environment,3,0.0425628,0.0
+Vanuatu,VUT,Small Island Developing States,853435051.6,7,Other-environment-projects,Environment,4,0.226229168,0.0
+Vanuatu,VUT,Small Island Developing States,853435051.6,8,Sustainable-land-use,Environment,3,0.1496656999999999,0.0
+Vanuatu,VUT,Small Island Developing States,853435051.6,10,Renewables-multiple,Mitigation,1,0.0,0.0
+Viet Nam,VNM,LMICs,225886000000.0,0,Adaptation,Adaptation,166,336.4690977400001,336.4690977400001
+Viet Nam,VNM,LMICs,225886000000.0,1,Solar-energy,Mitigation,13,2.8457561799999995,2.8457561799999995
+Viet Nam,VNM,LMICs,225886000000.0,2,Bioenergy,Mitigation,13,0.95270689,0.95270689
+Viet Nam,VNM,LMICs,225886000000.0,3,Other-mitigation-projects,Mitigation,45,29.945930931999996,29.945930931999996
+Viet Nam,VNM,LMICs,225886000000.0,4,Biodiversity,Environment,32,4.631017734,0.0
+Viet Nam,VNM,LMICs,225886000000.0,6,Nature_conservation,Environment,84,26.604816239999998,0.0
+Viet Nam,VNM,LMICs,225886000000.0,7,Other-environment-projects,Environment,253,182.00315417400003,0.0
+Viet Nam,VNM,LMICs,225886000000.0,8,Sustainable-land-use,Environment,121,59.78389688800001,0.0
+Viet Nam,VNM,LMICs,225886000000.0,10,Renewables-multiple,Mitigation,32,329.896452499,329.896452499
+Viet Nam,VNM,LMICs,225886000000.0,11,Hydro-energy,Mitigation,39,18.02669819,18.02669819
+Viet Nam,VNM,LMICs,225886000000.0,12,Energy-efficiency,Mitigation,17,5.47595938,5.47595938
+Viet Nam,VNM,LMICs,225886000000.0,13,Wind-energy,Mitigation,4,1.32591,1.32591
+Wallis and Futuna,WLF,UMICs,171000000.0,4,Biodiversity,Environment,18,0.6902321859999999,0.0
+Wallis and Futuna,WLF,UMICs,171000000.0,6,Nature_conservation,Environment,1,0.0249829,0.0
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,0,Adaptation,Adaptation,3,5.760865000000001,5.760865000000001
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,1,Solar-energy,Mitigation,9,8.9346668,8.9346668
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,4,Biodiversity,Environment,6,0.6614433799999999,0.0
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,5,Geothermal-energy,Mitigation,3,0.24098999999999998,0.24098999999999998
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,6,Nature_conservation,Environment,14,3.8835528,0.0
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,7,Other-environment-projects,Environment,22,13.38853547,0.0
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,8,Sustainable-land-use,Environment,13,4.150957050000001,0.0
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,10,Renewables-multiple,Mitigation,1,0.1279539999999999,0.1279539999999999
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,12,Energy-efficiency,Mitigation,2,2.9007199999999997,2.9007199999999997
+West Bank and Gaza Strip,PSE,LMICs,13803175000.0,13,Wind-energy,Mitigation,6,0.3425061599999998,0.3425061599999998
+Yemen,YEM,LDCs,29303367642.0,0,Adaptation,Adaptation,4,0.1482369999999999,0.1482369999999999
+Yemen,YEM,LDCs,29303367642.0,1,Solar-energy,Mitigation,3,7.232008199999999,7.232008199999999
+Yemen,YEM,LDCs,29303367642.0,4,Biodiversity,Environment,10,1.41282507,0.0
+Yemen,YEM,LDCs,29303367642.0,5,Geothermal-energy,Mitigation,2,0.0913245,0.0913245
+Yemen,YEM,LDCs,29303367642.0,7,Other-environment-projects,Environment,4,0.8608607999999999,0.0
+Yemen,YEM,LDCs,29303367642.0,8,Sustainable-land-use,Environment,6,0.5702834999999998,0.0
+Yemen,YEM,LDCs,29303367642.0,10,Renewables-multiple,Mitigation,2,0.0194037099999999,0.0194037099999999
+Yemen,YEM,LDCs,29303367642.0,13,Wind-energy,Mitigation,1,0.108609,0.108609
+Zambia,ZMB,LDCs,23627242513.0,0,Adaptation,Adaptation,36,13.42214389,13.42214389
+Zambia,ZMB,LDCs,23627242513.0,1,Solar-energy,Mitigation,1,0.0,0.0
+Zambia,ZMB,LDCs,23627242513.0,2,Bioenergy,Mitigation,8,1.81056875,1.81056875
+Zambia,ZMB,LDCs,23627242513.0,3,Other-mitigation-projects,Mitigation,8,2.21327661,2.21327661
+Zambia,ZMB,LDCs,23627242513.0,4,Biodiversity,Environment,15,6.1476071,0.0
+Zambia,ZMB,LDCs,23627242513.0,6,Nature_conservation,Environment,5,16.648415,0.0
+Zambia,ZMB,LDCs,23627242513.0,7,Other-environment-projects,Environment,33,14.689023200000001,0.0
+Zambia,ZMB,LDCs,23627242513.0,8,Sustainable-land-use,Environment,56,11.79620058,0.0
+Zambia,ZMB,LDCs,23627242513.0,10,Renewables-multiple,Mitigation,3,19.6648,19.6648
+Zambia,ZMB,LDCs,23627242513.0,11,Hydro-energy,Mitigation,6,0.3737170999999998,0.3737170999999998
+Zimbabwe,ZWE,LMICs,21661004060.0,0,Adaptation,Adaptation,29,9.36626418,9.36626418
+Zimbabwe,ZWE,LMICs,21661004060.0,1,Solar-energy,Mitigation,2,0.9560150000000001,0.9560150000000001
+Zimbabwe,ZWE,LMICs,21661004060.0,3,Other-mitigation-projects,Mitigation,3,0.26607097999999996,0.26607097999999996
+Zimbabwe,ZWE,LMICs,21661004060.0,4,Biodiversity,Environment,1,0.202653,0.0
+Zimbabwe,ZWE,LMICs,21661004060.0,6,Nature_conservation,Environment,7,0.09985008,0.0
+Zimbabwe,ZWE,LMICs,21661004060.0,7,Other-environment-projects,Environment,12,0.7344658099999999,0.0
+Zimbabwe,ZWE,LMICs,21661004060.0,8,Sustainable-land-use,Environment,11,3.78782282,0.0
+Zimbabwe,ZWE,LMICs,21661004060.0,10,Renewables-multiple,Mitigation,2,0.0554386,0.0554386

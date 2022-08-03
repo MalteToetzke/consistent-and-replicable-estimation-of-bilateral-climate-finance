@@ -1,0 +1,142 @@
+,RecipientName,climate_finance,climate_env,adaptation,mitigation
+0,Afghanistan, 186 , 292 , 113 , 72 
+1,Albania, 14 , 43 , 1 , 13 
+2,Algeria, 7 , 19 , 6 , 0 
+3,Angola, 5 , 7 , 3 , 2 
+4,Antigua and Barbuda, 11 , 11 , -   , 11 
+5,Argentina, 5 , 16 , 4 , 1 
+6,Armenia, 119 , 191 , 1 , 118 
+7,Azerbaijan, 4 , 4 , 4 , 0 
+8,Bangladesh, 577 , 717 , 211 , 367 
+9,Belarus, 2 , 6 , 0 , 2 
+10,Belize, 3 , 4 , 1 , 3 
+11,Benin, 36 , 64 , 14 , 22 
+12,Bhutan, 4 , 7 , 2 , 3 
+13,Bolivia, 155 , 245 , 64 , 91 
+14,Bosnia and Herzegovina, 119 , 144 , 3 , 116 
+15,Botswana, 0 , 1 , 0 , 0 
+16,Brazil, 569 ," 1,029 ", 24 , 545 
+17,Burkina Faso, 123 , 236 , 36 , 88 
+18,Burundi, 17 , 30 , 16 , 1 
+19,Cabo Verde, 30 , 33 , 2 , 28 
+20,Cambodia, 53 , 159 , 39 , 14 
+21,Cameroon, 55 , 141 , 2 , 53 
+22,Central African Republic, 0 , 6 , 0 , 0 
+23,Chad, 18 , 49 , 17 , 1 
+24,Chile, 194 , 199 , 2 , 193 
+25,China (People's Republic of), 234 , 787 , 96 , 138 
+26,Colombia, 515 , 775 , 356 , 160 
+27,Comoros, 0 , 2 , -   , 0 
+28,Congo, 1 , 8 , 0 , 1 
+29,Cook Islands, 1 , 1 , 1 , 0 
+30,Costa Rica, 120 , 213 , 1 , 119 
+31,Cuba, 24 , 44 , 7 , 16 
+32,Côte d'Ivoire, 79 , 113 , 6 , 73 
+33,Democratic Republic of the Congo, 86 , 229 , 50 , 36 
+34,Djibouti, 6 , 6 , 1 , 5 
+35,Dominica, 5 , 5 , 4 , 2 
+36,Dominican Republic, 98 , 102 , 53 , 45 
+37,Ecuador, 163 , 243 , 97 , 66 
+38,Egypt, 705 , 805 , 5 , 700 
+39,El Salvador, 55 , 72 , 12 , 43 
+40,Equatorial Guinea, 0 , 0 , -   , 0 
+41,Eswatini, 5 , 6 , 5 , -   
+42,Ethiopia, 777 ," 1,020 ", 666 , 112 
+43,Fiji, 22 , 25 , 19 , 3 
+44,Gabon, 2 , 10 , 1 , 1 
+45,Gambia, 0 , 1 , 0 , 0 
+46,Georgia, 164 , 195 , 11 , 153 
+47,Ghana, 93 , 155 , 31 , 61 
+48,Grenada, 6 , 6 , 3 , 2 
+49,Guatemala, 85 , 130 , 55 , 30 
+50,Guinea, 7 , 17 , 5 , 2 
+51,Guinea-Bissau, 3 , 5 , 1 , 2 
+52,Guyana, 50 , 63 , -   , 50 
+53,Haiti, 97 , 140 , 71 , 26 
+54,Honduras, 144 , 216 , 63 , 81 
+55,India," 2,161 "," 4,516 ", 98 ," 2,064 "
+56,Indonesia," 1,115 "," 1,553 ", 81 ," 1,033 "
+57,Iran, 7 , 16 , 3 , 4 
+58,Iraq, 551 , 556 , 27 , 524 
+59,Jamaica, 71 , 72 , 13 , 58 
+60,Jordan, 462 , 622 , 190 , 272 
+61,Kazakhstan, 13 , 19 , 3 , 10 
+62,Kenya, 650 , 785 , 235 , 415 
+63,Kiribati, 4 , 7 , 2 , 2 
+64,Kosovo, 18 , 44 , 3 , 16 
+65,Kyrgyzstan, 25 , 45 , 9 , 17 
+66,Lao People's Democratic Republic, 78 , 121 , 26 , 52 
+67,Lebanon, 12 , 39 , 2 , 11 
+68,Lesotho, 12 , 12 , 11 , 1 
+69,Liberia, 90 , 165 , 22 , 68 
+70,Libya, 1 , 5 , 1 , -   
+71,Madagascar, 46 , 160 , 16 , 31 
+72,Malawi, 373 , 439 , 166 , 207 
+73,Malaysia, 15 , 24 , 9 , 6 
+74,Maldives, 6 , 6 , 3 , 3 
+75,Mali, 113 , 208 , 102 , 11 
+76,Marshall Islands, 9 , 9 , 3 , 6 
+77,Mauritania, 43 , 66 , 27 , 16 
+78,Mauritius, 44 , 46 , 10 , 34 
+79,Mexico," 1,020 "," 1,212 ", 22 , 998 
+80,Micronesia, 7 , 7 , 4 , 3 
+81,Moldova, 12 , 21 , 3 , 9 
+82,Mongolia, 109 , 208 , 17 , 92 
+83,Montenegro, 36 , 37 , 0 , 36 
+84,Montserrat, 10 , 11 , 1 , 9 
+85,Morocco," 1,142 "," 1,215 ", 175 , 967 
+86,Mozambique, 248 , 442 , 186 , 62 
+87,Myanmar, 130 , 187 , 90 , 40 
+88,Namibia, 73 , 113 , 18 , 55 
+89,Nauru, 26 , 26 , 1 , 25 
+90,Nepal, 281 , 362 , 183 , 98 
+91,Nicaragua, 113 , 134 , 28 , 84 
+92,Niger, 28 , 92 , 26 , 2 
+93,Nigeria, 140 , 151 , 57 , 83 
+94,Niue, 4 , 5 , 1 , 4 
+95,North Macedonia, 8 , 23 , 6 , 2 
+96,Pakistan, 505 , 560 , 136 , 369 
+97,Palau, 2 , 3 , 1 , 1 
+98,Panama, 3 , 5 , 1 , 2 
+99,Papua New Guinea, 40 , 50 , 23 , 17 
+100,Paraguay, 3 , 15 , 3 , 1 
+101,Peru, 174 , 518 , 81 , 93 
+102,Philippines, 275 , 909 , 262 , 12 
+103,Rwanda, 76 , 110 , 52 , 23 
+104,Saint Helena, 0 , 87 , 0 , 0 
+105,Saint Lucia, 1 , 1 , 0 , 1 
+106,Saint Vincent and the Grenadines, 4 , 4 , 1 , 3 
+107,Samoa, 19 , 21 , 17 , 3 
+108,Sao Tome and Principe, 2 , 3 , 0 , 2 
+109,Senegal, 92 , 168 , 26 , 66 
+110,Serbia, 338 , 384 , 3 , 335 
+111,Seychelles, 0 , 1 , 0 , 0 
+112,Sierra Leone, 58 , 62 , 9 , 49 
+113,Solomon Islands, 10 , 17 , 4 , 6 
+114,South Africa, 558 , 675 , 35 , 524 
+115,South Sudan, 162 , 194 , 161 , 1 
+116,Sri Lanka, 74 , 79 , 17 , 57 
+117,Sudan, 23 , 33 , 20 , 3 
+118,Suriname, 2 , 2 , 1 , 1 
+119,Tajikistan, 31 , 38 , 20 , 11 
+120,Tanzania, 234 , 374 , 135 , 99 
+121,Thailand, 28 , 36 , 16 , 12 
+122,Timor-Leste, 20 , 28 , 20 , 0 
+123,Togo, 12 , 23 , 1 , 10 
+124,Tokelau, 2 , 2 , 1 , 2 
+125,Tonga, 32 , 32 , 3 , 28 
+126,Tunisia, 105 , 298 , 56 , 49 
+127,Turkey, 325 , 591 , 169 , 156 
+128,Turkmenistan, 0 , 0 , 0 , 0 
+129,Tuvalu, 4 , 4 , 1 , 3 
+130,Uganda, 247 , 308 , 141 , 106 
+131,Ukraine, 216 , 246 , 4 , 212 
+132,Uruguay, 1 , 2 , 1 , 0 
+133,Uzbekistan, 2 , 20 , 1 , 1 
+134,Vanuatu, 9 , 9 , 6 , 3 
+135,Viet Nam, 980 ," 1,334 ", 471 , 509 
+136,Wallis and Futuna, 0 , 5 , 0 , -   
+137,West Bank and Gaza Strip, 90 , 108 , 16 , 74 
+138,Yemen, 17 , 25 , 5 , 12 
+139,Zambia, 93 , 159 , 43 , 50 
+140,Zimbabwe, 120 , 136 , 108 , 12 
