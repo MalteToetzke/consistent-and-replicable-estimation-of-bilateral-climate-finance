@@ -1,4 +1,5 @@
-# consistent and replicable estimation of bilateral climate finance
+# Consistent and replicable estimation of bilateral climate finance
+Python3.8
 
 ## Install required packages: 
 pip install -r requirements.txt
@@ -12,10 +13,3 @@ Weights are stored in Code/saved_weights
 
 ## Model prediction
 Code/predict_texts/classify_projects.py uses saved weigths from model training to classify new texts from the preprocessed dataframe. Preprocessing steps can be found in Code/Preprocessing/.
-
-
-
-
-
-
-
