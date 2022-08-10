@@ -360,41 +360,5 @@ for i, prediction in enumerate(preds):
     false_preds.append(prediction)
     underlying_texts.append(test_text.tolist()[i])
 
-df_errors = pd.DataFrame(data={'_preds':false_preds,
-                               'text':underlying_texts})
-df_errors.to_csv('Relevance_test_predictions.csv')
+# Print classification report on test set
 print(classification_report(test_y, preds))
-
-
-###Appendix
-def tokenize(sentence):
-    """Tokenization"""
-    token = tokenizer.batch_encode_plus(
-        sentence,
-        max_length = 150,
-        pad_to_max_length=True,
-        truncation=True
-    )
-
-    test_seq = torch.tensor(token['input_ids'])
-    test_mask = torch.tensor(token['attention_mask'])
-    return test_seq, test_mask
-
-sentence = ['small farms get supported in learning how to use land sustainably and ensure sustainable resource consumption',
-            'coal fired plant energy generation',
-            'HIV aid prevention']
-
-test_seq, test_mask = tokenize(df_output.text.to_list())
-
-# get predictions for test data
-with torch.no_grad():
-  preds = model(test_seq.to(device), test_mask.to(device))
-  preds = preds.detach().cpu().numpy()
-
-pred_relevance = np.argmax(preds, axis = 1)
-
-
-df_output['pred_relevance']=pred_relevance
-df_output['correct_relevance'] = 'True'
-df_output['correct_relevance'][df_output.relevance!=df_output['pred_relevance']]='False'
-df_output.to_csv('train_prediction.csv', index = False)

@@ -380,11 +380,7 @@ for i, prediction in enumerate(preds):
     true_y.append(test_y[i])
     underlying_texts.append(test_text.tolist()[i])
 
-df_errors = pd.DataFrame(data={'prediction':_preds,
-                               'true_y':true_y,
-                               'text':underlying_texts})
-df_errors.to_csv('Multiclass_predictions.csv', index=False)
-
+# Print the classification report on the test set
 print(label_dict)
 print(classification_report(test_y, preds))
 with open('dictionary_classes', 'w') as f:
@@ -412,34 +408,5 @@ for pred in preds:
     else:
         preds_generic.append('Mitigation')
 
+# Print the classification report on the test set for more generic categories
 print(classification_report(test_y_generic, preds_generic))
-
-
-###Appendix
-def tokenize(sentence):
-    """Tokenization"""
-    token = tokenizer.batch_encode_plus(
-        sentence,
-        max_length = 150,
-        pad_to_max_length=True,
-        truncation=True
-    )
-
-    test_seq = torch.tensor(token['input_ids'])
-    test_mask = torch.tensor(token['attention_mask'])
-    return test_seq, test_mask
-
-test_seq, test_mask = tokenize(df_output.text.to_list())
-
-# get predictions for test data
-with torch.no_grad():
-  preds = model(test_seq.to(device), test_mask.to(device))
-  preds = preds.detach().cpu().numpy()
-
-pred_relevance = np.argmax(preds, axis = 1)
-
-df_output['label_num'] = df_output.label.replace(label_dict)
-df_output['pred_class']=pred_relevance
-df_output['correct_class'] = 'True'
-df_output['correct_class'][df_output.label_num!=df_output['pred_class']]='False'
-df_output.to_csv('train_prediction_multiclass.csv', index=False)
