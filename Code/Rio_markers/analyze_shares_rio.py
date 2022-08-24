@@ -1,6 +1,6 @@
 import pandas as pd
 
-dir_path = 'C:/Users/malte/Documents/GitHub/Climate_Finance_Bert/'
+dir_path = ''
 
 
 print(dir_path)
