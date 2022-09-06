@@ -86,9 +86,9 @@ python Code/Analysis_data/Postprocess_after_classification/postprocess_donors.py
 ## Plots (Code/Plots/)
 Scripts to plot main figures (Fig. 1 & Fig.2 in the paper) as Jupyter markdown files. 
 
-Fig1_rio_lines.ipynb: Plot all subfigures of Fig. 1. 
-Fig2_scatter.ipynb: Plot scatterplots from Fig. 2 (Fig. 2 B & C).
-woldmap.ipynb: Plot choropleth map to illustrate funding provided by contributing countries and received by recipient countries in a worldmap. 
+- Fig1_rio_lines.ipynb: Plot all subfigures of Fig. 1. 
+- Fig2_scatter.ipynb: Plot scatterplots from Fig. 2 (Fig. 2 B & C).
+- woldmap.ipynb: Plot choropleth map to illustrate funding provided by contributing countries and received by recipient countries in a worldmap. 
 
 ## Rio marker comparison (Code/Rio_markers/)
 Scripts for comparisons between ClimateFinanceBERT data and the Rio Marker annotations (from Supplementary Discussion 2 in the paper). 
@@ -99,7 +99,7 @@ python Code/Rio_markers/analyze_shares_rio.py
 # creates output dataframes used for Supplemantary Table SI. 3 & 4 (/Data/Analysis/Rio_markers/Precision_aggregated.csv & /Data/Analysis/Rio_markers/Recall_aggregated.csv)
 ```
 
-heatmap.ipynb: Jupyter markdown script to plot the heatmaps visualizing Recall and Precision between ClimateFinanceBERT and the Rio Marker annotations on contributing country level.  
+- heatmap.ipynb: Jupyter markdown script to plot the heatmaps visualizing Recall and Precision between ClimateFinanceBERT and the Rio Marker annotations on contributing country level.  
 
 ## User study (Code/Validation/)
 Comparison between annotations for adaptation projects by Weikmans et al and ClimateFinanceBERT (see Methods in the paper). 
@@ -110,7 +110,7 @@ python Code/Validation/Adaptation_Weikmans.py
 # creates output dataframe Data/Validation/Weikmans_validated.csv
 ```
 
-Evaluate_outcome.ipynb: Jupyter markdown to create output table (Supplementary Table SI. 12 in the paper) based on the output from the script above (Weikmans_validated.csv).
+- Evaluate_outcome.ipynb: Jupyter markdown to create output table (Supplementary Table SI. 12 in the paper) based on the output from the script above (Weikmans_validated.csv).
 
 
 ## User study (Code/User_Study/)
