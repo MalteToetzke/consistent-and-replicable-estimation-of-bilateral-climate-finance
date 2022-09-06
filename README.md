@@ -33,6 +33,11 @@ All data used for analysing climate finance received by contributing countries (
 ### Rio_markers: 
 All data used for comparing classifications from ClimateFinanceBERT with the Rio Marker annotations. 
 
+### Validation: 
+Outcomes from comparison between annotations by Weikmans et al., Rio Markers, and ClimateFinanceBERT. 
+
+### User_study: 
+Results from the user study comparing annotations by Rio Markers and ClimateFinanceBERT to evaluations of human respondents. 
 
 ## Usage
 
