@@ -1,0 +1,7 @@
+,ClimateFinanceBERT Categories,Mitigation Principal (RM),Mitigation Significant (RM),Adaptation Principal (RM),Adaptation Significant (RM),Climate Principal (RM),Climate Significant (RM)
+0,Mitigation,0.36,0.21,0.07,0.06,0.24,0.13
+1,Adaptation,0.11,0.12,0.40,0.19,0.25,0.16
+2,Environment,0.17,0.20,0.17,0.18,0.16,0.17
+3,Climate Finance,0.47,0.32,0.47,0.25,0.50,0.28
+4,Climate Finance including Environment,0.65,0.52,0.64,0.43,0.66,0.46
+,,0.35,0.48,0.36,0.57,0.34,0.54

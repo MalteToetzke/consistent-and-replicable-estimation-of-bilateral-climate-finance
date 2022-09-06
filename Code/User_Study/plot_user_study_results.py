@@ -9,7 +9,7 @@ dir_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 
 print(dir_path)
 
-df = pd.read_csv(dir_path+'/Data/User_study/Results/results_new_model.csv')
+df = pd.read_csv(dir_path+'/Data/User_study/results.csv')
 
 df.case[((df.ClimateAdaptation.isin([1, 2])) | (df.ClimateMitigation.isin([1, 2])))&(df.meta_category.isin(["Mitigation","Adaptation"]))]=1
 df.case[((df.ClimateAdaptation.isin([1, 2])) | (df.ClimateMitigation.isin([1, 2])))&(df.meta_category.isin(["Environment"]))]=2
