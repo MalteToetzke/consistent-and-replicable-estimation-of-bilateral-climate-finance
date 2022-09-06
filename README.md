@@ -63,14 +63,14 @@ Create the datasets (in the Data folder) to analyse climate finance flows based 
 ### Postprocessing (Code/Analyses_data/Postprocess_after_classification):
 Postprocess the long dataframe (on project level) for subsequent data analyses by grouping data by contributor, recipient, climate finanance categories, years, etc. 
 
-### Postprocess full data
+#### Postprocess full data
 Creating the meta-categories (Adaptation, Mitigation, Environment) from the output from the model prediction (classify_projects.py).
 ```shell
 python Code/Analysis_data/Postprocess_after_classification/Postprocess_full_data.py
 # overwrites output dataframe climate_finance_total.csv
 ```
 
-### Postprocess descriptives, recipients, donors:
+#### Postprocess descriptives, recipients, donors:
 Grouping the data from long output dataframe (dataframe climate_finance_total.csv) based on targeted analysis.  
 ```shell
 python Code/Analysis_data/Postprocess_after_classification/postprocess_descriptives.py # creates general descriptives dataframes in the data folder (Data/)
